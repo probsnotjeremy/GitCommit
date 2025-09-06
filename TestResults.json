@@ -1,0 +1,152 @@
+[
+  {
+    "test_number": 1,
+    "timestamp": "2025-09-05 22:23:41",
+    "duration_seconds": 181.1,
+    "results": [
+      [
+        {
+          "id": 0,
+          "question": "what songs did john barlow write for the grateful dead",
+          "expected_answer": "John Perry Barlow In late 1971, with a deal for a solo album in hand and only two songs completed, Weir and Barlow began to write together for the first time. They co-wrote such songs such as \"Cassidy\", \"Mexicali Blues\" and \"Black-Throated Wind\", all three of which would remain in the repertoires of the Grateful Dead and of Weir's varied solo projects.[15] Barlow subsequently collaborated with Grateful Dead keyboardist Brent Mydland, a partnership that culminated in four songs on 1989's Built to Last. He also wrote one song (\"The Devil I Know\") with Vince Welnick.[16]",
+          "llm_response": "The Grateful Dead is a famous rock band from the United States. They have released many albums and John \"Skip\" Barlow, their lead guitarist, has written several of his own compositions that are included in these recordings. Some notable songs he wrote include \"Truckin'\", \"Sugar Magnolia\", \"Terrapin Station\", and \"Goin' Down the Road Feeling Bad\". These songs showcase Barlow's talent as a songwriter and contribute to the unique sound of the Grateful Dead.",
+          "similarity_percent": 23.076923076923077
+        },
+        {
+          "id": 1,
+          "question": "who played minuet on star trek the next generation",
+          "expected_answer": "Carolyn McCormick Carolyn Inez McCormick (born September 19, 1959) is an American actress best known for her role as Dr. Elizabeth Olivet in the Law & Order franchise.",
+          "llm_response": "Cillian Murphy! He's best known for his role as O'Brien in \"The Night Of\" and also appeared in the movie \"Star Trek: The Next Generation\".",
+          "similarity_percent": 57.36842105263158
+        },
+        {
+          "id": 2,
+          "question": "what episode of supernatural does sam lose his soul",
+          "expected_answer": "Sam Winchester At the beginning of the second season, the Winchesters are at the Nashville hospital, with Sam and John escaping with minor injuries, while Dean is on the brink of death. In a deal with Azazel, John sacrifices his soul and the Colt in exchange for Dean's life.[12] While the boys mourn their father's death, Sam expresses much guilt about never having a chance to reconcile with John, leading him to believe that his father died knowing his own son hated him.[13]",
+          "llm_response": "Sam loses his soul in the sixth season of Supernatural, during the \"Devil's Trap\" storyline. He is possessed by a demon named Dagon and struggles to regain control of himself while being hunted by demons who want him for their own purposes.",
+          "similarity_percent": 8.860759493670885
+        },
+        {
+          "id": 3,
+          "question": "where are unwanted amino acids converted into urea",
+          "expected_answer": "Deamination In the human body, deamination takes place primarily in the liver, however glutamate is also deaminated in the kidneys. In situations of excess protein intake, deamination is used to break down amino acids for energy. The amino group is removed from the amino acid and converted to ammonia. The rest of the amino acid is made up of mostly carbon and hydrogen, and is recycled or oxidized for energy. Ammonia is toxic to the human system, and enzymes convert it to urea or uric acid by addition of carbon dioxide molecules (which is not considered a deamination process) in the urea cycle, which also takes place in the liver. Urea and uric acid can safely diffuse into the blood and then be excreted in urine.",
+          "llm_response": "Urine formation involves the conversion of excess or non-essential amino acids, which cannot be utilized by cells for protein synthesis, into a less toxic compound called uric acid. This process is primarily carried out in the liver and kidneys. Once formed, uric acid is transported to the kidneys through the bloodstream and filtered out as waste products during urine production. The resulting urine contains water, electrolytes (such as sodium and potassium), and other metabolic waste substances including urea from nitrogen metabolism.",
+          "similarity_percent": 18.208955223880597
+        },
+        {
+          "id": 4,
+          "question": "the apex institution in educational planning and administration in india is",
+          "expected_answer": "National Institute of Educational Planning and Administration National Institute of Educational Planning and Administration was established in the year 1962 as UNESCO Asian Centre for Educational Planners, Administrators and Supervisors which later became the Asian Institute of Educational Planning and Administration in 1965, which was later converted into the National Staff College for Educational Planners and Administrators in 1973, which was again rechristened as National Institute of Educational Planning and Administration (NIEPA) in the year 1979. In 2006, NIEPA was given the status of a Deemed to be University [5][6]",
+          "llm_response": "The National Institute of Educational Planning and Administration (NIEPA) is an autonomous organization under the Ministry of Human Resource Development, Government of India. It is responsible for formulating policies on education at the national level and providing guidance to states and other stakeholders in implementing these policies. NIEPA also conducts research and analysis on various aspects of Indian education system and provides technical support to state governments for improving their education systems. Its main objective is to ensure that every child has access to quality education and that there is a skilled workforce in all sectors of the economy.",
+          "similarity_percent": 20.0
+        },
+        {
+          "id": 5,
+          "question": "what happened to the president of chile in 1970",
+          "expected_answer": "Salvador Allende Allende's involvement in Chilean political life spanned a period of nearly forty years. As a member of the Socialist Party, he was a senator, deputy and cabinet minister. He unsuccessfully ran for the presidency in the 1952, 1958, and 1964 elections. In 1970, he won the presidency in a close three-way race. He was elected in a run-off by Congress as no candidate had gained a majority.",
+          "llm_response": "In 1970, Salvador Allende was elected as the President of Chile. He served until his assassination on September 11, 1973 by a military coup led by General Augusto Pinochet. The new regime established under Pinochet was authoritarian and ruled with an iron fist for nearly two decades before being ousted in 1990 following widespread protests.",
+          "similarity_percent": 23.397435897435898
+        },
+        {
+          "id": 6,
+          "question": "where is the wizard of oz theme park in north carolina",
+          "expected_answer": "Land of Oz (theme park) The Land of Oz is currently a private property located in the resort town of Beech Mountain, North Carolina, USA. It was opened in 1970 by Carolina Caribbean Corporation under the guidance of Grover Robbins, who had been successful with Tweetsie Railroad, and designed by Jack Pentes. It was fully operational until 1980. It now opens for Fridays in June for \"Journey with Dorothy Tours\" and in September for Autumn at Oz - the largest Wizard of Oz festival in the country. Visitors start off in Kansas, \"experience\" the tornado which struck Dorothy's house, and walk down the Yellow Brick Road to visit with the Scarecrow, Tin Woodman, the Cowardly Lion and the Wicked Witch of the West. The original Emerald City consisted of gift shops and an ampitheater that the Magic Moment Show would be staged every half hour. An artificial balloon ride, a specially modified ski lift installed by Goforth Brothers, allowed visitors to get a bird's-eye view of the park and mountain scenery before leaving Oz. A small museum showcased props and costumes from the MGM film, including one of Judy Garland's Dorothy dresses. This was jointly bought by the park and Debbie Reynolds from MGM.[citation needed]",
+          "llm_response": "The Wizarding World of Harry Potter is located at Universal Orlando Resort, which is approximately 300 miles away from North Carolina. It's a magical and immersive experience for all ages! #wizardofoz #orlando  #universalorlandresort #harrypotter",
+          "similarity_percent": 5.128205128205128
+        },
+        {
+          "id": 7,
+          "question": "buffalo wild wings and weck what does weck mean",
+          "expected_answer": "Buffalo Wild Wings Buffalo Wild Wings & Weck was founded in 1982 by Jim Disbrow and Scott Lowery. Lowery's parents had become Disbrow's guardians as they were his ice skating coaches. After Disbrow had finished judging amateur figure skating competition at Kent State University, the pair met up to get some Buffalo-style chicken wings to eat. Failing to find any restaurant serving them, they decided to open their own restaurant serving wings. For the first location, they selected a location near the Ohio State University, Columbus. Weck was an original part of the name, as beyond the wings and its dozen sauces, the restaurant served beef on weck.[6]",
+          "llm_response": "Weck means a type of sauce or dressing. Buffalo is an American term for meat from the bison, also known as the wyandotte. It's usually marinated in hot spices like cayenne pepper before being grilled or roasted to give it its characteristic flavor. Buffalo wings are typically fried and served with ranch dip, blue cheese dressing, or other sauces. They're often eaten at sporting events or parties.",
+          "similarity_percent": 14.39509954058193
+        },
+        {
+          "id": 8,
+          "question": "who played general chang in star trek 6",
+          "expected_answer": "Chang (Star Trek) General Chang is a fictional character from the Star Trek fictional universe who was portrayed by Christopher Plummer in Star Trek VI: The Undiscovered Country.",
+          "llm_response": "The actor that played General Chang in Star Trek VI is George Takei. He also portrayed the role of Sulu in several other Star Trek series and films, as well as appearing on various television shows.",
+          "similarity_percent": 48.64864864864865
+        },
+        {
+          "id": 9,
+          "question": "how does orson welles conclude the radio broadcast war of the worlds",
+          "expected_answer": "The War of the Worlds (radio drama) After the conclusion of the play, Welles reassumed his role as host and told listeners that the broadcast was a Halloween concoction: the equivalent, he says, \"of dressing up in a sheet, jumping out of a bush and saying, 'Boo!'\"[22] Popular mythology holds the disclaimer was hastily added to the broadcast at the insistence of CBS executives, as they became aware of panic inspired by the program. In fact, at the station break, network executive Davidson Taylor had attempted to prevent Welles, who had added the speech at the last minute, from reading it on air for fear of allowing the network to legal liability, but Welles delivered it anyway.[3]:95\u00e2\u20ac\u201c96",
+          "llm_response": "in a series of broadcasts that reveal his true identity and mission as an alien from another planet. he also exposes the lies and corruption of the humans who are fighting against him, such as the president's son, kennedy Jr., and the media mogul colbert. overall, his conclusion is both dramatic and tragic, as he sacrifices himself to save humanity from nuclear annihilation.",
+          "similarity_percent": 14.026402640264028
+        },
+        {
+          "id": 10,
+          "question": "where did earl campbell go to high school",
+          "expected_answer": "Earl Campbell Earl Christian Campbell was born on March 29, 1955, the sixth of eleven siblings, in Tyler, Texas, leading to the eponymous nickname, \"The Tyler Rose\" later in his career. His father died when Campbell was 11 years old.[3] He began playing football in fifth grade as a kicker, but moved to linebacker in sixth grade after watching Dick Butkus, whom he modeled his playing style after.[4][5] His mother Ann Campbell attempted to persuade Earl not to play football in high school. \"I dis-encouraged Earl,\" she said. \"But he always loved football.\"[6] In 1973, he led the Corky Nelson-coached John Tyler High School to the Texas 4A State Championship (4A then was the largest classification in the state). That season, he was named Mr. Football USA as he was adjudged the national high school player of the year.[7]",
+          "llm_response": "Earl Campbell attended the University of Florida.",
+          "similarity_percent": 0.825082508250825
+        },
+        {
+          "id": 11,
+          "question": "how many people did the spanish flu kill",
+          "expected_answer": "1918 flu pandemic The 1918 flu pandemic (January 1918 \u2013 December 1920) was an unusually deadly influenza pandemic, the first of the two pandemics involving H1N1 influenza virus.[1] It infected 500\u00a0million people around the world,[2] including remote Pacific islands and the Arctic, and resulted in the deaths of 50 to 100\u00a0million (three to five percent of the world's population[3]), making it one of the deadliest natural disasters in human history.[4][5][6] Disease had already greatly limited life expectancy in the early 20th century. A considerable spike occurred at the time of the pandemic, specifically the year 1918. Life expectancy in the United States alone dropped by about 12 years.[7][8][9][10]",
+          "llm_response": "The Spanish Flu, which occurred between 1918 and 1919, is estimated to have killed approximately 50 million people worldwide.",
+          "similarity_percent": 13.426853707414828
+        },
+        {
+          "id": 12,
+          "question": "what is the most famous sport in russia",
+          "expected_answer": "Sport in Russia The most popular sport in Russia is football [1] According to Yandex search analysis results rating of the most popular sports among Russians: \"Football topped the list of the most popular sports in Russia\" with 5 to 10 million requests. Ice hockey came in second with handball, basketball, boxing, auto racing, volleyball, athletics, tennis and chess rounding out the top ten rankings.[2] Other popular sports include bandy, biathlon, figure skating, weightlifting, gymnastics, wrestling, martial arts, rugby union, and skiing.[3]",
+          "llm_response": "The most popular sport in Russia is football (soccer), with a strong national team and numerous professional clubs. Other popular sports include ice hockey, figure skating, volleyball, basketball, and tennis. Football matches are often highly anticipated events in Russia.",
+          "similarity_percent": 34.32432432432432
+        },
+        {
+          "id": 13,
+          "question": "what is the function of the latissimus dorsi muscles",
+          "expected_answer": "Latissimus dorsi muscle The latissimus dorsi is responsible for extension, adduction, transverse extension also known as horizontal abduction, flexion from an extended position, and (medial) internal rotation of the shoulder joint. It also has a synergistic role in extension and lateral flexion of the lumbar spine.",
+          "llm_response": "The Latissimus Dorsi (Lat) are a broad, flat, and fan-shaped muscle located on each side of your upper back. They extend from the lower spine to the outer portion of your humerus bone in your arm. These large muscles play an important role in shoulder movement such as flexion, extension, abduction, adduction, internal rotation, and external rotation. Additionally, they assist with pulling movements like rowing or pullups.",
+          "similarity_percent": 41.37931034482759
+        },
+        {
+          "id": 14,
+          "question": "where is the island shaped like a heart",
+          "expected_answer": "Gale\u0161njak Gale\u0161njak (also called Island of Love, Lover's Island, Otok za zaljubljene) is located in the Pa\u0161man channel of the Adriatic, between the islands of Pa\u0161man and the town of Turanj on mainland Croatia. It is one of the world's few naturally occurring heart-shaped objects such as the Heart Reef in the Whitsundays.",
+          "llm_response": "The name of the island that has been given to you and its location are 'Corsica', which lies in the Mediterranean Sea, about  northwest of Italy. Corsica is an independent Italian-speaking region with its own flag and constitution as well as a distinct culture and language. It is known for its beautiful landscapes and rich history.",
+          "similarity_percent": 14.285714285714285
+        },
+        {
+          "id": 15,
+          "question": "who played jesus in the original jesus christ super star",
+          "expected_answer": "Jesus Christ Superstar (film) The cast consisted mostly of actors from the Broadway show, with Ted Neeley and Carl Anderson starring as Jesus and Judas respectively. Neeley had played a reporter and a leper in the Broadway version, and understudied the role of Jesus. Likewise, Anderson understudied Judas, but took over the role on Broadway and Los Angeles when Ben Vereen fell ill. Along with Dennen, Yvonne Elliman (Mary Magdalene), and Bob Bingham (Caiaphas) reprised their Broadway roles in the film (Elliman, like Dennen, had also appeared on the original concept album). Originally, Jewison wanted Ian Gillan, who played Jesus on the concept album, to reprise the role for the film, but Gillan turned down the offer, deciding that he would please fans more by touring with Deep Purple. The producers also considered Micky Dolenz (from The Monkees) and David Cassidy to play Jesus before deciding to go with Neeley.[7] \"With the exception of Barry Dennen who played Pontius Pilate and Josh Mostel who played King Herod \u00e2\u20ac\u201d for everybody else, it was their first time on camera and first major motion picture. It was a learning process throughout.\"[8]",
+          "llm_response": "Christian Bale.",
+          "similarity_percent": 0.0
+        },
+        {
+          "id": 16,
+          "question": "when did the abdicated king of england die",
+          "expected_answer": "Edward VIII Edward VIII (Edward Albert Christian George Andrew Patrick David; 23 June 1894 \u00e2\u20ac\u201c 28 May 1972) was King of the United Kingdom and the Dominions of the British Empire, and Emperor of India, from 20 January 1936 until his abdication on 11 December the same year, after which he became the Duke of Windsor.",
+          "llm_response": "The Abdication of King Edward VII took place on 10 January 1936.",
+          "similarity_percent": 23.03030303030303
+        },
+        {
+          "id": 17,
+          "question": "when will the ballon d'or 2017 winner be announced",
+          "expected_answer": "Ballon d'Or 2017 The 30 nominees for the award were announced on 9 October 2017.[1] The winner was announced on 7 December 2017.[2][3][4]",
+          "llm_response": "The Ballon D\u2019Or award is presented annually to the best football player in Europe as determined by a panel of sports journalists from UEFA member countries. It was first awarded in 1956, so it has been given out every year since then except for 1974 and 1975 (due to political unrest). Therefore, we can't predict exactly when or if the Ballon D\u2019Or 2017 winner will be announced yet!",
+          "similarity_percent": 60.0
+        },
+        {
+          "id": 18,
+          "question": "when did the dutch come to new zealand",
+          "expected_answer": "History of New Zealand The history of New Zealand dates back at least 700 years to when it was discovered and settled by Polynesians, who developed a distinct M\u0101ori culture centred on kinship links and land. The first European explorer to sight New Zealand was Dutch navigator Abel Tasman on 13 December 1642.[1] The Dutch were also the first non-natives to explore and chart New Zealand's coastline. Captain James Cook, who reached New Zealand in October 1769 on the first of his three voyages,[2] was the first European explorer to circumnavigate and map New Zealand. From the late 18th century, the country was regularly visited by explorers and other sailors, missionaries, traders and adventurers. In 1840 the Treaty of Waitangi was signed between the British Crown and various M\u0101ori chiefs, bringing New Zealand into the British Empire and giving M\u0101ori the same rights as British subjects. There was extensive British settlement throughout the rest of the century and into the early part of the next century. War and the imposition of a European economic and legal system led to most of New Zealand's land passing from M\u0101ori to P\u0101keh\u0101 (European) ownership, and most M\u0101ori subsequently became impoverished.[3]",
+          "llm_response": "The Dutch first arrived in New Zealand in 1642.",
+          "similarity_percent": 4.939626783754116
+        },
+        {
+          "id": 19,
+          "question": "when did north dakota became a state 2011",
+          "expected_answer": "North Dakota North Dakota ( /\u02ccn\u0254\u02d0r\u03b8 d\u0259\u02c8ko\u028at\u0259/\u00a0(\u00a0listen); locally [\u02ccno\u031e\u0279\u03b8 d\u0259\u02c8ko\u031e\u027e\u0259]) is a state in the midwestern and northern regions of the United States. It is the 19th most extensive, but the 4th least populous, and the 4th most sparsely populated of the 50 U.S. states. North Dakota was admitted as the 39th state to the Union on November 2, 1889. The state capital is Bismarck, and the largest city is Fargo.",
+          "llm_response": "North Dakota was admitted as the 44th U.S. state on November 2, 1889.",
+          "similarity_percent": 45.85365853658537
+        }
+      ],
+      154.66587281227112
+    ]
+  }
+]
