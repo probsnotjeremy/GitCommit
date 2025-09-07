@@ -148,5 +148,339 @@
       ],
       154.66587281227112
     ]
+  },
+  {
+    "test_number": 2,
+    "timestamp": "2025-09-07 12:08:46",
+    "duration_seconds": 166.66,
+    "results": [
+      {
+        "id": 0,
+        "question": "what do the four lions in trafalgar square represent",
+        "expected_answer": "Trafalgar Square Nelson's Column was planned independently of Barry's work. In 1838 a Nelson Memorial Committee had approached the government proposing that a monument to the victor of Trafalgar, funded by public subscription, should be erected in the square. A competition was held and won by the architect William Railton, who proposed a 218\u00a0feet 3\u00a0inches (66.52\u00a0m) Corinthinan column topped by a statue of Nelson and guarded by four sculpted lions. The design was approved, but received widespread objections from the public. Construction went ahead beginning in 1840 but with the height reduced to 145\u00a0feet 3\u00a0inches (44.27\u00a0m).[27] The column was completed and the statue raised in November 1843.[28]",
+        "llm_response": "The four lions in Trafalgar Square, London represent the four great powers of the British Empire at the time of its creation: Great Britain, France, Russia and China. It is a symbol of their combined might.",
+        "similarity_wordnet": 4.02,
+        "similarity_semantic": 37.13
+      },
+      {
+        "id": 1,
+        "question": "where were the original planet of the apes filmed",
+        "expected_answer": "Planet of the Apes (1968 film) The script was originally written by Rod Serling, but underwent many rewrites before filming eventually began.[4] Directors J. Lee Thompson and Blake Edwards were approached, but the film's producer Arthur P. Jacobs, upon the recommendation of Charlton Heston, chose Franklin J. Schaffner to direct the film. Schaffner's changes included an ape society less advanced\u2014and therefore less expensive to depict\u2014than that of the original novel.[3] Filming took place between May 21 and August 10, 1967, in California, Utah and Arizona, with desert sequences shot in and around Lake Powell, Glen Canyon National Recreation Area. The film's final \"closed\" cost was $5.8 million.",
+        "llm_response": "The original location for filming \"Planet of the Apes\" was on a set that replicated a jungle environment. However, due to budget constraints and logistical difficulties in accessing certain locations, scenes had to be shot at alternate sites or recreated digitally. Some iconic moments from the film also took place outside of traditional studio settings. For example, the famous scene involving Caesar's confrontation with General Gordon was actually filmed near San Francisco Bay. Additionally, some interior shots were done using practical effects like matte paintings and miniatures instead of actual sets. Despite these challenges, the filmmakers managed to create an immersive world that captivated audiences worldwide.",
+        "similarity_wordnet": 43.87,
+        "similarity_semantic": 60.02
+      },
+      {
+        "id": 2,
+        "question": "where does stu get married in the hangover",
+        "expected_answer": "The Hangover Part II The Hangover Part II is a 2011 American comedy film produced by Legendary Pictures and distributed by Warner Bros. Pictures. It is the sequel to the 2009 film The Hangover and the second installment in The Hangover trilogy. Directed by Todd Phillips, who co-wrote the script with Craig Mazin and Scot Armstrong, the film stars Bradley Cooper, Ed Helms, Zach Galifianakis, Ken Jeong, Jeffrey Tambor, Justin Bartha, and Paul Giamatti. It tells the story of Phil, Stu, Alan, and Doug as they travel to Thailand for Stu's wedding. After the bachelor party in Las Vegas, Stu takes no chances and opts for a safe, subdued pre-wedding brunch. Things do not go as planned, resulting in another bad hangover with no memories of the previous night.",
+        "llm_response": "The movie is \"Stuart Little\" and the character who gets married at the end of the story is Stuart, played by Jim Carrey.",
+        "similarity_wordnet": 10.33,
+        "similarity_semantic": 27.18
+      },
+      {
+        "id": 3,
+        "question": "who did ali fight in the rumble in the jungle",
+        "expected_answer": "The Rumble in the Jungle The Rumble in the Jungle was a historic boxing event in Kinshasa, Zaire (now Democratic Republic of the Congo) on October 30, 1974 (at 4:00 am). Held at the 20th of May Stadium (now the Stade Tata Rapha\u00ebl), it pitted the undefeated world heavyweight champion George Foreman against challenger Muhammad Ali, a former heavyweight champion; the attendance was 60,000. Ali won by knockout, putting Foreman down just before the end of the eighth round. It has been called \"arguably the greatest sporting event of the 20th century\".[3] The event was one of Don King's first ventures as a professional boxing promoter.",
+        "llm_response": "Ali fought in the Rumble in the Jungle.",
+        "similarity_wordnet": 2.17,
+        "similarity_semantic": 66.01
+      },
+      {
+        "id": 4,
+        "question": "of the four galilean moons which is the closest to jupiter",
+        "expected_answer": "Galilean moons Io (Jupiter I) is the innermost of the four Galilean moons of Jupiter and, with a diameter of 3642\u00c2\u00a0kilometers, the fourth-largest moon in the Solar System. It was named after Io, a priestess of Hera who became one of the lovers of Zeus. Nevertheless, it was simply referred to as \"Jupiter I\", or \"The first satellite of Jupiter\", until the mid-20th century.[11]",
+        "llm_response": "The moon Io (of Jupiter) is the closest celestial body to Jupiter.",
+        "similarity_wordnet": 5.88,
+        "similarity_semantic": 67.38
+      },
+      {
+        "id": 5,
+        "question": "how did fragile x syndrome get its name",
+        "expected_answer": "Fragile X syndrome Fragile X syndrome is typically due to an expansion of the CGG triplet repeat within the Fragile X mental retardation 1 (FMR1) gene on the X chromosome.[1] This results in not enough fragile X mental retardation protein (FMRP), which is required for normal development of the connection between neurons.[1] Diagnosis is by genetic testing to determine the number of CGG repeats in the FMRI gene.[3] Normal is between 5 and 40 repeats, fragile X syndrome occurs with more than 200, and a premutation is said to be present when a middle number of repeats occur.[1] Testing for premutation carriers may allow for genetic counseling.[3]",
+        "llm_response": "The term \"fragile X\" comes from the appearance of an enlarged, fragile-looking nucleus in cells affected by the condition. This abnormal structure is caused by a mutation or deletion on the X chromosome that affects the gene FMR1 (Fragile X Mental Retardation 1).",
+        "similarity_wordnet": 11.87,
+        "similarity_semantic": 71.63
+      },
+      {
+        "id": 6,
+        "question": "what air force base is in del rio texas",
+        "expected_answer": "Laughlin Air Force Base Laughlin Air Force Base (IATA: DLF, ICAO: KDLF, FAA LID: DLF) is a facility of the United States Air Force located in Del Rio, Texas. As a census-designated place, it had a population of 1,648 at the 2015 census.[1]",
+        "llm_response": "The name of the airport nearest to Del Rio, Texas is Del Rio International Airport.",
+        "similarity_wordnet": 1.44,
+        "similarity_semantic": 43.76
+      },
+      {
+        "id": 7,
+        "question": "when did the original sound of music come out",
+        "expected_answer": "The Sound of Music The original Broadway production, starring Mary Martin and Theodore Bikel, opened in 1959[1] and won five Tony Awards, including Best Musical, out of nine nominations. The first London production opened at the Palace Theatre in 1961. The show has enjoyed numerous productions and revivals since then. It was adapted as a 1965 film musical starring Julie Andrews and Christopher Plummer, which won five Academy Awards. The Sound of Music was the last musical written by Rodgers and Hammerstein; Oscar Hammerstein died of cancer nine months after the Broadway premiere.",
+        "llm_response": "The origins and evolution of different genres can be traced back to various periods in history. For example, classical music has its roots in ancient civilizations such as Greece and Rome, while jazz emerged from African American communities in the late 19th century. Rock 'n' roll developed in the United States during the 1950s. It's important to note that musical styles are constantly evolving, so it may not always be possible to pinpoint an exact date for their inception. However, understanding the historical context can provide valuable insights into how different sounds came together over time.",
+        "similarity_wordnet": 20.09,
+        "similarity_semantic": 32.04
+      },
+      {
+        "id": 8,
+        "question": "what makes a percussion instrument a percussion instrument",
+        "expected_answer": "Percussion instrument A percussion instrument is a musical instrument that is sounded by being struck or scraped by a beater (including attached or enclosed beaters or rattles); struck, scraped or rubbed by hand; or struck against another similar instrument. The percussion family is believed to include the oldest musical instruments, following the human voice.[1]",
+        "llm_response": "A percussion instrument is an object that produces sound through being struck, shaken, or scraped. Examples of percussion instruments include drums, cymbals, tambourines, maracas, xylophones, and marimbas. Percussion instruments are typically used to provide the rhythm and tempo for music. They can be played with hands, sticks, mallets, brushes, or other tools. Some percussion instruments produce sustained sounds while others have more transient tones. The tone produced by a percussion instrument depends on factors such as size, material, shape, and technique. Percussion instruments play a crucial role in creating rhythmic patterns and adding depth to musical compositions.",
+        "similarity_wordnet": 25.64,
+        "similarity_semantic": 83.26
+      },
+      {
+        "id": 9,
+        "question": "how many members are there in constituent assembly of india",
+        "expected_answer": "Constituent Assembly of India An idea for a Constituent Assembly of India was proposed in 1934 by M. N. Roy, a pioneer of the Communist movement in India and an advocate of radical democracy. It became an official demand of the Indian National Congress in 1935, C. Rajagopalachari voiced the demand for a constituent Assembly on 15 November 1939 based on adult franchise, and was accepted by the British in August 1940. On 8 August 1940, a statement was made by Viceroy Lord Linlithgow about the expansion of the Governor-General's Executive Council and the establishment of a War Advisory Council. This offer, known as the August Offer, included giving full weight to minority opinions and allowing Indians to draft their own constitution. Under the Cabinet Mission Plan of 1946, elections were held for the first time for the Constituent Assembly. The Constitution of India was drafted by the Constituent Assembly, and it was implemented under the Cabinet Mission Plan on 16 May 1946. The members of the Constituent Assembly were elected by the provincial assemblies by a single, transferable-vote system of proportional representation. The total membership of the Constituent Assembly was 389: 292 were representatives of the states, 93 represented the princely states and four were from the chief commissioner provinces of Delhi, Ajmer-Merwara, Coorg (Near Madikeri) and British Baluchistan.",
+        "llm_response": "The Indian Constituent Assembly had 389 members.",
+        "similarity_wordnet": 5.5,
+        "similarity_semantic": 63.6
+      },
+      {
+        "id": 10,
+        "question": "when do you get an extra life in pacman",
+        "expected_answer": "Pac-Man The player controls Pac-Man through a maze of various dots, known as Pac-Dots, as well as four multi-colored ghosts: Blinky, Pinky, Inky, and Clyde. The goal of the game is to consume all the Pac-Dots in a stage in order to proceed to the next one. Between some stages, one of three intermission animations plays.[23] The four ghosts roam the maze, trying to kill Pac-Man. If any of the ghosts touch Pac-Man, he loses a life; when all lives have been lost, the game ends. Pac-Man is awarded a single bonus life at 10,000 points by default\u00e2\u20ac\u201dDIP switches inside the machine can change the required points to 15,000 or 20,000, or disable the bonus life altogether. The number of lives can be set to 1 life only or up to five lives maximum. High score cannot exceed 999,990 points; players may exceed that score, but the game keeps the last 6 digits.",
+        "llm_response": "You can often receive an extra life in Pac-Man if you collect all the dots or reach a certain score on the game board.",
+        "similarity_wordnet": 14.72,
+        "similarity_semantic": 76.88
+      },
+      {
+        "id": 11,
+        "question": "on the west coast of india goa was established as a small trading post by what colonial power",
+        "expected_answer": "History of Goa The Portuguese set up a base in Goa to consolidate their control of the lucrative spice trade. Goods from all parts of the East were displayed in its bazaar, and separate streets were designated for the sale of different classes of goods: Bahrain pearls and coral, Chinese porcelain and silk, Portuguese velvet and piece-goods, and drugs and spices from the Malay Archipelago.",
+        "llm_response": "Portugal.",
+        "similarity_wordnet": 0.0,
+        "similarity_semantic": 24.68
+      },
+      {
+        "id": 12,
+        "question": "when did bharat got its name as india",
+        "expected_answer": "India The name India is derived from Indus, which originates from the Old Persian word Hindu.[19] The latter term stems from the Sanskrit word Sindhu, which was the historical local appellation for the Indus River.[20] The ancient Greeks referred to the Indians as Indoi (\u1f38\u03bd\u03b4\u03bf\u03af), which translates as \"The people of the Indus\".[21]",
+        "llm_response": "India was known by various names before it became the Republic of India in 1950. Some of these were Bharata, Bhumi, and Hindustan. The name \"India\" comes from the Sanskrit word \"Indra\", which means king or ruler. It is believed that Indra used to live on a hill called Takshashila in present-day Pakistan. This place was also known for being one of the centers of learning and culture in ancient times.",
+        "similarity_wordnet": 36.84,
+        "similarity_semantic": 73.62
+      },
+      {
+        "id": 13,
+        "question": "who wrote the song you will be my music",
+        "expected_answer": "My Heart Will Go On \"My Heart Will Go On\", also called the \"Love Theme from Titanic\", is the main theme song to James Cameron's blockbuster film Titanic. Its music was composed by James Horner, its lyrics were written by Will Jennings, and it was produced by Walter Afanasieff and Simon Franglen,[1] recorded by Canadian singer Celine Dion, and released in 1997.[2]",
+        "llm_response": "No one knows the answer to that question. The lyrics are a mystery, and so is their origin. Maybe they were inspired by someone else's life or dreams. Or maybe they just wanted to keep it simple and original. Who cares? As long as I can sing along with them, I'm happy. They're catchy, upbeat, and fun. And sometimes, that's all we need in this world of chaos and uncertainty. So here goes nothing! \ud83c\udfa4\ud83d\udd0a",
+        "similarity_wordnet": 27.92,
+        "similarity_semantic": 22.28
+      },
+      {
+        "id": 14,
+        "question": "who was the leading scorer in the mavs game 1 win in the 2006 nba finals",
+        "expected_answer": "2006 NBA Finals Dallas' Jason Terry scored a playoff-high 32 points as the Mavericks overcame a 31\u00e2\u20ac\u201c23 deficit at the end of the first quarter.",
+        "llm_response": "Tim Duncan, with 29 points.",
+        "similarity_wordnet": 0.0,
+        "similarity_semantic": 56.53
+      },
+      {
+        "id": 15,
+        "question": "where does the ramirez last name come from",
+        "expected_answer": "Ram\u00edrez (surname) Ram\u00c3\u00adrez is a patronymic Spanish surname meaning \"son of Ramiro\". Its correct spelling in Spanish is with an acute accent on the i, which is often omitted in English writing. It is the 28th most common surname in Spain. It is also the 42nd most common surname in the U.S. and the 9th most common in Mexico.",
+        "llm_response": "The Ramirez surname is of Spanish origin. It originated in Spain and has been adopted by many people around the world, particularly those with Hispanic or Latin American ancestry. The name itself means \"son of Ramirio,\" a given name that was popular during medieval times. Today, it can be found throughout Europe, North America, South America, and other parts of the globe. Notable individuals with this surname include professional athletes, actors, politicians, and more.",
+        "similarity_wordnet": 14.01,
+        "similarity_semantic": 83.74
+      },
+      {
+        "id": 16,
+        "question": "when will there be a new episode of the handmaids tale",
+        "expected_answer": "The Handmaid's Tale (TV series) The first three episodes of the series premiered on April 26, 2017, with the subsequent seven episodes added on a weekly basis every Wednesday. In May 2017, it was renewed for a second season to premiere in 2018. The series garnered extremely positive reviews and won the 2017 Primetime Emmy Award for Outstanding Drama Series, along with seven other Emmy Awards from thirteen nominations.",
+        "llm_response": "There is no scheduled release date for any new episodes or seasons. The Handmaid's Tale has ended after its ninth season, which aired in 2019-2020 and concluded with the series finale titled \"The Testaments\". Fans can still rewatch all available episodes on various streaming platforms such as Hulu and Amazon Prime Video. Additionally, creator Bruce Miller released a documentary film called \"Handmade\" that explores his experiences creating the show and provides insights into the themes and characters.",
+        "similarity_wordnet": 10.87,
+        "similarity_semantic": 84.68
+      },
+      {
+        "id": 17,
+        "question": "are the kidneys located in the inguinal region of the abdomen",
+        "expected_answer": "Abdomen Functionally, the human abdomen is where most of the alimentary tract is placed and so most of the absorption and digestion of food occurs here. The alimentary tract in the abdomen consists of the lower esophagus, the stomach, the duodenum, the jejunum, ileum, the cecum and the appendix, the ascending, transverse and descending colons, the sigmoid colon and the rectum. Other vital organs inside the abdomen include the liver, the kidneys, the pancreas and the spleen.",
+        "llm_response": "False. The kidneys are not located in the inguinal region of the abdomen; they are situated on either side of the spine, just below the rib cage and above the waistline. They play a vital role in filtering waste products from the blood and regulating fluid balance within the body. Inguinal hernias occur when an organ or tissue protrudes through a weak spot in the abdominal wall near the groin area but do not involve the location of the kidneys themselves.",
+        "similarity_wordnet": 21.7,
+        "similarity_semantic": 58.88
+      },
+      {
+        "id": 18,
+        "question": "does naruto shippuden still air on disney xd",
+        "expected_answer": "List of Naruto: Shippuden episodes While Naruto: Shippuden was cancelled on Disney XD on November 5, 2011 after 98 episodes,[9] DVD box sets generally containing thirteen dubbed episodes from episode 1 onward are being released quarterly in their uncut format.[10][11] The English dub was streamed on Neon Alley from its launch in October 2012 and, beginning December 29, 2012 with episode 98, new episodes were released every week uncut until September 26, 2015. Toonami began airing the series from the beginning on January 4, 2014 in an uncut format.[12]",
+        "llm_response": "Yes, Naruto Shippuden is currently airing on Disney XD. It has been running since 2011 and continues to be a popular show among children and adults alike for its engaging storyline and dynamic characters.",
+        "similarity_wordnet": 13.54,
+        "similarity_semantic": 71.95
+      },
+      {
+        "id": 19,
+        "question": "who plays victoria newman on young and the restless",
+        "expected_answer": "Amelia Heinle Amelia Heinle Luckinbill (n\u00e9e Amelia March Heinle, formerly Weatherly;[1] born March 17,[2] 1973) is an American actress best known for her roles in American soap operas.",
+        "llm_response": "Emma Watson.",
+        "similarity_wordnet": 0.0,
+        "similarity_semantic": 25.33
+      }
+    ]
+  },
+  {
+    "test_number": 3,
+    "timestamp": "2025-09-07 12:13:06",
+    "duration_seconds": 147.41,
+    "results": [
+      {
+        "id": 0,
+        "question": "where does the last name joyce come from",
+        "expected_answer": "Joyce (name) The name Joyce is a contemporary given-name used for females and rarely used by males. As a family-name, it derived from the Old French Masculine name Josse, which derived from the Latin name Iudocus, the Latinized form of the Breton name Judoc meaning \"lord\". The name became rare after the 14th century, but later revived as a female given-name, which derived from the Middle English joise meaning \"rejoice\". [1]",
+        "llm_response": "Joyce is a surname of English origin. It can be derived from two sources: 1) Joan, which was a popular female given name in medieval times; 2) Joyas, which means \"joys\" or \"gladness\". The surname may have been used to indicate that someone had a cheerful personality or a happy disposition.",
+        "similarity_wordnet": 29.32,
+        "similarity_semantic": 72.97
+      },
+      {
+        "id": 1,
+        "question": "difference between russian blue and british blue cat",
+        "expected_answer": "Russian Blue The coat is known as a \"double coat\", with the undercoat being soft, downy and equal in length to the guard hairs, which are an even blue with silver tips. However, the tail may have a few very dull, almost unnoticeable stripes. The coat is described as thick, plush and soft to the touch. The feeling is softer than the softest silk. The silver tips give the coat a shimmering appearance. Its eyes are almost always a dark and vivid green. Any white patches of fur or yellow eyes in adulthood are seen as flaws in show cats.[3] Russian Blues should not be confused with British Blues (which are not a distinct breed, but rather a British Shorthair with a blue coat as the British Shorthair breed itself comes in a wide variety of colors and patterns), nor the Chartreux or Korat which are two other naturally occurring breeds of blue cats, although they have similar traits.",
+        "llm_response": "The main differences are that Russian Blue is a breed of domestic short-haired cat with an elegant, silvery-blue fur color while British Blues can have different colors such as tortoiseshell or calico. Additionally, Russian Blue cats tend to be more reserved and independent compared to the energetic and playful nature of British Blue cats.",
+        "similarity_wordnet": 23.87,
+        "similarity_semantic": 75.76
+      },
+      {
+        "id": 2,
+        "question": "who is the singer of sing me to sleep",
+        "expected_answer": "Sing Me to Sleep \"Sing Me to Sleep\" is a song by Norwegian record producer and DJ Alan Walker. Incorporating uncredited vocals provided by Norwegian recording artist Iselin Solheim, it was released commercially for digital consumption on 3 June 2016.[3] Upon release, the recording was generally acclaimed by music critics, with several noticing similarities to the style of its predecessor, \"Faded\".[4]",
+        "llm_response": "The singer of \"Sing Me To Sleep\" is Demi Lovato.",
+        "similarity_wordnet": 2.12,
+        "similarity_semantic": 60.46
+      },
+      {
+        "id": 3,
+        "question": "is western power and synergy the same company",
+        "expected_answer": "Synergy (electricity corporation) Synergy is a corporation owned by the Government of Western Australia. Synergy, Verve Energy, Horizon Power and Western Power were created in 2006 as a result of the breakup (disaggregation) of Western Power Corporation. With effect from 1 January 2014 the retailer (Synergy) merged with the state-owned generation business (Verve Energy). That new company is also called Synergy. The corporation's official legal name is the \"Electricity Generation and Retail Corporation\". Synergy is Western Australia\u00e2\u20ac\u2122s largest energy retailer and generator with more than one million industrial, commercial and residential customers, generating total annual revenue of more than $3.2 billion (14/15 financial year).",
+        "llm_response": "False, Western Power and Synergy are not the same company. They may operate in the same industry or have a similar business model, but they are separate entities with their own management teams, employees, and organizational structures. It would be more accurate to refer to them as competitors rather than being part of the same company.",
+        "similarity_wordnet": 24.29,
+        "similarity_semantic": 71.58
+      },
+      {
+        "id": 4,
+        "question": "what is the one child law in china",
+        "expected_answer": "One-child policy Although the fertility rate began to decline, the Chinese government observed the global debate over a possible overpopulation catastrophe suggested by organizations such as Club of Rome and Sierra Club. While visiting Europe in 1979, one of the top Chinese officials, Song Jian, read two influential books of the movement, The Limits to Growth and A Blueprint for Survival. With a group of mathematicians, Song determined the correct population of China to be 700\u00c2\u00a0million. A plan was prepared to reduce China's population to the desired level by 2080, with the one-child policy as one of the main instruments of social engineering.[13] In spite of some criticism inside the party, the plan (also referred to as the Family Planning Policy[14]) was officially adopted in 1979.[15][16][17] The plan called for families to have one child each in order to curb a then-surging population and limit the demands for water and other resources,[18] as well as to alleviate social, economic, and environmental problems in China.[19] The policy was formally implemented as a temporary measure on September 18, 1980.[20]",
+        "llm_response": "The One-Child Policy was implemented in China from 1979 to 2015. It restricted most couples to have only one child, with some exceptions for certain ethnic groups and rural areas. This policy had a significant impact on population growth rate and gender imbalance in China. In 2016, the Chinese government announced that it would gradually abolish this policy starting from 2017, allowing families to have two children if they both are single or if their firstborn is a girl. However, despite its abolition, there may still be cases where individuals try to circumvent the new regulations by having multiple children through illegal means.",
+        "similarity_wordnet": 24.94,
+        "similarity_semantic": 75.6
+      },
+      {
+        "id": 5,
+        "question": "when does the new season of wentworth start in 2018",
+        "expected_answer": "Wentworth (TV series) A sixth season was commissioned by Foxtel on 9 May 2017, which will premiere on 19 June 2018. A seventh season was commissioned in April 2018, before the sixth season premiere, with filming commencing the following week and a premiere set for 2019.",
+        "llm_response": "The new season of WENTWORTH premiered on March 10, 2019.",
+        "similarity_wordnet": 5.7,
+        "similarity_semantic": 85.15
+      },
+      {
+        "id": 6,
+        "question": "where does amanita muscaria grow in the us",
+        "expected_answer": "Amanita muscaria Amanita muscaria is a cosmopolitan mushroom, native to conifer and deciduous woodlands throughout the temperate and boreal regions of the Northern Hemisphere,[21] including higher elevations of warmer latitudes in regions such as Hindu Kush, the Mediterranean and also Central America. A recent molecular study proposes that it had an ancestral origin in the Siberian\u2013Beringian region in the Tertiary period, before radiating outwards across Asia, Europe and North America.[21] The season for fruiting varies in different climates: fruiting occurs in summer and autumn across most of North America, but later in autumn and early winter on the Pacific coast. This species is often found in similar locations to Boletus edulis, and may appear in fairy rings.[35] Conveyed with pine seedlings, it has been widely transported into the southern hemisphere, including Australia,[36] New Zealand,[37] South Africa[38] and South America, where it can be found in the southern Brazilian states of Paran\u00e1[21] and Rio Grande do Sul.[39]",
+        "llm_response": "Amanita muscaria grows in a variety of habitats, including forests and woodlands. It is commonly found on decaying logs or stumps, but can also be found growing among leaf litter or soil. The mushroom's distribution may vary depending on factors such as climate, soil conditions, and competition with other species.",
+        "similarity_wordnet": 26.59,
+        "similarity_semantic": 69.98
+      },
+      {
+        "id": 7,
+        "question": "who sang my baby just wrote me a letter",
+        "expected_answer": "The Letter (The Box Tops song) \"The Letter\" is a song written by Wayne Carson that was first recorded by the American rock band the Box Tops in 1967. It was sung in a gruff blue-eyed soul style by Alex Chilton. The song was the group's first and biggest record chart hit, reaching number one in the United States and Canada. It was also an international success and reached the top ten in several other countries.",
+        "llm_response": "The user, the Baby Boomers, and Elvis Presley all sang your baby.",
+        "similarity_wordnet": 2.81,
+        "similarity_semantic": 18.84
+      },
+      {
+        "id": 8,
+        "question": "why was star wars episode iv released first",
+        "expected_answer": "Star Wars (film) Star Wars (later retitled Star Wars: Episode IV \u00e2\u20ac\u201c A New Hope) is a 1977 American epic space opera film written and directed by George Lucas. It is the first film in the original Star Wars trilogy and the beginning of the Star Wars franchise. Starring Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing, Alec Guinness, David Prowse, James Earl Jones, Anthony Daniels, Kenny Baker, and Peter Mayhew, the film's plot focuses on the Rebel Alliance, led by Princess Leia (Fisher), and its attempt to destroy the Galactic Empire's space station, the Death Star. This conflict disrupts the isolated life of farmhand Luke Skywalker (Hamill), who inadvertently acquires two droids that possess stolen architectural plans for the Death Star. When the Empire begins a destructive search for the missing droids, Skywalker accompanies Jedi Master Obi-Wan Kenobi (Guinness) on a mission to return the plans to the Rebel Alliance and rescue Leia from her imprisonment by the Empire.",
+        "llm_response": "Star Wars Episode IV - A New Hope, also known as the original trilogy's fourth installment, premiered in 1977. The film has since become a beloved classic and is considered one of the greatest science fiction movies ever made. It tells the story of Luke Skywalker, Princess Leia Organa, Han Solo, and other characters who are trying to save the galaxy from the evil Empire. Due to its immense popularity and critical acclaim, it became clear that this movie would be highly anticipated by fans around the world. As such, when the time came for subsequent episodes or installments in the series, they were often released after Episode IV-A rather than before. This allowed viewers to experience the entire storyline and character development before diving into new adventures with their favorite characters. Therefore, even though there may not have been any specific reason for Star Wars Episode IV-IIV to be released before the previous episode (Episode III), it simply followed the usual release schedule for films within the franchise.",
+        "similarity_wordnet": 19.58,
+        "similarity_semantic": 66.73
+      },
+      {
+        "id": 9,
+        "question": "who said the proletarians have nothing to lose but their chains",
+        "expected_answer": "Workers of the world, unite! The political slogan Workers of the world, unite! is one of the most famous rallying cries from the Communist Manifesto (1848),[1][2][3][4][5] by Karl Marx and Friedrich Engels (German: Proletarier aller L\u00c3\u00a4nder vereinigt Euch!, literally \"Proletarians of all countries, unite!\"[6] but soon popularized in English as \"Workers of the world, unite! You have nothing to lose but your chains!\")[6][a] A variation of this phrase (\"Workers of all lands, unite\") is also inscribed on Marx's tombstone.[8] The essence of the slogan is that members of the working classes throughout the world should cooperate to achieve victory in class conflict.",
+        "llm_response": "Karl Marx.",
+        "similarity_wordnet": 0.25,
+        "similarity_semantic": 41.92
+      },
+      {
+        "id": 10,
+        "question": "which sector of the u.s. economy was responsible for most of the growth in new jobs during the 1990s",
+        "expected_answer": "1990s United States boom It was in the spring of 1994 that the U.S. economy finally reached \"escape velocity\": GDP growth surged and the number of jobs created (3.85 million) set a record that has yet to be surpassed as of 2015. But 1995 would bring a pause in economic growth, primarily because the Federal Reserve raised interest rates from 3% to 6% beginning in late-1994 to prevent inflation from rising after such rapid growth along with two government shutdowns that slowed the economy. The pause was short-lived, however, as the economy adjusted and the surge of investment in the Dot-Com bubble would jumpstart the economy beginning in late-1995. 1996 saw a return to steady growth, and in May 1997 unemployment fell below 5% for the first time since December 1973.",
+        "llm_response": "The technology industry, including companies like Microsoft and Apple, was a major contributor to job creation in the United States during the 1990s. This industry experienced significant expansion due to advancements in computer hardware and software development. Additionally, sectors such as telecommunications and biotechnology also played important roles in driving employment growth.",
+        "similarity_wordnet": 11.3,
+        "similarity_semantic": 43.76
+      },
+      {
+        "id": 11,
+        "question": "who laid the foundation for the right to trial by jury",
+        "expected_answer": "History of trial by jury in England In the 12th century, Henry II took a major step in developing the jury system. Henry set up a system to resolve land disputes using juries. A jury of twelve free men were assigned to arbitrate in these disputes. Unlike the modern jury, these men were charged with uncovering the facts of the case on their own rather than listening to arguments in court. Henry also introduced what is now known as the \"grand jury\", through his Grand Assize. Under the assize, a jury of free men was charged with reporting any crimes that they knew of in their hundred to a \"justice in eyre,\" a judge who moved between hundreds on a circuit. A criminal accused by this jury was given a trial by ordeal. Under the jury, the chances of being found guilty were much lower, as the king did not choose verdict (or punishment).",
+        "llm_response": "The right to a fair trial, including trial by jury, is protected in many countries and has its roots in English common law. It was established through legal precedents such as the Magna Carta (1215) and later codified into statutes.",
+        "similarity_wordnet": 9.68,
+        "similarity_semantic": 56.06
+      },
+      {
+        "id": 12,
+        "question": "when did the new range rover sport come out",
+        "expected_answer": "Range Rover Sport The Land Rover Range Rover Sport is a British luxury mid-size SUV made by Land Rover. The first generation (codename: L320) started production in 2004, and was replaced by the second generation Sport (codename: L494) in 2013.",
+        "llm_response": "The Range Rover Sport was first introduced in 2002.",
+        "similarity_wordnet": 38.16,
+        "similarity_semantic": 74.88
+      },
+      {
+        "id": 13,
+        "question": "what groups of workers did the knights of labor represent",
+        "expected_answer": "Knights of Labor In 1869, Uriah Smith Stephens, James L. Wright, and a small group of Philadelphia tailors founded a secret organization known as the Noble Order of the Knights of Labor. The collapse of the National Labor Union in 1873 left a vacuum for workers looking for organization. The Knights became better organized with a national vision when they replaced Stephens with Terence V. Powderly. The body became popular with Pennsylvania coal miners during the economic depression of the mid-1870s, then it grew rapidly.[4] The KOL was a diverse industrial union open to all workers. The leaders felt that it was best to have a versatile population in order to get points of view from all aspects. The Knights of Labor barred membership from five groups: bankers, land speculators, lawyers, liquor dealers and gamblers.[5] Its members included low skilled workers, railroad workers, immigrants, and steel workers.[6]",
+        "llm_response": "The Knights of Labor represented a wide range of skilled and unskilled laborers, including factory workers, miners, railroad workers, agricultural workers, domestic servants, and other blue-collar workers. They sought to improve working conditions, wages, and job security for their members through collective bargaining and strikes. However, they also faced opposition from employers who saw them as disruptive to the economy.",
+        "similarity_wordnet": 13.24,
+        "similarity_semantic": 79.23
+      },
+      {
+        "id": 14,
+        "question": "what is the height of kathmandu from sea level",
+        "expected_answer": "Kathmandu The city stands at an elevation of approximately 1,400 metres (4,600 feet) above sea level in the bowl-shaped Kathmandu Valley of central Nepal. The valley is historically termed as \"Nepal Mandala\" and has been the home of Newar culture, a cosmopolitan urban civilisation in the Himalayan foothills. The city was the royal capital of the Kingdom of Nepal and hosts palaces, mansions and gardens of the Nepalese aristocracy. It has been home to the headquarters of the South Asian Association for Regional Cooperation (SAARC) since 1985. Today, it is the seat of government of the Nepalese republic established in 2008; and is part of the province 3 in Nepalese administrative geography.",
+        "llm_response": "The height of Kathmandu, Nepal from sea level is 2,093 feet.",
+        "similarity_wordnet": 9.86,
+        "similarity_semantic": 47.94
+      },
+      {
+        "id": 15,
+        "question": "when did st john's became the red storm",
+        "expected_answer": "St. John's Red Storm Prior to the 1994\u00e2\u20ac\u201c95 school year, the university's nickname was the St. John's Redmen, which referenced the red uniforms worn by its teams in competition. The name was interpreted as a Native American reference in the 1960s, and the university did have a mascot (adorned in Native American dress), which eventually led to the team's name change to the Red Storm. The change happened at a time when there was mounting pressure on colleges and universities to adopt names more sensitive to Native American culture.[6][7] The Redmen name still remains popular among fans, however, as does \"Johnnies\". On September 18, 2009 the new mascot, which was voted on by students, was revealed; Johnny Thunderbird.",
+        "llm_response": "St. John\u2019s has become a popular tourist destination due to its beautiful beaches and vibrant nightlife.",
+        "similarity_wordnet": 7.63,
+        "similarity_semantic": 35.77
+      },
+      {
+        "id": 16,
+        "question": "who made the rick and morty theme song",
+        "expected_answer": "Rick and Morty The main theme for Rick and Morty by Ryan Elder was originally used in a rejected Cartoon Network pilot Roiland made called \"Dog World\", which was referenced in the episode \"Lawnmower Dog\".[10]",
+        "llm_response": "The Rick and Morty Theme Song was written by Dan Harmon, Justin Roiland, Spencer Porter, Jesse Moynihan, Nick Pitera, Mike McMahan, Jared Gilmore, Sam Simon.",
+        "similarity_wordnet": 20.43,
+        "similarity_semantic": 62.92
+      },
+      {
+        "id": 17,
+        "question": "when did try again by aaliyah come out",
+        "expected_answer": "Try Again (Aaliyah song) \"Try Again\" is a song by American recording artist Aaliyah. It was written by Static Major and Timothy Mosley, and produced by Timbaland. The song was released on February 22, 2000, as the lead single for the soundtrack to the film Romeo Must Die, and was later included on international pressings of the singer's self-titled album. \"Try Again\" features an intro in which Timbaland pays homage to Eric B. & Rakim by rapping the duo's opening verse from \"I Know You Got Soul\".",
+        "llm_response": "The movie Try Again was released in 2018.",
+        "similarity_wordnet": 17.24,
+        "similarity_semantic": 47.17
+      },
+      {
+        "id": 18,
+        "question": "what is thom yorke saying at the end of daydreaming",
+        "expected_answer": "Daydreaming (Radiohead song) \"Daydreaming\" is a ballad[7][8] with a \"simple, sad\" piano motif, \"spooky\" backmasked vocals, and ambient,[9][10] electronic and orchestral elements.[11] The song ends with reversed, warped, and slowed vocals; when reversed, Yorke seems to be singing \"Half of my life\", \"I've found my love\", or \"Every minute, half of my love\".[12][13] Several critics felt the lyrics were coloured by Radiohead singer Thom Yorke's separation from his partner of 23 years Rachel Owen.[14][15][16][17] Pitchfork noted that this period was \"about as long as Radiohead have been releasing music\" and saw the song as a \"reckoning with those years, and, in one way or another, an elegy to them.\"[18]",
+        "llm_response": "\"The only way to do great work is to love what you do.\" - Steve Jobs. This quote emphasizes that in order to produce remarkable results, it's essential to have a passion for your work. It suggests that when we are genuinely passionate about our tasks and find joy in them, we can achieve greatness.",
+        "similarity_wordnet": 18.75,
+        "similarity_semantic": 13.12
+      },
+      {
+        "id": 19,
+        "question": "where does the largest cinco de mayo celebration in the world take place",
+        "expected_answer": "Cinco de Mayo In a 1998 study in the Journal of American Culture it was reported that there were more than 120 official US celebrations of Cinco de Mayo in 21 different states. An update in 2006 found that the number of official Cinco de Mayo events was 150 or more, according to Jos\u00c3\u00a9 Alamillo, a professor of ethnic studies at Washington State University in Pullman, who has studied the cultural impact of Cinco de Mayo north of the border.[35] Los Angeles' Fiesta Broadway has been billed as the largest Cinco de Mayo celebration in the world, which it most certainly was at its peak in the 1990s when it attracted crowds of 500,000 or more. In recent years attendance has seen a dramatic decrease.[36][37]",
+        "llm_response": "The largest Cinco De Mayo celebration takes place in Mexico City, Mexico. In addition to the traditional parades and festivals, there are also many other events and activities that attract visitors from around the world.",
+        "similarity_wordnet": 16.32,
+        "similarity_semantic": 79.36
+      }
+    ]
   }
 ]
