@@ -1,581 +1,561 @@
 [
   {
     "test_number": 1,
-    "timestamp": "2025-09-07 13:32:07",
-    "duration_seconds": 162.91,
-    "n_questions": 20,
-    "avg_overlap": 21.24,
-    "avg_semantic": 56.64,
+    "timestamp": "2025-09-07 19:13:38",
+    "duration_seconds": 15.34,
+    "n_questions": 5,
+    "avg_overlap": 7.14,
+    "avg_semantic": 41.7,
     "results": [
       {
         "id": 0,
-        "question": "who does the voice of pear in annoying orange",
-        "expected_answer": "The Annoying Orange The show is centered on Orange (voiced by Dane Boedigheimer), who resides on a fruit cart display in a kitchen with other objects such as his best friend, Pear, an irritable Bartlett pear (also voiced by Boedigheimer). Other fruits include Passion, a sensible passion fruit and Orange's love interest played by iJustine, an arrogant grapefruit (voiced by Robert Jennings), a tiny miserable and frustrated but hot-blooded apple known as Midget Apple (though he prefers the name Little Apple), a happy-go-lucky and slightly eccentric marshmallow of ambiguous gender, and an elderly lemon named Grandpa Lemon, all of whom were not main characters until later episodes.",
-        "llm_response": "Seth MacFarlane. He is known for his work on Family Guy and has provided voices for various characters, including Pear in The Venture Bros. episode \"The Old Man\" where he plays a character named \"Orange\". His deep and gruff tone can be heard as the voice of Pear in this particular scene.",
-        "overlap_percent": 27.02,
-        "semantic_percent": 53.18
+        "question": "who sang you don't have to be a star baby",
+        "expected_answer": "You Don't Have to Be a Star (To Be in My Show) \"You Don't Have to Be a Star (To Be in My Show)\" is a song by the husband/wife duo of Marilyn McCoo and Billy Davis, Jr., former members of the vocal group The 5th Dimension. Released from their album, I Hope We Get to Love in Time, it became a crossover success, spending six months on the charts and soaring to number one on both the Billboard Hot 100 and Hot Soul Singles charts during late 1976 and early 1977.[1] The song also reached #6 on Billboard's Easy Listening chart and #7 on the UK Singles Chart.[2] It would eventually be certified gold, selling over one million copies, and winning them a Grammy Award for Best R&B Performance by a Duo or Group with Vocals in 1977.[3]",
+        "llm_response": "Whitney Houston, \"I Will Always Love You\"",
+        "overlap_percent": 6.05,
+        "semantic_percent": 34.7
       },
       {
         "id": 1,
-        "question": "where did the earthquake in mexico city hit",
-        "expected_answer": "2017 Central Mexico earthquake The 2017 Central Mexico earthquake struck at 13:14\u00a0CDT (18:14 UTC) on 19 September 2017 with an estimated magnitude of Mw\u00a07.1 and strong shaking for about 20 seconds. Its epicenter was about 55\u00a0km (34\u00a0mi) south of the city of Puebla. The earthquake caused damage in the Mexican states of Puebla and Morelos and in the Greater Mexico City area, including the collapse of more than 40 buildings.[2][3][4] 370 people were killed by the earthquake and related building collapses, including 228 in Mexico City,[5][6] and more than 6,000 were injured.[7]",
-        "llm_response": "Mexico City. The epicenter of the magnitude 7.1 earthquake that struck central Mexico on September 19, 2020 was located at a depth of 16 km (10 miles) below the surface near Puebla state.",
-        "overlap_percent": 26.02,
-        "semantic_percent": 78.93
+        "question": "who jumped from the tree in a separate peace",
+        "expected_answer": "A Separate Peace Gene Forrester, the protagonist, returns to his old prep school, Devon (a thinly veiled portrayal of Knowles' alma mater, Phillips Exeter Academy), fifteen years after he graduated to visit two places he regards as \"fearful sites\": a flight of marble stairs and a tree by the river that he caused his friend, Phineas, to fall out of. First, he examines the stairs and notices that they are made of very hard marble. He then goes to the tree, which brings back memories of Gene's time as a student at Devon. From this point, the novel follows Gene's description of the time span from the summer of 1942 to the summer of 1943. In 1942, he was 16 and living at Devon with his best friend and roommate, Phineas (nicknamed Finny). At the time, World War II is taking place and has a prominent effect on the story.",
+        "llm_response": "The person who jumped from the tree is unknown.",
+        "overlap_percent": 0.77,
+        "semantic_percent": 15.06
       },
       {
         "id": 2,
-        "question": "what is the theme song for star trek enterprise",
-        "expected_answer": "Faith of the Heart It was also recorded by English tenor Russell Watson as \"Where My Heart Will Take Me\" in order to be used as a theme to the 2001 television series Star Trek: Enterprise. This version of the single was used on four occasions as wake-up calls onboard Space Shuttle missions, and performed by Watson at the 2002 Commonwealth Games. Watson also recorded a special version of the song to be played for the final wake up of the New Horizons exploration spacecraft on December 6, 2014.[1]",
-        "llm_response": "\"Main Title\" from Star Trek Enterprise.",
-        "overlap_percent": 4.84,
-        "semantic_percent": 39.65
+        "question": "what is the house edge of three card poker",
+        "expected_answer": "Three card poker Ante and Play house advantage assumes the player plays optimum strategy against the dealer (making the Play wager only with a Queen-6-4 or better). There are two ways of expressing the against dealer hand house advantage. If the house advantage is expressed as a percentage of the Ante wager only (at 3.37%) this could encourage players to erroneously think that the house advantage on the Play wager is 0.00%, and so think that the Play wager should always be made. Consequently it is better for players to understand the concept of house advantage on the total combined wager in the against dealer mode, being 2.01%.",
+        "llm_response": "The house edge for a game of 3-Card Poker is approximately 0.4%. This means that over the long run, you can expect to lose around 4% of your total bets per hand played at this casino. It's important to be aware of these odds when playing any form of gambling and to play responsibly within your own financial limits.",
+        "overlap_percent": 28.89,
+        "semantic_percent": 65.2
       },
       {
         "id": 3,
-        "question": "who discovered protons and neutrons in the nucleus",
-        "expected_answer": "Atomic nucleus The atomic nucleus is the small, dense region consisting of protons and neutrons at the center of an atom, discovered in 1911 by Ernest Rutherford based on the 1909 Geiger\u2013Marsden gold foil experiment. After the discovery of the neutron in 1932, models for a nucleus composed of protons and neutrons were quickly developed by Dmitri Ivanenko[1] and Werner Heisenberg.[2][3][4][5][6] Almost all of the mass of an atom is located in the nucleus, with a very small contribution from the electron cloud. Protons and neutrons are bound together to form a nucleus by the nuclear force.",
-        "llm_response": "James Chadwick was a British physicist who, along with Ernest Rutherford and Niels Bohr, made significant contributions to our understanding of atomic structure. In 1932, he conducted an experiment that led to the discovery of subatomic particles known as mesons or \"neutral pions.\" These experiments confirmed the existence of neutrons within atoms' nuclei and helped establish the concept of isotopes (atoms with different numbers of neutrons). His work laid the foundation for further advancements in nuclear physics.",
-        "overlap_percent": 16.7,
-        "semantic_percent": 47.6
+        "question": "who was the leading scorer in the mavs game 1 win in the 2006 nba finals",
+        "expected_answer": "2006 NBA Finals Dallas' Jason Terry scored a playoff-high 32 points as the Mavericks overcame a 31\u00e2\u20ac\u201c23 deficit at the end of the first quarter.",
+        "llm_response": "Tim Duncan, with 24 points.",
+        "overlap_percent": 0.0,
+        "semantic_percent": 54.53
       },
       {
         "id": 4,
-        "question": "when does us play in the fifa world cup",
-        "expected_answer": "2018 FIFA World Cup Notable countries that failed to qualify include four-time champions Italy (for the first time since 1958), three-time runners-up and third placed in 2014 the Netherlands (for the first time since 2002), and four reigning continental champions: 2017 Africa Cup of Nations winners Cameroon, two-time Copa Am\u00e9rica champions and 2017 Confederations Cup runners-up Chile, 2016 OFC Nations Cup winners New Zealand, and 2017 CONCACAF Gold Cup champions United States (for the first time since 1986). The other notable qualifying streaks broken were for Ghana and Ivory Coast, who had both made the previous three tournaments.[30]",
-        "llm_response": "Us plays in the FIFA World Cup every four years. The last time we played was in 2018, where we reached the quarter-finals before losing to France. We are currently ranked third in the world and have qualified for this year's tournament as one of the top six teams. Our opponents will be Croatia, Mexico, Italy, Iran, Senegal, and Vietnam. Let's go USA!",
-        "overlap_percent": 26.83,
-        "semantic_percent": 43.68
-      },
-      {
-        "id": 5,
-        "question": "when do april and jackson get together on grey's anatomy",
-        "expected_answer": "April Kepner In the end of season eight, Kepner embarks on a relationship with her best friend turned lover Jackson Avery (Williams), who she loses her virginity to and that eventually leads her to reflect on her faith and fail her boards.[21] Critics praised the chemistry between April and Jackon.[22] Rhimes commented on the dynamic between the two in season nine and said: \u201cI think it\u2019s going to be funny, sexy, and good.\u201d[23]",
-        "llm_response": "April Jackson is a character in the TV series \"Grey's Anatomy\". They first meet at the start of season six, where Jack tells April that he loves her. However, they soon realize their relationship will not work due to personal differences and professional obligations. Despite this setback, they remain close friends throughout the rest of the show. In later seasons, they even go through heartbreak individually but find solace in each other during difficult times. Their friendship continues until the end of the final episode.",
-        "overlap_percent": 34.16,
-        "semantic_percent": 67.07
-      },
-      {
-        "id": 6,
-        "question": "india became a member of the united nations in the year",
-        "expected_answer": "India and the United Nations India was among the original members of the United Nations that signed the Declaration by United Nations at Washington, D.C. on 1944 October and also participated in the United Nations Conference on International Organization at San Francisco from 25 April to 26 June 1945. As a founding member of the United Nations, India strongly supports the purposes and principles of the UN and has made significant contributions in implementing the goals of the Charter, and the evolution of the UN's specialised programmes and agencies.[1]",
-        "llm_response": "India has been a member of the United Nations since 1950.",
-        "overlap_percent": 19.35,
-        "semantic_percent": 76.58
-      },
-      {
-        "id": 7,
-        "question": "when were miscegenation laws ruled unconstitutional by the us supreme court",
-        "expected_answer": "Anti-miscegenation laws in the United States Anti-miscegenation laws were a part of American law in some States since before the United States was established and remained so until ruled unconstitutional in 1967 by the U.S. Supreme Court in Loving v. Virginia. The term miscegenation was first used in 1863, during the American Civil War, by American journalists to discredit the abolitionist movement by stirring up debate over the prospect of interracial marriage after the abolition of slavery.[1] In those of the original Thirteen Colonies that became states and enacted such laws, they were enacted as state law in the early 18th century; a century or more after the complete racialization of slavery.[2]",
-        "llm_response": "The Supreme Court ruled that state laws banning interracial marriage, such as the Massachusetts law in 1967, were unconstitutional. In the case of Loving v. Virginia, the court declared that these laws violated the fundamental rights of individuals to marry who they choose and that such bans constituted discrimination based on race or ethnicity. This ruling marked a significant milestone in the fight for civil rights and equality in the United States. Since then, all states have abolished their prohibition against same-sex marriages.",
-        "overlap_percent": 34.28,
-        "semantic_percent": 68.25
-      },
-      {
-        "id": 8,
-        "question": "when does the new season of cheaters start",
-        "expected_answer": "Cheaters As of October 2016, Cheaters has started its seventeenth season. On June 2 2018 longtime Cheaters detective Detective Gomez posted on his YouTube page that they will be filming new episodes of Cheaters and will begin to show new episodes in September 2018 after a long hiatus.[2]",
-        "llm_response": "The new season of Cheaters starts on October 4th, and airs every Tuesday at 8/7c.",
-        "overlap_percent": 23.04,
-        "semantic_percent": 72.32
-      },
-      {
-        "id": 9,
-        "question": "where does the story of the trojan war come from",
-        "expected_answer": "Trojan War In Greek mythology, the Trojan War was waged against the city of Troy by the Achaeans (Greeks) after Paris of Troy took Helen from her husband Menelaus, king of Sparta. The war is one of the most important events in Greek mythology and has been narrated through many works of Greek literature, most notably Homer's Iliad. The Iliad relates four days in the tenth year of the decade-long siege of Troy; the Odyssey describes the journey home of Odysseus, one of the war's heroes. Other parts of the war are described in a cycle of epic poems, which have survived through fragments. Episodes from the war provided material for Greek tragedy and other works of Greek literature, and for Roman poets including Virgil and Ovid.",
-        "llm_response": "The Trojan War is a legendary conflict that took place in ancient Greece, as described by Homer in his epic poem \"The Iliad.\" According to the myth, the war was fought between the Greeks and the Trojans over the beautiful Helen of Troy. It began when Paris of Troy abducted Helen, causing great anger among King Agamemnon of Athens and other Greek leaders. The war lasted for ten years before it ended with the defeat of Troy and the death of many soldiers on both sides. The events of the Trojan War have been retold countless times throughout history and continue to be an important part of Western literature and culture.",
-        "overlap_percent": 46.27,
-        "semantic_percent": 89.34
-      },
-      {
-        "id": 10,
-        "question": "what kind of action does achilles take against hector",
-        "expected_answer": "Hector Another mention of Hector's exploits in the early years of war was given in the Iliad book 9. During the embassy to Achilles, Odysseus, Phoenix and Ajax all try to persuade Achilles to rejoin the fight. In his response, Achilles points out that while Hector was terrorizing the Greek forces now, and that while he himself had fought in their front lines, Hector had 'no wish' to take his force far beyond the walls and out from the Skiaian Gate and nearby oak tree. He then claims, 'There he stood up to me alone one day, and he barely escaped my onslaught.' Another duel that took place, although Hector got help from Aeneas and Deiphobus, was when Hector rushed to try to save his brother Troilus from Achilles' hands. But he came too late and Troilus had already perished. All Hector could do was to take the lifeless body of Troilus while Achilles escaped after he fought his way through from the Trojans reinforcement.",
-        "llm_response": "Achilles engages in fighting with Hector.",
-        "overlap_percent": 2.67,
-        "semantic_percent": 80.82
-      },
-      {
-        "id": 11,
-        "question": "where have we come from where are we going",
-        "expected_answer": "Where Do We Come From? What Are We? Where Are We Going? Where Do We Come From? What Are We? Where Are We Going? is a painting by French artist Paul Gauguin. Gauguin inscribed the original French title in the upper left corner: D'o\u00f9 Venons Nous / Que Sommes Nous / O\u00f9 Allons Nous. The inscription the artist wrote on his canvas has no question mark, no dash, and all words are capitalized. In the upper right corner he signed and dated the painting: P. Gauguin / 1897.[1] The painting was created in Tahiti, and is in the Museum of Fine Arts in Boston, Massachusetts, USA.",
-        "llm_response": "We've come a long way, but there's still much to be done. #ProgressMakers",
-        "overlap_percent": 9.0,
-        "semantic_percent": 20.54
-      },
-      {
-        "id": 12,
-        "question": "who sang i'm going back to cali",
-        "expected_answer": "Going Back to Cali (LL Cool J song) \"Going Back to Cali\" is a 1988 single by LL Cool J from the Less Than Zero soundtrack as well as his third album, Walking with a Panther. The song was co-written and produced by Rick Rubin. It peaked at #31 on the Billboard Hot 100 and #12 on the Hot R&B/Hip-Hop Songs, and was eventually certified gold by the RIAA on May 28, 1991.",
-        "llm_response": "The artist of the song \"I'm Going Back to Cali\" is Guns N' Roses.",
-        "overlap_percent": 34.19,
-        "semantic_percent": 60.22
-      },
-      {
-        "id": 13,
-        "question": "our souls at night where is it filmed",
-        "expected_answer": "Our Souls at Night (film) Principal photography on the film began on September 12, 2016 in Colorado Springs, Colorado, while it would also be shot in Florence.[4][2] Filming was completed on November 2, 2016.[5]",
-        "llm_response": "The song \"Soul At Night\" by BTS was filmed in South Korea.",
-        "overlap_percent": 12.72,
-        "semantic_percent": 53.01
-      },
-      {
-        "id": 14,
-        "question": "when was the volcano built at kings dominion",
-        "expected_answer": "Volcano, The Blast Coaster Volcano, The Blast Coaster, or simply Volcano, is a launched inverted roller coaster at Kings Dominion in Doswell, Virginia. Designed by both Paramount Parks and Werner Stengel and built by Intamin, Volcano was the world's first inverted roller coaster to feature an LIM (linear induction motor) and is the only one of its kind that completes a full circuit. Since its opening on August 3, 1998, Volcano has been one of the more popular rides in the park.[1] Most of Volcano's circuit is located inside a man-made volcano, making it an enclosed roller coaster.",
-        "llm_response": "The eruption of Kings Dominion, a stratovolcano located in the Pacific Ring of Fire, occurred approximately 20 years ago.",
-        "overlap_percent": 7.78,
-        "semantic_percent": 44.21
-      },
-      {
-        "id": 15,
-        "question": "swing vote movie who did he vote for",
-        "expected_answer": "Swing Vote (2008 film) Bud's actual opinions (or lack thereof) are misinterpreted by the media, causing the candidates to flip-flop on several positions (the Democrats take a prolife and anti-illegal immigration stand, while the Republicans take a pro-environmental and pro-gay marriage stand). As the film progresses, however, the two candidates are shown to move away from the cynical tactics forced on them by their advisers, and both gain Bud's respect. In the end, he chooses to hold a final debate the day before he is set to recast his ballot. In a written speech, he confesses that he knows little to nothing about politics, or for that matter, life, and decides to ask questions people have sent to him in the mail. The film ends with Bud casting his vote, though for whom he voted is never revealed.",
-        "llm_response": "Who did John do a draw in the election? That's right, it was himself. He couldn't decide between two candidates and ended up flipping a coin to break the tie. Good thing we have him as our president! \ud83d\ude44\ud83e\udd37\u200d\u2642\ufe0f\ud83d\udc4e #swingvoter #electionfail",
-        "overlap_percent": 15.05,
-        "semantic_percent": 45.42
-      },
-      {
-        "id": 16,
-        "question": "who wrote the song what a wonderful world",
-        "expected_answer": "What a Wonderful World \"What a Wonderful World\" is a pop ballad written by Bob Thiele (as \"George Douglas\") and George David Weiss. It was first recorded by Louis Armstrong and released in 1967 as a single, which topped the pop charts in the United Kingdom.[1] Thiele and Weiss were both prominent in the music world (Thiele as a producer and Weiss as a composer/performer).[2] Armstrong's recording was inducted in the Grammy Hall of Fame in 1999. The publishing for this song is controlled by Memory Lane Music Group, Carlin Music Corp. and BMG Rights Management.",
-        "llm_response": "Louis Armstrong",
-        "overlap_percent": 1.91,
-        "semantic_percent": 16.01
-      },
-      {
-        "id": 17,
-        "question": "when was the first scuba diving suit made",
-        "expected_answer": "Diving suit The first diving suit designs appeared in the early 18th century. Two English inventors developed the first pressure-proof diving suits in the 1710s. John Lethbridge built a completely enclosed suit to aid in salvage work. It consisted of a pressure-proof air-filled barrel with a glass viewing hole and two watertight enclosed sleeves.[2] This suit gave the diver more maneouverability to accomplish useful underwater salvage work.",
-        "llm_response": "The first underwater breathing device was invented in 1798 by French inventor Jean-Francois Pil\u00e2tre de Rozier and Auguste Denayrouze. Their device consisted of a mask, a single breath hold, and a brass tube that ran through an airtight container to supply air to the diver's lungs. This required manual ventilation and limited the depth and duration of the dive. Later on, other inventors improved upon this design with different mechanisms for delivering oxygen or air to the diver, such as hoses, helmets, and cylinders. The first scuba diving suit was not made until many years later, around 1864, but it is considered one of the earliest forms of scuba gear. It featured a leather jacket, trousers, boots, gloves, goggles, and a mouthpiece connected to a tank of compressed gas stored outside the suit.",
-        "overlap_percent": 36.11,
-        "semantic_percent": 76.32
-      },
-      {
-        "id": 18,
-        "question": "who makes laws on matters included in union list and concurrent list",
-        "expected_answer": "Concurrent List The Concurrent List or List-III (Seventh Schedule) is a list of 52 items (though the last item is numbered 47) given in the Seventh Schedule to the Constitution of India.It includes the power to be considered by both the central and state government. The legislative section is divided into three lists: Union List, State List and Concurrent List. Unlike the federal governments of the United States, Switzerland or Australia, residual powers remain with the Union Government, as with the Canadian federal government.[1]",
-        "llm_response": "The Union government is responsible for making laws on matters that are mentioned in the Union List, which includes subjects like defense, foreign affairs, taxation, etc. On the other hand, Concurrent List contains subjects where both the central and state governments have equal power to make laws. This can include areas such as education, health, agriculture, etc. In case of any conflict between a law made by the Central Government and one made by the State Government, the Central Law takes precedence over the State Law.",
-        "overlap_percent": 41.02,
-        "semantic_percent": 64.15
-      },
-      {
-        "id": 19,
-        "question": "who won the illinois senate seat in 1858",
-        "expected_answer": "Lincoln\u2013Douglas debates On election day, as the districts were drawn to favor Douglas' party, the Democrats won 40 seats in the state house of Representatives, and the Republicans won 35. In the state senate, Republicans held 11 seats, and Democrats held 14. Stephen A. Douglas was reelected by the legislature, 54-46, even though Lincoln's Republicans won the popular vote with a percentage of 50.6%, or by 3,402 votes.[34] However, the widespread media coverage of the debates greatly raised Lincoln's national profile, making him a viable candidate for nomination as the Republican candidate in the upcoming 1860 presidential election. He would go on to secure both the nomination and the presidency, beating Douglas (as the Northern Democratic candidate), among others, in the process.",
-        "llm_response": "Not applicable. The question is asking about a specific event that occurred more than 100 years ago, and there are no records of any Illinois Senate elections taking place before 1870.",
-        "overlap_percent": 5.82,
-        "semantic_percent": 35.48
+        "question": "what is malcolm's last name in malcolm in the middle",
+        "expected_answer": "List of Malcolm in the Middle characters In the pilot episode, the name Wilkerson can be seen on the name badge of the uniform Francis is wearing at Marlin Academy. In the sleeve notes for the season 5 DVD released in Europe, the family is referred to as the Wilkersons in the description for the episode \"Block Party\". British television advertisements and some Fox promotional material also occasionally referred to the family as the Wilkersons, although this name was never spoken aloud in the series. In an early version of the pilot, Malcolm had an exchange of dialogue with a classmate, who claims to have overheard his parents talking about Malcolm's family and asks him what his last name is. When Malcolm responds, \"Wilkerson, why?\" the friend replied with the punchline, \"Oh...who are the 'Pariahs'?\"",
+        "llm_response": "Malcom.",
+        "overlap_percent": 0.0,
+        "semantic_percent": 39.0
       }
     ]
   },
   {
     "test_number": 2,
-    "timestamp": "2025-09-07 14:14:03",
-    "duration_seconds": 292.35,
-    "n_questions": 50,
-    "avg_overlap": 15.45,
-    "avg_semantic": 55.01,
+    "timestamp": "2025-09-07 19:16:48",
+    "duration_seconds": 160.29,
+    "n_questions": 20,
+    "avg_overlap": 18.3,
+    "avg_semantic": 54.99,
     "results": [
       {
         "id": 0,
-        "question": "who pays the us women's soccer team",
-        "expected_answer": "United States Soccer Federation On November 21, 2012, U.S. Soccer, in conjunction with the Canadian Soccer Association (CSA) and Mexican Football Federation (FMF), announced the formation of a new professional league for the 2013 season.[31] The league, unnamed at the time of the initial announcement but later unveiled as the National Women's Soccer League (NWSL), launched in April 2013 with eight teams.[31] Like WUSA and WPS, NWSL teams are privately owned with some owned by existing MLS teams.[32] The American and Canadian federations pay the salaries for many of their respective national team members. U.S. Soccer initially committed to funding up to 24 national team members, with the CSA committing to paying 16 players and FMF pledging support for at least 12 and possibly as many as 16.[32][33] In addition, U.S. Soccer housed the league's front office for the first four years, and scheduled matches to avoid any possible conflict with international tournaments.[32] Four of the league's charter teams had WPS ties\u00e2\u20ac\u201dthe Boston Breakers, Chicago Red Stars, Sky Blue FC, and the Western New York Flash. The other four initial teams were located in the Kansas City, Portland, Seattle, and Washington, D.C. markets with the Portland team run by the Portland Timbers of MLS.[32] The NWSL expanded to nine teams for 2014 by adding the Houston Dash, run by the Houston Dynamo of MLS. In 2016, it expanded to 10 with the addition of another MLS-backed team, the Orlando Pride. Ahead of the 2017 season, A&E Networks announced it had taken an equity stake in the league and Lifetime would begin broadcasting games to a national television audience.[34] As of 2017[update], additional expansion teams were being discussed by Los Angeles FC, Vancouver Whitecaps, and FC Barcelona.[35][36][37]",
-        "llm_response": "The United States Women's National Soccer Team is funded by a combination of sources, including ticket sales and merchandise revenue. In recent years, the U.S. Soccer Federation has also secured significant sponsorship deals with companies such as Nike and Adidas to support the national team. Additionally, individual players may receive salaries from their club teams or through endorsement contracts. Overall, while the majority of funding comes from sponsorships and ticket sales, there are multiple avenues for generating income that contribute to supporting the team financially.",
-        "overlap_percent": 20.31,
-        "semantic_percent": 67.27
+        "question": "when was the song i'll fly away written",
+        "expected_answer": "I'll Fly Away \"I'll Fly Away\", is a hymn written in 1929 by Albert E. Brumley and published in 1932 by the Hartford Music company in a collection titled Wonderful Message.[1][2] Brumley's writing was influenced in part by an older secular ballad.",
+        "llm_response": "The song \"I Will Fly Away\" was released in 2003.",
+        "overlap_percent": 18.65,
+        "semantic_percent": 68.48
       },
       {
         "id": 1,
-        "question": "who played leatherface in texas chainsaw massacre 1974",
-        "expected_answer": "The Texas Chain Saw Massacre They continue toward the homestead, intending to return to the gas station once it has received a fuel delivery. When they arrive, Franklin tells Kirk and Pam about a local swimming-hole and the couple head off to find it. They stumble upon a nearby house. Kirk calls out for gas, entering through the unlocked door, while Pam waits outside. Leatherface (Gunnar Hansen) appears and kills Kirk with a hammer. Pam enters soon after and trips into a room filled with furniture made from human bones. She attempts to flee, but Leatherface catches her and impales her on a meathook, making her watch as he butchers Kirk with a chainsaw. Jerry heads out to look for Pam and Kirk at sunset. He sees the house and finds Pam, still alive, inside a freezer. Before he can react, Leatherface kills him.",
-        "llm_response": "The actor who portrayed Leatherface in the \"Texas Chainsaw Massacre\" franchise is William Lustig. He reprised his role as Leatherface for various films and television shows, including a cameo appearance in the 2015 remake of the original movie.",
-        "overlap_percent": 2.95,
-        "semantic_percent": 65.48
+        "question": "where does the light between the oceans take place",
+        "expected_answer": "The Light Between Oceans (film) Tom Sherbourne, a traumatised and withdrawn hero of World War I, is hired as a lightkeeper at Janus Rock, a lighthouse off the coast of Western Australia. He falls in love with a local girl, Isabel Graysmark, and they marry in 1921. Isabel loses two pregnancies in three years, and fears she may never become a mother.",
+        "llm_response": "The phrase \"where does the light between the oceans take place\" is a metaphor for the connection or communication that exists between people from different cultures. It suggests that despite physical distance and differences, there are still ways to bridge gaps and connect with others on a deeper level. This can refer to various forms of cultural exchange, such as art, music, literature, technology, or personal relationships. Ultimately, it emphasizes the importance of understanding and respecting diverse perspectives in fostering global harmony and cooperation.",
+        "overlap_percent": 27.51,
+        "semantic_percent": 52.96
       },
       {
         "id": 2,
-        "question": "when did season 2 stranger things come out",
-        "expected_answer": "Stranger Things On August 31, 2016, Netflix renewed the series for a second season of nine episodes, which was released on October 27, 2017. In December 2017, Netflix ordered a third season, which began production in April 2018 and will consist of eight episodes. The Duffer Brothers have said that Stranger Things is likely to end after its fourth or fifth season.",
-        "llm_response": "The second season of Stranger Things came out in 2017.",
-        "overlap_percent": 13.85,
-        "semantic_percent": 76.73
+        "question": "who reunited western europe for the first time since the roman empire",
+        "expected_answer": "Western Roman Empire In historiography, the Western Roman Empire consists of the western provinces of the Roman Empire at any one time during which they were administered by a separate independent Imperial court, coequal with (or only nominally subordinate to) that administering the eastern half. Both \"Western Roman Empire\" and \"Eastern Roman Empire\" (or \"Byzantine Empire\") are modern terms describing de facto independent entities; however, at no point did the Romans consider the Empire split into two, but rather considered it a single state governed by two separate Imperial courts out of administrative expediency, a system of government known as a diarchy.",
+        "llm_response": "The two people mentioned in the text are the Roman Empire and European Union.",
+        "overlap_percent": 7.2,
+        "semantic_percent": 37.84
       },
       {
         "id": 3,
-        "question": "who was tupac a back up dancer for",
-        "expected_answer": "Tupac Shakur He began attending the poetry classes of Leila Steinberg in 1989.[37] That same year, Steinberg organized a concert with Shakur's group, \"Strictly Dope\"; the concert led to his being signed with Atron Gregory. He set him up as a roadie and backup dancer with the hip hop group Digital Underground in 1990.[5][6][7]",
-        "llm_response": "Tupac Shakur was not a backup dancer. He is known as one of the greatest hip-hop artists and rappers in history, with numerous albums that achieved critical acclaim and commercial success.",
-        "overlap_percent": 18.37,
-        "semantic_percent": 65.9
+        "question": "who wrote do they know it's christmas with bob geldof",
+        "expected_answer": "Do They Know It's Christmas? \"Do They Know It's Christmas?\" is a song written in 1984 by Bob Geldof and Midge Ure in reaction to television reports of the 1983\u20131985 famine in Ethiopia. It was first recorded in a single day on 25 November 1984 by Band Aid, a supergroup put together by Geldof and Ure and consisting mainly of the biggest British and Irish musical acts at the time.[1] The single was released in the United Kingdom on 3 December 1984[2] and aided by considerable publicity it entered the UK Singles Chart at number one and stayed there for five weeks, becoming the Christmas number one of 1984. The record became the fastest selling single in UK chart history, selling a million copies in the first week alone and passing 3 million on the last day of 1984,[3] on the way to displacing Wings's \"Mull of Kintyre\" as the biggest-selling single of all time in the UK.[4] It held this title until 1997 when it was overtaken by Elton John's \"Candle in the Wind 1997\", released in tribute to Diana, Princess of Wales following her death.[5] The original version of \"Do They Know It's Christmas?\" has sold 3.8 million copies in the UK to date.[6]",
+        "llm_response": "Bob Geldof",
+        "overlap_percent": 1.35,
+        "semantic_percent": 11.87
       },
       {
         "id": 4,
-        "question": "who said when the going gets tough the tough gets going",
-        "expected_answer": "When the going gets tough, the tough get going The origin of the phrase has been attributed both to Joseph P. Kennedy (1888\u20131969),[1][unreliable source?] father of U.S. President John F. Kennedy, and sometimes to Norwegian-born American football player and coach Knute Rockne (1888\u20131931).[2] Currently it is used as a management motivational talk and is popular in many self-help books. [3]",
-        "llm_response": "The phrase \"when the going gets tough, the tough get going\" was popularized by American actor and comedian Jack Benny. It is a saying that emphasizes resilience and determination in the face of challenges or difficulties. This quote suggests that during difficult times, individuals with strong willpower and perseverance will rise to the occasion and overcome obstacles.",
-        "overlap_percent": 48.25,
-        "semantic_percent": 81.43
+        "question": "which layer of the epidermis is responsible for cell division and replacement",
+        "expected_answer": "Epidermis The stratified squamous epithelium is maintained by cell division within the stratum basale. Differentiating cell delaminate from the basement membrane and are displaced outwards through the epidermal layers, undergoing multiple stages of differentiation until, in the stratum corneum, losing their nucleus and fusing to squamous sheets, which are eventually shed from the surface (desquamation). Differentiated keratinocytes secrete keratin proteins which contribute to the formation of an extracellular matrix and is an integral part of the skin barrier function. In normal skin, the rate of keratinocyte production equals the rate of loss,[4] taking about two weeks for a cell to journey from the stratum basale to the top of the stratum granulosum, and an additional four weeks to cross the stratum corneum.[2] The entire epidermis is replaced by new cell growth over a period of about 48 days.[11]",
+        "llm_response": "The basal layer of the epidermis, also known as the stratum basale or stem cells layer, is responsible for cell division. It continuously produces new skin cells that are pushed upwards towards the surface to replace older, dead cells in the upper layers of the epidermis. This process ensures a constant turnover of skin tissue and helps maintain its integrity and function. Additionally, the basal layer contains melanocytes, specialized cells that produce melanin, giving color to our skin. Melanocytes can be found within this layer and contribute to protecting the underlying tissues from harmful UV radiation by producing pigments like eumelanin (brown/black) and pheomelanin (red/yellow). Overall, the basal layer plays a crucial role in both cellular proliferation and pigment production in the epidermal region.",
+        "overlap_percent": 27.52,
+        "semantic_percent": 69.93
       },
       {
         "id": 5,
-        "question": "who sang joshua fought the battle of jericho",
-        "expected_answer": "Joshua Fit the Battle of Jericho The song is believed to have been composed by slaves in the first half of the 19th century. Some references suggest that it was copyrighted by Jay Roberts in 1865, [2]. In 1882, the song was published in Jubilee Songs by M. G. Slayton and in A Collection of Revival Hymns and Plantation Melodies by Marshall W. Taylor. The first recorded version was by Harrod's Jubilee Singers, on Paramount Records No. 12116 in 1922 [3] (though some sources[who?] suggest 1924). The Online 78 Discography entry for this record credits Jay Roberts as the author. Later recordings include those by Paul Robeson[4] (1925), Mahalia Jackson[4] (1958), Clara Ward, and Hugh Laurie (2011) among many others.",
-        "llm_response": "The song \"Joshua Fought the Battle of Jericho\" was sung by Joshua Bell.",
-        "overlap_percent": 9.48,
-        "semantic_percent": 77.4
+        "question": "how many episodes in season three of bloodline",
+        "expected_answer": "List of Bloodline episodes Bloodline is an American Netflix original thriller\u00e2\u20ac\u201cdrama television series created by Todd A. Kessler, Glenn Kessler, and Daniel Zelman.[1][2][3] The series stars Kyle Chandler, Ben Mendelsohn, Linda Cardellini, Norbert Leo Butz, Sam Shepard, and Sissy Spacek among the main cast, and it focuses on the lives of the Rayburn family, which owns and runs an oceanfront hotel in the Florida Keys. The first 13-episode season premiered on Netflix, on March 20, 2015.[3] The second season, comprising 10 episodes, was released on May 27, 2016.[4][5] On July 13, 2016, the series was renewed for a 10-episode third season,[6] later confirmed to be the final season.[7] The third and final season was released on May 26, 2017.[8]",
+        "llm_response": "There are 13 episodes in Season 3 of Bloodline.",
+        "overlap_percent": 5.56,
+        "semantic_percent": 67.74
       },
       {
         "id": 6,
-        "question": "who did man city beat to win the league",
-        "expected_answer": "2013\u201314 Manchester City F.C. season Then, on 11 May 2014, they won the Premier League for the second time in three seasons with a 2\u20130 win over West Ham United.[9] It was the first time that Manchester City had won two major trophies in a season since the 1969\u201370 season, when they won the League Cup and the Cup Winners' Cup, and concluded one of the greatest seasons in the club's history.",
-        "llm_response": "Manchester City.",
-        "overlap_percent": 0.36,
-        "semantic_percent": 48.47
+        "question": "visual c++ 2013 runtime for sideloaded windows 8.1 apps",
+        "expected_answer": "Windows Runtime Windows Phone 8.1 uses a version of the Windows Runtime named the Windows Phone Runtime. It enables developing applications in C# and VB.NET, and Windows Runtime components in C++/CX.[3]",
+        "llm_response": "The following code snippet is a valid C++ program that can be executed by the Visual Studio compiler in Windows 8.1: \n\n```cpp\n#include <iostream>\nusing namespace std;\n\nint main() {\n    // Code to be executed\n    cout << \"Hello, World!\";\n\n    return 0;\n}\n```",
+        "overlap_percent": 9.3,
+        "semantic_percent": 42.13
       },
       {
         "id": 7,
-        "question": "who plays steffy in the bold and the beautiful",
-        "expected_answer": "Jacqueline MacInnes Wood Jacqueline MacInnes Wood (born 17 April 1987) is a Canadian actress, disc jockey, singer and television host. She portrayed Olivia Castle in the film Final Destination 5 and Steffy Forrester in TV soap opera The Bold and the Beautiful, the latter earning her three Daytime Emmy Award nominations in 2012, 2013 and 2018.",
-        "llm_response": "Jennifer Aniston.",
+        "question": "what is z a n u p f",
+        "expected_answer": "ZANU\u2013PF The Zimbabwe African National Union \u2013 Patriotic Front (ZANU\u2013PF) has been the ruling party in Zimbabwe since independence in 1980. The party was led for many years under Robert Mugabe, first as Prime Minister with the Zimbabwe African National Union (ZANU) and then as President from 1987 after the merger with the Zimbabwe African People's Union (ZAPU) and retaining the name ZANU\u2013PF, until 2017 when he was removed as leader.",
+        "llm_response": "Unpredictable.",
         "overlap_percent": 0.0,
-        "semantic_percent": 26.91
+        "semantic_percent": 9.29
       },
       {
         "id": 8,
-        "question": "when and where was basketball introduced in olympics as a medal event",
-        "expected_answer": "Basketball at the 1936 Summer Olympics Basketball at the 1936 Summer Olympics was the first appearance of the sport as an official medal event. The tournament was played between 7 August and 14 August 1936 in Berlin, Germany. 23 nations entered the competition, making basketball the largest tournament of the team sports.",
-        "llm_response": "Basketball was first contested at the 1936 Summer Olympics. The men's tournament featured twelve teams, while there were eight women\u2019s teams for the inaugural edition of the sport.",
-        "overlap_percent": 22.18,
-        "semantic_percent": 82.93
+        "question": "a key characteristic feature of acute respiratory distress syndrome (ards) is",
+        "expected_answer": "Acute respiratory distress syndrome Acute (or Adult) respiratory distress syndrome (ARDS) is a medical condition occurring in critically ill patients characterized by widespread inflammation in the lungs. ARDS is not a particular disease; rather, it is a clinical phenotype which may be triggered by various pathologies such as trauma, pneumonia and sepsis.",
+        "llm_response": "A key characteristic feature of ARDS is the rapid onset and severe hypoxemia. This condition can be life-threatening if not promptly treated with supportive care, such as mechanical ventilation to assist breathing and oxygen therapy to improve oxygenation levels in the blood. Prompt diagnosis and intervention are crucial for improving outcomes in patients with ARDS.",
+        "overlap_percent": 34.64,
+        "semantic_percent": 67.89
       },
       {
         "id": 9,
-        "question": "what was the subject of the henderson books",
-        "expected_answer": "Henderson's Boys Henderson's Boys is a series of young adult spy novels written by English author Robert Muchamore.[2] The series follows Charles Henderson, the creator of the fictitious CHERUB organisation. The novels are set between 1940 and 1945, during the Nazi occupation of France in World War II. Throughout the novels, Henderson leads a series of war missions, aided by children.[3]",
-        "llm_response": "The author of the book is Ayn Rand.",
-        "overlap_percent": 1.29,
-        "semantic_percent": 8.95
+        "question": "where does dna replication begin on a chromosome",
+        "expected_answer": "Origin of replication DNA replication may proceed from this point bidirectionally or unidirectionally.[3]",
+        "llm_response": "Replication of DNA begins at specific sites called origins of replication. These are regions within the chromosome that have special sequences that attract and bind proteins necessary for DNA synthesis to occur. Once bound, an enzyme complex initiates unwinding of the double helix structure, separating the two strands. This allows each strand to serve as a template for the synthesis of a new complementary strand by another enzyme known as DNA polymerase. The process continues along the entire length of the chromosome until it reaches its end or is stopped by other factors.",
+        "overlap_percent": 49.53,
+        "semantic_percent": 71.87
       },
       {
         "id": 10,
-        "question": "who discovered that cells originate from division of existing cells",
-        "expected_answer": "Cell theory However, the idea that all cells come from pre-existing cells had in fact already been proposed by Robert Remak; it has been suggested that Virchow plagiarized Remak and did not give him credit.[15] Remak published observations in 1852 on cell division, claiming Schleiden and Schawnn were incorrect about generation schemes. He instead said that binary fission, which was first introduced by Dumortier, was how reproduction of new animal cells were made. Once this tenet was added, the classical cell theory was complete.",
-        "llm_response": "The theory that was proposed by the scientist is that all living organisms are made up of cells, and that these cells were once united as a single cell. This finding was revolutionary at the time, as it challenged previously held beliefs about how living things came to exist.",
-        "overlap_percent": 31.44,
-        "semantic_percent": 68.7
+        "question": "where do mammals fit in the classification of animals",
+        "expected_answer": "Mammal classification Mammalia is a class of animal within the Phylum Chordata. Mammal classification has been through several iterations since Carl Linnaeus initially defined the class. No classification system is universally accepted; McKenna & Bell (1997) and Wilson & Reader (2005) provide useful recent compendiums.[1] Many earlier ideas from Linnaeus et al have been completely abandoned by modern taxonomists, among these are the idea that bats are related to birds or that humans represent a group outside of other living things.[2] Competing ideas about the relationships of mammal orders do persist and are currently in development. Most significantly in recent years, cladistic thinking has led to an effort to ensure that all taxonomic designations represent monophyletic groups. The field has also seen a recent surge in interest and modification due to the results of molecular phylogenetics.",
+        "llm_response": "Mammals are a class of animals that belong to the phylum Chordata, which means they have notochords and spinal cords at some point in their development. They also share other characteristics such as hair or fur, mammary glands for producing milk, three middle ear bones, a diaphragm, and a four-chambered heart. Some examples of mammals include dogs, cats, whales, elephants, lions, and humans.",
+        "overlap_percent": 14.66,
+        "semantic_percent": 64.98
       },
       {
         "id": 11,
-        "question": "when was the magnum built at cedar point",
-        "expected_answer": "Magnum XL-200 Magnum XL-200, colloquially known as simply Magnum, is a steel roller coaster built by Arrow Dynamics at Cedar Point in Sandusky, Ohio. When built in 1989, it was the tallest, fastest, and steepest complete-circuit roller coaster in the world as well as the first hypercoaster \u2013 a roller coaster that exceeds 200 feet (61\u00a0m) in height.[1] Some have credited Magnum with starting a period in the industry known as the roller coaster wars, in which amusement parks competed with one another at a rapid pace to build the next tallest and fastest roller coaster.[2][3] More than 40 million people had ridden Magnum as of 2009.[4]",
-        "llm_response": "The Magnum, a large handgun developed by Colt's Manufacturing Company in 1873.",
-        "overlap_percent": 2.15,
-        "semantic_percent": 44.14
+        "question": "is gulf of guinea a body of water",
+        "expected_answer": "Gulf of Guinea The Gulf of Guinea is the northeasternmost part of the tropical Atlantic Ocean between Cape Lopez in Gabon, north and west to Cape Palmas in Liberia.[2] The intersection of the Equator and Prime Meridian (zero degrees latitude and longitude) is in the gulf.",
+        "llm_response": "Yes, the Gulf of Guinea is indeed a body of water. It is an offshore sea in West Africa that separates Central and Western Africa from North America's Atlantic coast. The Gulf of Guinea covers approximately 1 million square miles (2.5 million km\u00b2) and is known for its rich biodiversity and important fisheries.",
+        "overlap_percent": 33.33,
+        "semantic_percent": 69.51
       },
       {
         "id": 12,
-        "question": "what is the function of ribbon in ms word",
-        "expected_answer": "Ribbon (computing) A toolbar interface, called the \"ribbon\", has been a feature of Microsoft Word from the early DOS-based Word 5.5 (ca. 1990)[5] and the first Windows-based versions (activated by the \"View | Ribbon\" menu option[6]), for which early advertising referred to the use of \"the Ribbon to replace an endless string of commands to let you format characters by eye instead of memory\".[3]",
-        "llm_response": "The function of Ribbon in MS Word is to provide a set of graphical controls that allows users to format text and graphics on their documents. It includes tools such as styles, templates, themes, parallax scrolling effects, and more. Users can customize these elements to enhance the visual appeal and readability of their documents.",
-        "overlap_percent": 16.46,
-        "semantic_percent": 80.4
+        "question": "how old does the driver have to be with a permit",
+        "expected_answer": "Learner's permit In order for a minor to receive a learner's permit, sometimes called an instructional permit,[20] states typically require that the minor have at least 6 practice hours before getting the permit and signed permission from a parent or guardian.[21] In the state of New Hampshire, a permit is not given but the young driver may begin to drive with a parent or guardian, or an adult 25 years of age, at the age of 15 and a half.[22]",
+        "llm_response": "16 years old.",
+        "overlap_percent": 2.51,
+        "semantic_percent": 23.42
       },
       {
         "id": 13,
-        "question": "what kind of machine does a court reporter use",
-        "expected_answer": "Stenotype A stenotype, stenotype machine, shorthand machine or steno writer is a specialized chorded keyboard or typewriter used by stenographers for shorthand use. In order to pass the United States Registered Professional Reporter test, a trained court reporter or closed captioner must write speeds of approximately 180, 200, and 225 words per minute (wpm) at very high accuracy in the categories of literary, jury charge, and testimony, respectively.[1] Some stenographers can reach 300 words per minute. The Web site of the California Official Court Reporters Association gives the official record for American English as 375 wpm.[2]",
-        "llm_response": "A court reporter uses an electronic typewriter to type up a verbatim record of legal proceedings. It is also used for transcribing audio and video material such as interviews, meetings, conferences, and more.",
-        "overlap_percent": 12.76,
-        "semantic_percent": 54.37
+        "question": "what do the magic words on mickey mouse clubhouse mean",
+        "expected_answer": "Mickey Mouse Clubhouse Mickey, Minnie, Donald, Daisy, Goofy, Pluto, and a mechanical assistant \"Mouseketool\" called Toodles, interact with the viewer to stimulate problem solving during each episode's story. Disney says that each episode has the characters help children \"solve a specific age-appropriate problem utilizing basic math skills, such as identifying shapes and counting through ten.\" The series uses \"Disney Junior's 'whole child' curriculum of cognitive, social and creative learning opportunities.\"[1] Once the problem of the episode has been explained, Mickey invites viewers to join him at the Mousekadoer, a giant Mickey-head-shaped computer whose main function is to distribute the day's Mouseketools, a collection of objects needed to solve the day's problem, to Mickey. Once the tools have been shown to Mickey on the Mousekadoer screen, they are quickly downloaded to Toodles, a small, Mickey-head-shaped flying extension of the Mousekedoer. By calling, \"Oh Toodles!\" Mickey summons him to pop up from where he is hiding and fly up to the screen so the viewer can pick which tool Mickey needs for the current situation.[2][3] The show features two original songs performed by American alternative rock band They Might Be Giants, including the opening theme song, in which a variant of a Mickey Mouse Club chant (\"Meeska Mooska Mickey Mouse!\") is used to summon the Clubhouse. They Might Be Giants also perform the song used at the end of the show, \"Hot Dog!\" which echoes Mickey's first spoken words in the 1929 short The Karnival Kid. This is the first time the major Disney characters have regularly appeared on television in computer-animated form. The characters debuted in CG form in 2003 at the Magic Kingdom theme park attraction Mickey's PhilharMagic, then in the 2004 home video Mickey's Twice Upon a Christmas.",
+        "llm_response": "The phrase \"magic words\" is a metaphor used to describe specific phrases or codes that have special meaning. In this context, it implies that there are certain words or phrases within the Mickey Mouse Clubhouse that hold significance and unlock hidden secrets or experiences for users of the clubhouse. It suggests that by using these magic words correctly, one can access exclusive content or gain unique advantages in the game.",
+        "overlap_percent": 17.79,
+        "semantic_percent": 45.46
       },
       {
         "id": 14,
-        "question": "when did bark at the moon come out",
-        "expected_answer": "Bark at the Moon Bark at the Moon is the third studio album by British heavy metal vocalist Ozzy Osbourne, originally released on 15 November 1983. The album features former Mickey Ratt and Rough Cutt guitarist Jake E. Lee, who replaced guitarist Randy Rhoads who had been killed a year earlier in a plane crash. The album peaked at number 19 on the Billboard album chart[5] and within several weeks of release was certified Gold for over 500,000 sales in the United States.[6] To date, it has sold over 3,000,000 copies in the US.[6] In the UK, it was the third of four Osbourne albums to attain Silver certification (60,000 units sold) by the British Phonographic Industry, achieving this in January 1984.[7] The album was remastered on CD in 1995 and again (with a different mix) in 2002. This is the first album to feature guitarist Jake E. Lee and the only studio album to feature drummer Tommy Aldridge.",
-        "llm_response": "Barking At The Moon came out in 1994.",
-        "overlap_percent": 4.06,
-        "semantic_percent": 51.18
+        "question": "where is the data stored in google drive",
+        "expected_answer": "Google Drive Google Drive is a file storage and synchronization service developed by Google. Launched on April 24, 2012, Google Drive allows users to store files on their servers, synchronize files across devices, and share files. In addition to a website, Google Drive offers apps with offline capabilities for Windows and macOS computers, and Android and iOS smartphones and tablets. Google Drive encompasses Google Docs, Sheets and Slides, an office suite that permits collaborative editing of documents, spreadsheets, presentations, drawings, forms, and more. Files created and edited through the office suite are saved in Google Drive.",
+        "llm_response": "The data is stored on Google Drive. You can access it from any device with an internet connection and a web browser, or download it to your local storage if you prefer. Your files are encrypted for security and backed up regularly by Google Cloud Storage.",
+        "overlap_percent": 16.42,
+        "semantic_percent": 51.37
       },
       {
         "id": 15,
-        "question": "when does everyone find out that katherine is in elena's body",
-        "expected_answer": "No Exit (The Vampire Diaries) Damon wakes up chained on the Salvatore house's basement. Stefan is there and Damon tries to warn him that because of his cravings, one day he will kill him but Stefan tells him that they will find a solution. Damon points to Stefan that \"Elena\" provoked him to feed on her and then she kicked a stake towards him so he will kill him. Stefan does not believe that Elena would want that, he locks Damon up and gets upstairs where Caroline is. The two of them discuss what happened between Stefan and \"Elena\" and Caroline also tells him about Nadia and Matt and the text he sent to her. From Matt's text, who used \"K\" and not \"E\", they put the pieces together and they realize that Katherine is in Elena's body.",
-        "llm_response": "Everyone will eventually discover the truth about Katherine being in Elena's body.",
-        "overlap_percent": 5.35,
-        "semantic_percent": 49.47
+        "question": "the writ of prohibition is issued by the supreme court or a high court against",
+        "expected_answer": "Writ of prohibition A \"writ of prohibition\", in the United States, is an official legal document drafted and issued by a supreme court, superior court or an appeals court to a judge presiding over a suit in an inferior court. The writ of prohibition mandates the inferior court to cease any action over the case because it may not fall within that inferior court's jurisdiction. The document is also issued at times when it is deemed that an inferior court is acting outside the normal rules and procedures in the examination of a case. In another instance, the document is issued at times when an inferior court is deemed headed towards defeating a legal right.",
+        "llm_response": "The Supreme Court and High Courts can issue the Writ of Prohibition.",
+        "overlap_percent": 10.39,
+        "semantic_percent": 79.59
       },
       {
         "id": 16,
-        "question": "who is the current speaker of the house of commons",
-        "expected_answer": "Speaker of the House of Commons (United Kingdom) The Speaker of the House of Commons is the presiding officer of the House of Commons, the United Kingdom's lower chamber of Parliament. The office is currently held by John Bercow, who was initially elected on 22 June 2009, following the resignation of Michael Martin. He was returned as an MP in the 2010 general election and was re-elected as Speaker when the House sat at the start of the new Parliament on 18 May 2010. He was again returned as an MP in the 2015 general election and was re-elected, unopposed, as Speaker when the House sat at the start of the new Parliament on 18 May 2015[1] and again on 13 June 2017.[2]",
-        "llm_response": "The Speaker of the House of Commons is John Bercow. He has been serving as the Speaker since 2015.",
-        "overlap_percent": 23.11,
-        "semantic_percent": 80.19
+        "question": "the us food and drug administration designed this label",
+        "expected_answer": "Nutrition facts label The label was mandated for most food products under the provisions of the 1990 Nutrition Labeling and Education Act (NLEA), per the recommendations of the U.S. Food and Drug Administration.[24] It was one of several controversial actions taken during the tenure of FDA Commissioner Dr. David Kessler. The law required food companies to begin using the new food label on packaged foods beginning May 8, 1994. (Meat and poultry products were not covered by NLEA, though the U.S. Department of Agriculture proposed similar regulations for voluntary labeling of raw meat and poultry.[25]) Foods labeled before that day could use the old label. This appeared on all products in 1995. The old label was titled \"Nutrition Information Per Serving\" or simply, \"Nutrition Information\".",
+        "llm_response": "The US Food and Drug Administration (FDA) is responsible for ensuring that all food, drugs, medical devices, cosmetics, and other products are safe for public use. They set standards for quality control and labeling of these products to protect consumers from harmful substances or false claims. For example, they require proper ingredient listing on nutrition labels, safety warnings on medication packaging, and accurate dosage information on prescription bottles.",
+        "overlap_percent": 19.56,
+        "semantic_percent": 52.55
       },
       {
         "id": 17,
-        "question": "who won the world cup in 2010 in south africa",
-        "expected_answer": "2010 FIFA World Cup In the final, Spain, the European champions, defeated the Netherlands (third-time losing finalists) 1\u20130 after extra time, with Andr\u00e9s Iniesta's goal in the 116th minute giving Spain their first world title. Spain became the eighth nation to win the tournament and the first European nation to win a World Cup hosted outside its home continent: all previous World Cups held outside Europe had been won by South American nations. As a result of their win, Spain represented the World in the 2013 FIFA Confederations Cup. Host nation South Africa, 2006 champions Italy and 2006 runners-up France were all eliminated in the first round of the tournament. It was the first time that the hosts had been eliminated in the first round. New Zealand, with their three draws, were the only undefeated team in the tournament, but they were also eliminated in the first round.",
-        "llm_response": "South Africa was crowned as the champion of FIFA World Cup in 2010, after they defeated Italy 4-2 in a penalty shootout following a 2-2 draw at the final whistle. The tournament was held in South Africa from 9 November to 17 December 2010, and featured 32 teams competing for the trophy. The victory marked South Africa's first ever World Cup win, and their second overall major international title after winning the COSAFA Cup in 2000.",
-        "overlap_percent": 39.51,
-        "semantic_percent": 68.42
+        "question": "when's the last time the chiefs went to the superbowl",
+        "expected_answer": "Kansas City Chiefs The Chiefs have won three AFL championships, in 1962, 1966, and 1969[6] and became the second AFL team (after the New York Jets) to defeat an NFL team in an AFL\u00e2\u20ac\u201cNFL World Championship Game, when they defeated the Minnesota Vikings in Super Bowl IV. The team's victory on January 11, 1970, remains the club's last championship game victory and appearance to date, and occurred in the final such competition prior to the leagues' merger coming into full effect. The Chiefs were also the second team, after the Green Bay Packers, to appear in more than one Super Bowl (and the first AFL team to do so) and the first to appear in the championship game in two different decades.",
+        "llm_response": "The last time the Chiefs and Super Bowl champions met in a regular season game was in 2001. The Chiefs won that game, with the final score of 34-7. This marks their most recent appearance in an NFL championship game. They have gone on to win four more Super Bowls since then.",
+        "overlap_percent": 32.6,
+        "semantic_percent": 78.61
       },
       {
         "id": 18,
-        "question": "little house on the prairie melissa francis character",
-        "expected_answer": "Melissa Francis Francis started her acting career on television before her first birthday, first appearing in a Johnson & Johnson shampoo commercial at 6 months of age. She was known for her role as Cassandra Cooper Ingalls on Little House on the Prairie, for two seasons.[2][3] Other television appearances include two series regular roles: Morningstar/Eveningstar and Joe\u00e2\u20ac\u2122s World, and three films including Man, Woman and Child, where she played Paula Beckwith. She has also had appearances in the television series St. Elsewhere in 1986 and the 1988 film Bad Dreams, where she played young Cynthia. Melissa appeared in nearly 100 commercials during her acting career. She is reportedly the inspiration for the fictional character Avery Jessup (conceived of and played by Elizabeth Banks) in the show 30 Rock,[4] although Banks herself has denied this.[5]",
-        "llm_response": "Little House, on the Prairie. Melissa Francis is a determined and resilient character who overcomes obstacles to achieve her dreams. She learns valuable life lessons about family, love, and perseverance in this beloved novel by Laura Ingalls Wilder.",
-        "overlap_percent": 10.47,
-        "semantic_percent": 65.17
+        "question": "what major cellular event happen during the s phase of interphase",
+        "expected_answer": "S phase S phase (synthesis phase) is the part of the cell cycle in which DNA is replicated, occurring between G1 phase and G2 phase. Precise and accurate DNA replication is necessary to prevent genetic abnormalities which often lead to cell death or disease. Due to the importance, the regulatory pathways that govern this event in eukaryotes are highly conserved. This conservation makes the study of S-phase in model organisms such as Xenopus laevis embryos and budding yeast relevant to higher organisms.",
+        "llm_response": "DNA replication. During the S (synthesis) phase, which is part of Interphase, each strand of a double-stranded chromosome serves as a template for the synthesis of a new complementary strand by an enzyme called DNA polymerase. This results in two identical copies or sister chromatids that are attached at a region called the centromere. The process ensures that each daughter cell receives one complete set of chromosomes after cell division.",
+        "overlap_percent": 30.53,
+        "semantic_percent": 69.72
       },
       {
         "id": 19,
-        "question": "where did joey and rory get their start",
-        "expected_answer": "Joey + Rory Before the duo's foundation, Rory Lee Feek worked as a songwriter in Nashville, Tennessee, and continued to work as a songwriter as a member of Joey + Rory. Songs he wrote for other artists include Clay Walker's Top Five hit \"The Chain of Love\", Blake Shelton's Number One hit \"Some Beach\", Easton Corbin's \"A Little More Country Than That\", Blaine Larsen's 2005 hit, \"How Do You Get That Lonely\", and Jimmy Wayne's 2008 single \"I Will\". Rory also founded the independent label Giantslayer Records in 2004, on which Joey recorded a solo album entitled Strong Enough to Cry in 2005. This album was released in CD format and digital download in 2008.[1] Rory also recorded a solo album on Giantslayer Records, titled My Ol' Man, which he made available only as a download.",
-        "llm_response": "Jojo and Rory's Start-Up Story.",
-        "overlap_percent": 0.0,
-        "semantic_percent": 32.43
+        "question": "who is given the credit for establishing deaf education",
+        "expected_answer": "Deaf education John Bulwer, an English physician, [24] wrote five works on bodily human communication (particularly gestures). He was the first person in England to propose educating deaf people, [25] outlining plans for an academy in Philocophus and The Dumbe mans academie.",
+        "llm_response": "Laurent Clerc and Thomas Gallaudet are credited with establishing Deaf Education.",
+        "overlap_percent": 6.94,
+        "semantic_percent": 64.64
+      }
+    ]
+  },
+  {
+    "test_number": 3,
+    "timestamp": "2025-09-07 19:22:25",
+    "duration_seconds": 110.53,
+    "n_questions": 20,
+    "avg_overlap": 10.49,
+    "avg_semantic": 53.42,
+    "results": [
+      {
+        "id": 0,
+        "question": "who played winston churchill in the darkest hour movie",
+        "expected_answer": "Darkest Hour (film) Darkest Hour is a 2017 war drama film directed by Joe Wright and written by Anthony McCarten. It stars Gary Oldman as Winston Churchill, and is an account of his early days as Prime Minister, as Nazi Germany swept across Western Europe, threatening to defeat the United Kingdom during World War II. It leads to friction at the highest levels of government between those who would make a peace treaty with Hitler and Churchill, who refused. The film also stars Kristin Scott Thomas, Lily James, Ben Mendelsohn, Stephen Dillane, and Ronald Pickup.",
+        "llm_response": "Gary Oldman portrayed Winston Churchill in \"The Darkest Hour.\"",
+        "overlap_percent": 6.07,
+        "semantic_percent": 80.62
       },
       {
-        "id": 20,
-        "question": "is there an expiry date on nectar points",
-        "expected_answer": "Nectar loyalty card Points can also be redeemed with a number of partners through evouchers, including Eurostar, PizzaExpress and Hertz. Points are lost if a Nectar account is closed. For example, an account may be closed if no points have been earned or redeemed for a continuous period of 12 months.[7] As Nectar points do not normally \"expire\", it is possible for cardholders to save towards more expensive rewards, such as train tickets and holidays.",
-        "llm_response": "No, there is no expiration date mentioned for Nectar Points.",
-        "overlap_percent": 1.56,
-        "semantic_percent": 69.57
+        "id": 1,
+        "question": "why do they drop the ball on new years",
+        "expected_answer": "Times Square Ball The first New Year's Eve celebration in Times Square was held on December 31, 1904; The New York Times' owner, Adolph Ochs, decided to celebrate the opening of the newspaper's new headquarters, One Times Square, with a New Year's fireworks show on the roof of the building to welcome 1905. Close to 200,000 people attended the event, displacing traditional celebrations that had normally been held at Trinity Church.[43] However, following several years of fireworks shows, Ochs wanted a bigger spectacle at the building to draw more attention to the area. The newspaper's chief electrician, Walter F. Palmer, suggested using a time ball, after seeing one used on the nearby Western Union Building.[43]",
+        "llm_response": "Why Do They Drop the Ball on New Year's Eve?",
+        "overlap_percent": 5.73,
+        "semantic_percent": 46.1
       },
       {
-        "id": 21,
-        "question": "who plays the candy shop owner in willy wonka",
-        "expected_answer": "Aubrey Woods Woods was born on 9 April 1928 in Edmonton, Middlesex and educated at the Latymer School. His first film role was as Smike in The Life and Adventures of Nicholas Nickleby (1947). On stage he played the role of Fagin in Lionel Bart's production of Oliver! at the New Theatre, St Martin's Lane in the 1960s alongside Nicolette Roeg and Robert Bridges. He played Alfred Jingle in the TV musical Pickwick for the BBC in 1969. Woods' best remembered film role is in Willy Wonka & the Chocolate Factory, where he played the character of Bill, the Candy Store Owner, singing \"The Candy Man\" near the beginning of the film, the single was later a hit for entertainer Sammy Davis Jr. During the early 1970s he collaborated on the musical Trelawny with friend Julian Slade.[2]",
-        "llm_response": "Mary-Louise Parker.",
-        "overlap_percent": 0.0,
-        "semantic_percent": 7.61
-      },
-      {
-        "id": 22,
-        "question": "who does the voice of the old man on family guy",
-        "expected_answer": "Herbert (Family Guy character) John Herbert (generally referred to simply as Herbert, sometimes referred to as Herbert the Pervert, and referred to as Mr. Herbert by Chris and sometimes other characters) is a fictional character in the animated television series Family Guy. He is voiced by Mike Henry, who also designed the character. Herbert is a World War II veteran who is an elderly neighbor of the Griffin family. He first appeared in the season 3 episode \"To Love and Die in Dixie\". He is attracted to young boys, and harbors unrequited love for underage teenager Chris Griffin, though most other citizens of Quahog are oblivious to his sexuality. Henry defines Herbert as a pedophile, although speaking in clinical terms this is not the case.[1]",
-        "llm_response": "Jeff Goldblum voices the Old Man in \"Family Guy\".",
-        "overlap_percent": 2.91,
-        "semantic_percent": 45.1
-      },
-      {
-        "id": 23,
-        "question": "what is the setting of when you reach me",
-        "expected_answer": "When You Reach Me When You Reach Me is a Newbery Medal-winning science fiction and mystery novel by Rebecca Stead, published in 2009. It takes place in the Upper West Side in New York during 1978 and 1979 and follows the protagonist, Miranda Sinclair. She receives a strange note asking her to record future events and write down to the location of her spare key. As the novel progresses, Miranda receives three more notes with requests. The novel contains three story lines\u00a0\u2014 the appearance of Miranda's mom on the game show, The $20,000 Pyramid, Miranda's best friend Sal suddenly not talking with Miranda, and the appearance of a laughing man. Central themes in the novel include independence, redemption and friendship. Stead also wanted to demonstrate the possibilities that she saw in time travel. The author hoped to show her children what New York was like in her childhood, and demonstrate how in an earlier time children were more independent.",
-        "llm_response": "When I reached her, she was sitting on a park bench in Central Park. The sun was shining brightly overhead and there were people walking their dogs all around us. She looked up at me with tears in her eyes and said that everything had finally worked out for her. It seemed like it had been years since they last saw each other but the warmth between them remained the same. We talked about old times, laughed at some old jokes, and enjoyed the beautiful day together before I had to leave. As I walked away from the park, I couldn't help but feel something special had happened that day and that it would stay with me forever.",
-        "overlap_percent": 23.85,
-        "semantic_percent": 30.45
-      },
-      {
-        "id": 24,
-        "question": "what point of view is the book monster written in",
-        "expected_answer": "Monster (Myers novel) The book uses a mixture of a third-person screenplay and a first-person diary format to tell, through the perspective of Steve Harmon, an African American teenager, the story of his trial along with James King for felony murder in the state of New York.",
-        "llm_response": "third person.",
-        "overlap_percent": 0.0,
-        "semantic_percent": 16.49
-      },
-      {
-        "id": 25,
-        "question": "who was the president when india tested nuclear",
-        "expected_answer": "Pokhran-II Prime Minister Nawaz Sharif had been under intense pressure regarding the nuclear tests by President Bill Clinton and Opposition leader Benazir Bhutto at home.[35] Initially surprising the world, Prime Minister Nawaz Sharif authorised nuclear testing program and the Pakistan Atomic Energy Commission (PAEC) carried out nuclear testings under the codename Chagai-I on 28 May 1998 and Chagai-II on 30 May 1998. These six underground nuclear tests at the Chagai and Kharan test site were conducted fifteen days after India's last test. The total yield of the tests was reported to be 40\u00c2\u00a0kt (see codename: Chagai-I).[36]",
-        "llm_response": "The President of India from 2019-2024 is Narendra Modi. He succeeded Ram Nath Kovind as the 15th President of India on 30 May 2014 after winning the presidential election.",
-        "overlap_percent": 5.41,
-        "semantic_percent": 25.47
-      },
-      {
-        "id": 26,
-        "question": "how many articles did we have in our original constitution",
-        "expected_answer": "United States Constitution The United States Constitution is the supreme law of the United States.[1] The Constitution, originally comprising seven articles, delineates the national frame of government. Its first three articles embody the doctrine of the separation of powers, whereby the federal government is divided into three branches: the legislative, consisting of the bicameral Congress; the executive, consisting of the President; and the judicial, consisting of the Supreme Court and other federal courts. Articles Four, Five and Six embody concepts of federalism, describing the rights and responsibilities of state governments and of the states in relationship to the federal government. Article Seven establishes the procedure subsequently used by the thirteen States to ratify it. It is regarded as the oldest written and codified constitution in force of the world.[2]",
-        "llm_response": "4. (Articles 1-4)",
-        "overlap_percent": 0.0,
-        "semantic_percent": 29.94
-      },
-      {
-        "id": 27,
-        "question": "when did advance australia fair become the anthem",
-        "expected_answer": "Advance Australia Fair \"Advance Australia Fair\" is the national anthem of Australia. Created by the Scottish-born composer Peter Dodds McCormick, the song was first performed in 1878 and sung in Australia as a patriotic song. It replaced \"God Save the Queen\" as the official national anthem in 1984, following a plebiscite to choose the national song in 1977. Other songs and marches have been influenced by \"Advance Australia Fair\", such as the Australian vice-regal salute.",
-        "llm_response": "Advance Australia Fair became an official national anthem of Australia in 1928, although it had been used unofficially since at least 1901. The lyrics were written by Sir John Forrest and the music was composed by William Wallace Scott.",
-        "overlap_percent": 37.28,
-        "semantic_percent": 85.83
-      },
-      {
-        "id": 28,
-        "question": "who was the maryland act of toleration trying to protect",
-        "expected_answer": "Maryland Toleration Act The Maryland Toleration Act, also known as the Act Concerning Religion, was a law mandating religious tolerance for Trinitarian Christians. It was passed on April 21, 1649, by the assembly of the Maryland colony, in St. Mary's City. It was the second law requiring religious tolerance in the British North American colonies and created one of the pioneer statutes passed by the legislative body of an organized colonial government to guarantee any degree of religious liberty. Specifically, the bill, now usually referred to as the Toleration Act, granted freedom of conscience to all Christians.[1] (The colony which became Rhode Island passed a series of laws, the first in 1636, which prohibited religious persecution including against non-Trinitarians; Rhode Island was also the first government to separate church and state.) Historians argue that it helped inspire later legal protections for freedom of religion in the United States. The Calvert family, who founded Maryland partly as a refuge for English Catholics, sought enactment of the law to protect Catholic settlers and those of other religions that did not conform to the dominant Anglicanism of Britain and her colonies.",
-        "llm_response": "The Maryland Toleration Act (also known as the Maryland Religious Freedom Bill) was passed in 1649 by the Maryland General Assembly. Its primary purpose was to grant religious freedom and protect the rights of non-conforming Protestants, such as Quakers and Baptists. This law marked one of the earliest instances of a government recognizing and protecting religious diversity within its borders. It served as an important precedent for later discussions on tolerance and individual freedoms.",
-        "overlap_percent": 37.04,
-        "semantic_percent": 83.21
-      },
-      {
-        "id": 29,
-        "question": "on which space shuttle was the canadarm first tested in space",
-        "expected_answer": "Canadarm A simulated Canadarm installed on the Space Shuttle Enterprise was seen when the prototype orbiter's payload bay doors were open to test hangar facilities early in the shuttle program.[7] The Canadarm was first tested in orbit in 1981, on Space Shuttle Columbia's STS-2 mission. Its first operational use was on STS-3 to deploy and maneuver the Plasma Diagnostics Package.[8] Canadarm has since flown on more than 90 missions with all five orbiters.",
-        "llm_response": "The Canadarm was first tested aboard the Space Shuttle Challenger in 1984.",
-        "overlap_percent": 17.72,
-        "semantic_percent": 74.82
-      },
-      {
-        "id": 30,
-        "question": "how many species of river dolphin are there",
-        "expected_answer": "River dolphin Four families of river dolphins (Iniidae, Pontoporiidae, Lipotidae and Platanistidae) are currently recognized, comprising three superfamilies (Inioidea, Lipotoidea and Platanistoidea). Platanistidae, containing the two subspecies of South Asian river dolphin, is the only accepted family of Platanistoidea.[1] Previously, many taxonomists had assigned all river dolphins to a single family, Platanistidae, and treated the Ganges and Indus River dolphins as separate species. A December 2006 survey found no members of Lipotes vexillifer (commonly known as the baiji, or Chinese river dolphin) and declared the species functionally extinct. With their disappearance, one of the recently accepted superfamilies, Lipotoidea, has become extinct.[2]",
-        "llm_response": "There is only one species of freshwater dolphin, the Amazon River Dolphin (Inia geoffrensis). It can be found in rivers throughout South America.",
-        "overlap_percent": 23.08,
-        "semantic_percent": 66.89
-      },
-      {
-        "id": 31,
-        "question": "what disease does the narrator in the tell tale heart have",
-        "expected_answer": "The Tell-Tale Heart \"The Tell-Tale Heart\" is a first-person narrative of an unnamed narrator, who insists he is sane but is suffering from a disease (nervousness) which causes \"over-acuteness of the senses\". Due to the ambiguity surrounding the identity of the story's narrator, the narrator's gender cannot be known for certain. However, for ease of description, masculine pronouns are used in this article.",
-        "llm_response": "The narrative doesn't provide information about any specific diseases or health conditions. It is a personal story shared by the narrator, focusing on their emotional journey and experiences rather than medical details.",
-        "overlap_percent": 5.83,
-        "semantic_percent": 55.96
-      },
-      {
-        "id": 32,
-        "question": "write two features of any one type of tide",
-        "expected_answer": "Tide Tide tables can be used to find the predicted times and amplitude (or \"tidal range\") of tides at any given locale. The predictions are influenced by many factors including the alignment of the Sun and Moon, the phase and amplitude of the tide (pattern of tides in the deep ocean), the amphidromic systems of the oceans, and the shape of the coastline and near-shore bathymetry (see Timing). They are however only predictions, the actual time and height of the tide is affected by wind and atmospheric pressure. Some shorelines experience a semi-diurnal tide\u2014two nearly equal high and low tides each day. Other locations experience a diurnal tide\u2014only one high and low tide each day. A \"mixed tide\"\u2014two uneven tides a day, or one high and one low\u2014is also possible.[1][2][3]",
-        "llm_response": "Two characteristics of high tides are higher water levels and increased tidal range. High tides occur when the gravitational forces between the Earth, Moon, and Sun align in a way that causes more water to be pulled towards certain areas on the Earth's surface. This results in an increase in sea level during these periods. Additionally, high tides often have larger tidal ranges compared to low tides as they involve greater changes in water height due to the combined effects of both lunar and solar gravitation.",
-        "overlap_percent": 20.68,
-        "semantic_percent": 61.48
-      },
-      {
-        "id": 33,
-        "question": "who played ironside in the original tv series",
-        "expected_answer": "Ironside (1967 TV series) Ironside is an American television crime drama that aired on NBC over 8 seasons from 1967 to 1975. The show starred Raymond Burr as Robert T. Ironside, a consultant for the San Francisco police (usually addressed by the title Chief Ironside), who was paralyzed from the waist down after being shot while on vacation. The character debuted on March 28, 1967, in a TV movie titled Ironside. When the series was broadcast in the United Kingdom, in the 1970s, it was broadcast under the title A Man Called Ironside. The show earned Burr six Emmy and two Golden Globe nominations.[1]",
-        "llm_response": "Michael J. Fox is known for playing the role of Tony Stark/Iron Man in the Iron Man TV Series. He portrayed the character from 2009 to 2013, and his portrayal was highly acclaimed by both fans and critics.",
-        "overlap_percent": 15.21,
-        "semantic_percent": 52.26
-      },
-      {
-        "id": 34,
-        "question": "what is the nursery rhyme london bridge is falling down about",
-        "expected_answer": "London Bridge Is Falling Down The meaning of the rhyme is not certain. It may simply relate to the many difficulties experienced in bridging the River Thames, but a number of alternative theories have been put forward.",
-        "llm_response": "The Nursery Rhyme is \"London Bridge Is Falling Down\" by Paul McCartney. It's a song that tells the story of London Bridge and its destruction during World War II, with lyrics like: \n\nOh Lord, I have not seen such terror! \nThe bridges are all gone now, no more to see; \nThe river has turned red from blood and tears, \nAnd our city will never be whole again.",
-        "overlap_percent": 39.73,
-        "semantic_percent": 69.01
-      },
-      {
-        "id": 35,
-        "question": "what subjects were taught in european universities during the middle ages",
-        "expected_answer": "Medieval university The first Western European institutions generally considered universities were established in the Kingdom of Italy (then part of the Holy Roman Empire), the Kingdom of England, the Kingdom of France, the Kingdom of Spain, and the Kingdom of Portugal between the 11th and 15th centuries for the study of the Arts and the higher disciplines of Theology, Law, and Medicine.[1] These universities evolved from much older Christian cathedral schools and monastic schools, and it is difficult to define the exact date when they became true universities, though the lists of studia generalia for higher education in Europe held by the Vatican are a useful guide.",
-        "llm_response": "During the Middle Ages, European universities focused on teaching Latin, theology, philosophy, and law. The curriculum also included mathematics, astronomy, natural history, medicine, and music. Students would attend lectures, participate in debates, and engage in practical exercises to develop their skills in these disciplines. Additionally, there was a strong emphasis on religious studies and preparing students for careers within the church or other religious institutions.",
-        "overlap_percent": 14.51,
+        "id": 2,
+        "question": "when did when calls the heart take place",
+        "expected_answer": "When Calls the Heart Living in this 1910 coal town, Elizabeth must learn the ways of the Canadian frontier movement if she wishes to thrive in the rural west on her own. Lori Loughlin portrays Abigail Stanton, whose husband, the foreman of the mine, and her only son\u2014along with 45 other miners\u2014have recently been killed in an explosion, which turns out to have been a tragic accident waiting to happen\u2014a result of the mining-company site manager's irresponsible management and lack of due care in his management of the mine. The newly widowed women find their faith tested when they must go to work in the mine to keep a roof over their heads, food on the table, and compile a wage for the town's teacher.[10]",
+        "llm_response": "When Calls the Heart took place.",
+        "overlap_percent": 14.17,
         "semantic_percent": 65.93
       },
       {
-        "id": 36,
-        "question": "where did the drink long island come from",
-        "expected_answer": "Long Island Iced Tea Robert \"Rosebud\" Butt claims to have invented the Long Island Iced Tea as an entry in a contest to create a new mixed drink with triple sec in 1972 while he worked at the Oak Beach Inn on Long Island, New York.[3][4][5]",
-        "llm_response": "Long Island is an archipelago of islands in the East Coast of the United States, located off the northeastern coast of New York. The term \"Long Island\" refers to a group of seven principal islands and hundreds of smaller ones that are connected by bridges or causeways. It was named after English explorer John Smith who sailed along its shores in 1614. However, there is no historical evidence that shows that any specific region on Long Island had a tradition of making drinks like rum, tea, or coffee before colonization. Therefore, it cannot be conclusively said where the drink originated from among these options.",
-        "overlap_percent": 28.28,
-        "semantic_percent": 54.92
+        "id": 3,
+        "question": "when did the 12 inch macbook come out",
+        "expected_answer": "MacBook (12-inch) The MacBook is a line of Macintosh portable computers introduced in March 2015 by Apple Inc.[1] The MacBook has a similar appearance to the MacBook Air, but is thinner and lighter,[2] and is available in colors called space gray, silver, gold, and rose gold. It offers a high-resolution Retina Display, a Force Touch trackpad, a redesigned keyboard, and only two ports: a headphone jack and a USB 3.1 Type-C port for charging, data transfer and video output.",
+        "llm_response": "The Apple MacBook Air with a 13.3-inch Retina display was released in 2016, while the MacBook Pro with a 14\" Retina Display was introduced in 2017 and has been available since then. Therefore, both models were not released at the same time.",
+        "overlap_percent": 14.61,
+        "semantic_percent": 64.53
       },
       {
-        "id": 37,
-        "question": "who used introspection as a basic research tool",
-        "expected_answer": "Introspection It has often been claimed that Wilhelm Wundt, the father of modern psychology, was the first to adopt introspection to experimental psychology[1] though the methodological idea had been presented long before, as by 18th century German philosopher-psychologists such as Alexander Gottlieb Baumgarten or Johann Nicolaus Tetens.[7] Also, Wundt's views on introspection must be approached with great care.[8] Wundt was influenced by notable physiologists, such as Gustav Fechner, who used a kind of controlled introspection as a means to study human sensory organs. Building upon the pre-existing use of introspection in physiology, Wundt believed the method of introspection was the ability to observe an experience, not just the logical reflection or speculations which some others interpreted his meaning to be.[9] Wundt imposed exacting control over the use of introspection in his experimental laboratory at the University of Leipzig,[1] making it possible for other scientists to replicate his experiments elsewhere, a development that proved essential to the development of psychology as a modern, peer-reviewed scientific discipline. Such exact purism was typical of Wundt and he instructed all introspection observations be performed under these same instructions \"1) the Observer must, if possible, be in a position to determine beforehand the entrance of the process to be observed. 2) the introspectionist must, as far as possible, grasp the phenomenon in a state of strained attention and follow its course. 3) Every observation must, in order to make certain, be capable of being repeated several times under the same conditions and 4) the conditions under which the phenomenon appears must be found out by the variation of the attendant circumstances and when this was done the various coherent experiments must be varied according to a plan partly by eliminating certain stimuli and partly by grading their strength and quality\".[10]",
-        "llm_response": "Aristotle.",
+        "id": 4,
+        "question": "where can rubies be found in the us",
+        "expected_answer": "Ruby Historically, rubies have also been mined in Thailand, in the Pailin and Samlout District of Cambodia, as well as in Afghanistan, Australia, Brazil, Colombia, India, Namibia, Japan, and Scotland; after the Second World War ruby deposits were found in Madagascar, Nepal, Pakistan, Tajikistan, Tanzania, and Vietnam.[10] In Sri Lanka, lighter shades of rubies (often \"pink sapphires\") are more commonly found. Republic of Macedonia is the only country in mainland Europe to have naturally occurring rubies. They can mainly be found around the city of Prilep. Macedonian ruby has a unique raspberry color. The ruby is also included on the Macedonian Coat of Arms.[11] A few rubies have been found in the U.S. states of Montana, North Carolina, South Carolina and Wyoming.",
+        "llm_response": "Rubies are mostly found in Colombia, India and Myanmar.",
+        "overlap_percent": 10.65,
+        "semantic_percent": 71.18
+      },
+      {
+        "id": 5,
+        "question": "what is the mm on a credit card",
+        "expected_answer": "Credit card The size of most credit cards is 85.60\u00a0mm \u00d7 53.98\u00a0mm (\u200b3\u00a03\u20448\u00a0\u00d7 \u200b2\u00a01\u20448\u00a0 inches) and rounded corners with a radius of 2.88\u20133.48\u00a0mm,[5] conforming to the ISO/IEC 7810 ID-1 standard, the same size as ATM cards and other payment cards, such as debit cards.[6]",
+        "llm_response": "15 millimeters.",
         "overlap_percent": 0.0,
-        "semantic_percent": 20.49
+        "semantic_percent": 26.88
       },
       {
-        "id": 38,
-        "question": "in microsoft office the area where file management occurs is called the",
-        "expected_answer": "Microsoft Office 2010 Office 2010 introduces user interface enhancements including a Backstage view interface that consolidates document management commands into a single location. The ribbon introduced as part of Access, Excel, Outlook, PowerPoint, and Word in Office 2007 is the primary user interface for all apps and is fully customizable in Office 2010.[10][11][12] Other new features include extended file format support;[7] co-authoring features that allow multiple users to share and simultaneously edit documents;[13] integration with SharePoint and OneDrive;[13] and security improvements such as the introduction of Protected View, a new read-only, isolated sandbox environment to protect users from potentially malicious content.[14] Office 2010 is the first version of the productivity suite to ship in both 32-bit and 64-bit versions,[15][16] but the 64-bit version is not officially compatible with Windows XP or Windows Server 2003.[17][18] It is also the first version to require product activation for volume license editions.[19][20] It is the last version of Office compatible with Windows XP, Windows Server 2003, Windows Vista and Windows Server 2008 as its successor, Office 2013, does not support these operating systems.[21][22][23][24]",
-        "llm_response": "File Management.",
-        "overlap_percent": 1.52,
-        "semantic_percent": 31.53
+        "id": 6,
+        "question": "who's the actress that plays in the new wonder woman",
+        "expected_answer": "Wonder Woman (2017 film) Wonder Woman is a 2017 American superhero film based on the DC Comics character of the same name, distributed by Warner Bros. Pictures. It is the fourth installment in the DC Extended Universe (DCEU). The film is directed by Patty Jenkins, with a screenplay by Allan Heinberg, from a story by Heinberg, Zack Snyder, and Jason Fuchs, and stars Gal Gadot, Chris Pine, Robin Wright, Danny Huston, David Thewlis, Connie Nielsen, and Elena Anaya. Wonder Woman is the second live action theatrical film featuring the titular character, following her debut in 2016's Batman v Superman: Dawn of Justice.[5] Jenkins's role as director makes her the first female director of a studio superhero comic book live-action theatrical release film.[6] The film tells the story of Princess Diana, who grows up on the Amazon island of Themyscira. After American pilot Steve Trevor crashes offshore of the island and is rescued by her, he tells the Amazons about the ongoing World War. Diana then leaves her home in order to end the conflict, becoming Wonder Woman in the process.",
+        "llm_response": "Gal Gadot. She stars as Wonder Woman in all DC Extended Universe movies.",
+        "overlap_percent": 11.66,
+        "semantic_percent": 60.44
       },
       {
-        "id": 39,
-        "question": "when will the new $20 bill be released",
-        "expected_answer": "United States twenty-dollar bill On June 17, 2015, then-Treasury Secretary Jack Lew announced that a woman's portrait would be featured on a redesigned $10 bill by 2020, replacing Alexander Hamilton.[17] However, that decision was reversed, at least in part due to Hamilton's surging popularity following the hit Broadway musical Hamilton.[18]",
-        "llm_response": "The release of a new $20 bill is scheduled for next year.",
-        "overlap_percent": 11.8,
-        "semantic_percent": 60.61
+        "id": 7,
+        "question": "there was once a boy named eustace clarence scrubb and he almost deserved it",
+        "expected_answer": "Eustace Scrubb Eustace Clarence Scrubb is a fictional character in C. S. Lewis's Chronicles of Narnia. He appears in The Voyage of the Dawn Treader, The Silver Chair, and The Last Battle. In The Voyage of the Dawn Treader, he is accompanied by Edmund and Lucy Pevensie, his cousins. In The Silver Chair and The Last Battle, he is accompanied by Jill Pole, a classmate from his school.",
+        "llm_response": "There once was a boy named Eustace Clarence Scrubb, who always seemed to find himself in trouble. \nHe would get into mischief with his friends, break things around the house, and never listened to anyone's advice. \nOne day, while playing near a construction site, he accidentally knocked over a pile of bricks that caused a small fire. \nEustace tried to put out the flames but ended up getting burned on his arm. \nHis parents rushed him to the hospital where they had to perform surgery to remove the damaged skin. \nAfter recovering from the accident, Eustace learned an important lesson about being careful and taking responsibility for his actions.",
+        "overlap_percent": 12.82,
+        "semantic_percent": 36.63
       },
       {
-        "id": 40,
-        "question": "who wrote angels from the realms of glory",
-        "expected_answer": "Angels from the Realms of Glory \"Angels from the Realms of Glory\" is a Christmas carol written by Scottish poet James Montgomery.[1] It was first printed in the Sheffield Iris on Christmas Eve 1816, though it only began to be sung in churches after its 1825 reprinting in the Montgomery collection The Christian Psalmist and in the Religious Tract Society's The Christmas Box or New Year's Gift.[1]",
-        "llm_response": "J.R.R Tolkien",
+        "id": 8,
+        "question": "who led the first portuguese voyage to benin",
+        "expected_answer": "Kingdom of Benin Centuries later, in 1440, Oba Ewuare, also known as Ewuare the Great, came to power and expanded the borders of the former city-state. It was only at this time that the administrative centre of the kingdom began to be referred to as Ubinu after the Yoruba word and corrupted to Bini by the Itsekhiri, Edo, and Urhobo living together in the royal administrative centre of the kingdom. The Portuguese who arrived in an expedition led by Joao Afonso de Aveiro in 1485 would refer to it as Benin and the centre would become known as Benin City.",
+        "llm_response": "The first Portuguese explorer to reach Benin was Pedro \u00c1lvares Cabral, in 1604. He is credited with establishing Portugal's presence in Africa and laying the foundation for European colonization of the region.",
+        "overlap_percent": 5.7,
+        "semantic_percent": 59.7
+      },
+      {
+        "id": 9,
+        "question": "who made this is how we do it",
+        "expected_answer": "This Is How We Do It \"This Is How We Do It\" is the debut single by American singer Montell Jordan. It was released by Def Jam Recordings on February 6, 1995 as the lead single from his debut album of the same name. The single was Def Jam's first R&B release.[4]",
+        "llm_response": "Who made this? How we do it.",
+        "overlap_percent": 14.29,
+        "semantic_percent": 43.25
+      },
+      {
+        "id": 10,
+        "question": "what is biopac and what does it do",
+        "expected_answer": "Biopac student lab The Biopac Student Lab is a proprietary teaching device and method introduced in 1995 as a digital replacement for aging chart recorders and oscilloscopes that were widely used in undergraduate teaching laboratories prior to that time. It is manufactured by BIOPAC Systems, Inc., of Goleta, California.[1] The advent of low cost personal computers meant that older analog technologies could be replaced with powerful and less expensive computerized alternatives.[2]",
+        "llm_response": "Biopac is a company that specializes in medical devices for monitoring patients' health. It creates products such as pacemakers, defibrillators, glucose monitors, blood pressure cuffs, wireless systems, software solutions, and cloud-based services.",
+        "overlap_percent": 9.66,
+        "semantic_percent": 65.73
+      },
+      {
+        "id": 11,
+        "question": "who played the chinese kid in indiana jones",
+        "expected_answer": "Jonathan Ke Quan Quan was born in Saigon, South Vietnam (present-day Ho Chi Minh City, Vietnam). He was forced to leave his country when the Army of the Republic of Vietnam was defeated during the Fall of Saigon. His family was selected for political asylum and emigrated to the United States. He became a child actor at age 12, starring as Harrison Ford's sidekick Short Round in Indiana Jones and the Temple of Doom. After being cast, his family changed his name to Ke Huy, the name by which he is credited in the film.",
+        "llm_response": "Daniel Dae Kim is the actor who plays the Chinese Kid in \"Indiana Jones and the Kingdom of the Crystal Skull\".",
+        "overlap_percent": 6.75,
+        "semantic_percent": 50.77
+      },
+      {
+        "id": 12,
+        "question": "where does the expression in like flynn come from",
+        "expected_answer": "In like Flynn Barry Popik of the American Dialect Society found an example from 1940, as well as this from the sports section of the San Francisco Examiner of 8 February 1942: \u201cAnswer these questions correctly and your name is Flynn, meaning you\u2019re in, provided you have two left feet and the written consent of your parents\u201d. To judge from a newspaper reference he turned up from early 1943, the phrase could by then also be shortened to I\u2019m Flynn, meaning \u201cI\u2019m in\u201d.[1]",
+        "llm_response": "The phrase \"like\" is not an appropriate synonym for \"fly.\" It should be corrected to either \"as fast as a fly,\" meaning very quickly, or used with a different term altogether. As for \"Flynn,\" it's unclear what you mean by this expression - could you please provide more context? This would help me better understand your question and respond appropriately. Let me know if there are any other terms or concepts that might help clarify things further!",
+        "overlap_percent": 25.05,
+        "semantic_percent": 41.33
+      },
+      {
+        "id": 13,
+        "question": "what type of electrical charge does an electron have",
+        "expected_answer": "Electron The electron is a subatomic particle, symbol e\u2212 or \u03b2\u2212, with a negative elementary electric charge.[8] Electrons belong to the first generation of the lepton particle family,[9] and are generally thought to be elementary particles because they have no known components or substructure.[1] The electron has a mass that is approximately 1/1836 that of the proton.[10] Quantum mechanical properties of the electron include an intrinsic angular momentum (spin) of a half-integer value, expressed in units of the reduced Planck constant, \u0127. As it is a fermion, no two electrons can occupy the same quantum state, in accordance with the Pauli exclusion principle.[9] Like all elementary particles, electrons exhibit properties of both particles and waves: they can collide with other particles and can be diffracted like light. The wave properties of electrons are easier to observe with experiments than those of other particles like neutrons and protons because electrons have a lower mass and hence a longer De Broglie wavelength for a given energy.",
+        "llm_response": "-1 Coulomb",
         "overlap_percent": 0.0,
-        "semantic_percent": 16.0
+        "semantic_percent": 30.04
       },
       {
-        "id": 41,
-        "question": "why is chandigarh the capital of both punjab and haryana",
-        "expected_answer": "Chandigarh On 1 November 1966, the newly formed state of Haryana was carved out of the eastern portion of East Punjab, in order to create a new state for the majority Haryanvi-speaking people in that portion, while the western portion of East Punjab retained a mostly Punjabi-speaking majority and was renamed as Punjab. Chandigarh was located on the border of both states and the states moved to incorporate the city into their respective territories. However, the city of Chandigarh was declared a union territory to serve as capital of both states.[30]",
-        "llm_response": "Chandigarh was conceived as a model city in the mid-20th century to provide an administrative headquarters for the newly created states of Punjab, Haryana and Himachal Pradesh. It was also meant to be a symbol of unity among different religions and cultures, with its unique blend of modern architecture inspired by Islamic art and Western design principles. As such, it has become the joint capital of Punjab and Haryana, despite being located within the boundaries of just one state (Punjab).",
-        "overlap_percent": 31.01,
-        "semantic_percent": 82.52
+        "id": 14,
+        "question": "when do they name the hospital grey sloan memorial",
+        "expected_answer": "Grey's Anatomy Grey's Anatomy follows the lives of surgical interns and residents at the fictional Grey-Sloan Memorial Hospital (formerly Seattle Grace Hospital, Season 1\u20136, Seattle Grace Mercy West Hospital, Season 6\u20139, and then Grey-Sloan Memorial Hospital, Season 9\u2013present), as they gradually develop as seasoned doctors, with the help of their competent attending mentors and chief of surgery. Each installment, typically, begins with a voice-over narrative from Meredith Grey or a season regular, foreshadowing the theme of the episode.[79][80] Each season tends to represent the physicians' academic year, with each completed year qualifying the residents at a level higher in the surgical field.[81] The season will always end with a finale, typically related to a dramatic event such as a death or character departure.[82] Most installments revolve around the doctors' everyday lives as surgeons, but the show also emphasizes their personal, rather than professional, lives.[79] The series sets aside medical ethic concerns to focus on character development and relationships. Although the physicians treat the illnesses of their patients, often through complex surgeries, they display competitive spirit and seek praise.[83]",
+        "llm_response": "They would usually call it \"grey Sloan Memorial Hospital\" or simply \"Grey Sloan Memorial\". The exact date of naming is not mentioned in this input. It could be any day, month, and year as long as there was a Grey Sloan who made significant contributions to healthcare that warranted a dedicated hospital named after them.  So, without further context, we cannot determine an accurate date for when the hospital might have been named. Please provide additional information if possible! Thank you! Have a great day!  If you need help with anything else, please let me know. I'm here to assist you! :)\nYou can also try searching online for more details about the history of the hospital's name change. Good luck! You're welcome! Enjoy your day! :)",
+        "overlap_percent": 18.63,
+        "semantic_percent": 43.61
       },
       {
-        "id": 42,
-        "question": "5 seconds of summer young blood album release date",
-        "expected_answer": "Youngblood (5 Seconds of Summer album) Youngblood is the upcoming third studio album by Australian rock band 5 Seconds of Summer, set to be released on 22 June 2018.[2] The band announced the release of the album on Twitter on 9 April.[3] Along with the album's announcement, the band also revealed they will embark on the Meet You There Tour to support the album, with 25 dates announced in North America to begin in late 2018.[4] The US Target edition of the album will be available with four covers, each featuring a member of the band.[5]",
-        "llm_response": "The latest album by the popular artist is likely to be released on a specific date in July.",
-        "overlap_percent": 13.42,
-        "semantic_percent": 41.3
+        "id": 15,
+        "question": "who is the singer in the godfather supposed to be",
+        "expected_answer": "Johnny Fontane In the novel and film, Fontane is a famous crooner and occasional film star in the vein of Frank Sinatra. He is also the godson of Vito Corleone, the head of a major Mafia crime family. The Corleone family intervenes four times to aid his career. The first, years before the novel's and film's main time frame, Vito used violent persuasion (an \"offer he can't refuse\") to buy out Fontane's ironclad contract with a big bandleader; after the bandleader declines Vito's first offer to buy out the contract, he orders his personal assassin Luca Brasi to place a gun to the man's forehead, telling the bandleader that either his signature or his brains would be on the contract.",
+        "llm_response": "The song \"Smooth Criminal\" was sung by Michael Jackson.",
+        "overlap_percent": 2.35,
+        "semantic_percent": 13.4
       },
       {
-        "id": 43,
-        "question": "what are two different types of light microscopes",
-        "expected_answer": "Optical microscope There are two basic types of optical microscopes: simple microscopes and compound microscopes. A simple microscope is one which uses a single lens for magnification, such as a magnifying glass. A compound microscope uses several lenses to enhance the magnification of an object. The vast majority of modern research microscopes are compound microscopes while some cheaper commercial digital microscopes are simple single lens microscopes. Compound microscopes can be further divided into a variety of other types of microscopes which differ in their optical configurations, cost, and intended purposes.",
-        "llm_response": "The two main types of light microscopes are compound and stereo microscopes. Compound microscopes use multiple lenses to magnify the specimen, while stereo microscopes provide a three-dimensional view by using an optical system that uses mirrors or prisms.",
-        "overlap_percent": 27.04,
-        "semantic_percent": 84.1
+        "id": 16,
+        "question": "how many assists did kobe bryant average in his career",
+        "expected_answer": "Kobe Bryant With career averages of 25.0 points, 5.2 rebounds, 4.7 assists, and 1.4 steals per game,[293] he is considered one of the most complete players in NBA history.[343] He was the first player in NBA history to have at least 30,000 career points and 6,000 career assists,[331] and is one of only four players with 25,000 points, 6,000 rebounds and 6,000 assists.[344] Bryant led the NBA in scoring during the 2005\u201306 and 2006\u201307 seasons.[4] His 81-point performance against Toronto in 2006 was the second-highest in NBA history,[345] behind only Chamberlain's 100. He has scored at least 50 points 24 times in his career, which is third in league history behind Jordan (31) and Chamberlain (118);[264] six times Bryant scored at least 60.[346] He was just the third player in NBA history to average 40 points in a calendar month, which he has accomplished four times.[h] Bryant was voted the league MVP in 2008 and led his team to the 2008 NBA Finals as the first seed in the Western Conference.[347] In the 2008 Summer Olympics, he won a gold medal as a member of the U.S. men's basketball team, occasionally referred to as \"The Redeem Team\".[348] He won another gold medal at the 2012 Summer Olympics. He led the Lakers to two more championships in 2009 and 2010, winning the Finals MVP award on both occasions.",
+        "llm_response": "Kobe Bryant averaged 10.3 points, 7.9 rebounds and 5.7 assists per game in his NBA career.",
+        "overlap_percent": 3.33,
+        "semantic_percent": 83.07
       },
       {
-        "id": 44,
-        "question": "actress who played emma peel in the avengers",
-        "expected_answer": "Diana Rigg Dame Enid Diana Elizabeth Rigg, DBE (born 20 July 1938) is an English actress. She is known for playing Emma Peel in the 1960s TV series The Avengers (1965\u201368), and Olenna Tyrell in Game of Thrones (2013\u201317). She has also had an extensive career in theatre, including playing the title role in Medea, both in London and New York, for which she won the 1994 Tony Award for Best Actress in a Play. She was made a CBE in 1988 and a Dame in 1994.",
-        "llm_response": "Emma Stone is an American actress known for her roles in films such as \"La La Land,\" \"The Help,\" and \"Easy A.\" She has won two Academy Awards, one Golden Globe Award, and four Screen Actors Guild Awards. In addition to acting, she has also produced several projects including the film \"Aloha\" (2018).",
-        "overlap_percent": 25.43,
-        "semantic_percent": 35.26
+        "id": 17,
+        "question": "who is the author of now i lay me down to sleep",
+        "expected_answer": "Now I Lay Me Down to Sleep Perhaps the earliest version was written by Joseph Addison in an essay appearing in The Spectator[citation needed]on 8th March 1711. It says:[citation needed]",
+        "llm_response": "William Shakespeare wrote \"Now I Lay Me Down To Sleep.\"",
+        "overlap_percent": 39.38,
+        "semantic_percent": 70.65
       },
       {
-        "id": 45,
-        "question": "when did the iphone 6's come out",
-        "expected_answer": "iPhone 6 The iPhone 6 and iPhone 6 Plus are smartphones designed and marketed by Apple Inc. The devices are part of the iPhone series and were announced on September 9, 2014, and released on September 19, 2014.[15] The iPhone 6 and iPhone 6 Plus jointly serve as successors to the iPhone 5S and were themselves replaced as flagship devices of the iPhone series by the iPhone 6S and iPhone 6S Plus on September 9, 2015.",
-        "llm_response": "The iPhone 6 was released on June 29, 2015.",
-        "overlap_percent": 24.64,
-        "semantic_percent": 68.79
+        "id": 18,
+        "question": "who killed marquis in tale of two cities",
+        "expected_answer": "Marquis St. Evr\u00e9monde A year later Gaspard, assassin of the Marquis and father of the child ridden down by his carriage, is captured and executed, his body left hanging above the village water fountain. Subsequently the Evr\u00c3\u00a9monde chateau is burned to the ground at night by \"Jacques\" revolutionaries while the abused villagers watch in grim silence and the officers of a neighboring royal garrison stand helpless because they know that their troops will probably no longer obey their orders.",
+        "llm_response": "The protagonist of the novel \"The Tale of Two Cities\" is Sydney Carton. He does not kill Marquis St. Evremonde, but rather sacrifices himself to save Charles Darnay from execution during the Reign of Terror.",
+        "overlap_percent": 3.18,
+        "semantic_percent": 47.81
       },
       {
-        "id": 46,
-        "question": "why is little france in edinburgh called little france",
-        "expected_answer": "Little France The area falls within the parish of Liberton in the south-east of the city. It acquired its name from members of the entourage brought to Scotland from France by Mary, Queen of Scots, who took up residence at nearby Craigmillar Castle. The French left the city following the Siege of Leith under the terms of the Treaty of Edinburgh.[1]",
-        "llm_response": "Little France, or the French Quarter of Edinburgh, gets its name because it resembles a small version of Paris. It has charming old buildings with narrow streets and colorful balconies, reminiscent of traditional French architecture. The area also features numerous cafes, restaurants, and shops that sell French-inspired products and delicacies. This unique blend of European charm and Scottish character makes Little France an appealing destination for tourists seeking an authentic taste of both countries.",
-        "overlap_percent": 24.06,
+        "id": 19,
+        "question": "where is the republic of doyle filmed at",
+        "expected_answer": "Republic of Doyle The show is filmed in and around St. John's, Newfoundland and Labrador.[6] The show's star, Allan Hawco, is also executive producer/showrunner/co-creator and head writer of the show.",
+        "llm_response": "The Republic of Doyle is not a real place. It was created by an author named Mark Twain in his novel \"The Adventures of Tom Sawyer.\"",
+        "overlap_percent": 5.83,
+        "semantic_percent": 66.64
+      }
+    ]
+  },
+  {
+    "test_number": 4,
+    "timestamp": "2025-09-07 19:31:05",
+    "duration_seconds": 140.16,
+    "n_questions": 20,
+    "avg_overlap": 17.06,
+    "avg_semantic": 59.83,
+    "results": [
+      {
+        "id": 0,
+        "question": "what is the crew celebrating in the beginning of the little mermaid",
+        "expected_answer": "The Little Mermaid (1989 film) One night, Ariel, Flounder, and Sebastian travel to the ocean surface to watch a celebration for the birthday of Prince Eric on a ship. Ariel instantly becomes enamored with Eric. A violent storm arrives, with a bolt of lightning striking the ship, engulfing it in flames and wrecking it on rocks, tossing Eric overboard. She rescues Eric and brings him to shore. Ariel sings to Eric, but immediately leaves just as he regains consciousness to avoid being discovered. Fascinated by the memory of her voice, Eric vows to find who saved and sang to him, and Ariel vows to find a way to join him and his world. Sebastian reminds Ariel that the underwater world is better than the human world, and Flounder drags her to her grotto. When Triton discovers Ariel's love for Eric thanks to Sebastian, a furious Triton confronts her in the grotto and destroys most of the artifacts with his trident. After Triton leaves, Ariel breaks down in tears, and Flotsam and Jetsam convince her to visit Ursula.",
+        "llm_response": "At the beginning of \"The Little Mermaid,\" the ship's crew celebrates their successful voyage and encounters with new lands. They are excited about discovering new cultures, trading goods, and making a profit for the kingdom. The celebration brings joy to everyone on board as they reflect on their achievements so far. However, there is also a sense of longing among some members who dream of finding true love like Ariel does. Despite this mix of emotions, the overall atmosphere is one of excitement and anticipation for future adventures.",
+        "overlap_percent": 22.55,
+        "semantic_percent": 62.19
+      },
+      {
+        "id": 1,
+        "question": "where does the saying pigeon hole come from",
+        "expected_answer": "Pigeon-hole messagebox In medieval times pigeons were kept as domestic birds, not for racing but for their meat. Pigeon holes were the openings set in a wall or a purpose-built pigeon cote in which the birds nested. By 1789, the arrangement of compartments in writing cabinets and offices used to sort and file documents had come to be known as pigeon holes because of their resemblance to the pigeon cote. By the mid 19th century, pigeon hole was being used as a verb meaning either to put a matter to one side with the intention of coming back to it later, or to classify information.[1]",
+        "llm_response": "The phrase \"pigeon hole\" is believed to have originated in England during the 18th century. It was first used by Samuel Johnson, an English lexicographer and writer who defined it as a small wooden box or container for birds like pigeons. Over time, the term came to be associated with conforming to preconceived ideas or expectations, just like how a bird might get stuck inside a narrow opening of a pigeonhole. This figurative expression implies that individuals may feel confined or limited when they are expected to fit into certain roles or categories without room for individuality or uniqueness.",
+        "overlap_percent": 33.71,
+        "semantic_percent": 75.89
+      },
+      {
+        "id": 2,
+        "question": "is there going to be a season 13 for criminal minds",
+        "expected_answer": "Criminal Minds (season 13) The thirteenth season of Criminal Minds was ordered on April 7, 2017, by CBS with an order of 22 episodes.[1][2] The season premiered on September 27, 2017 in a new time slot at 10:00PM on Wednesday when it had been at 9:00PM on Wednesday since its inception. The season will conclude on April 25, 2018.[3]",
+        "llm_response": "No, there will not be a season 13 for Criminal Minds. The show was canceled after its twelfth season and no plans have been announced for another season.",
+        "overlap_percent": 34.16,
+        "semantic_percent": 86.28
+      },
+      {
+        "id": 3,
+        "question": "identify the central theme of the poem the world is too much with us",
+        "expected_answer": "The World Is Too Much with Us In the early 19th century, Wordsworth wrote several sonnets blasting what he perceived as \"the decadent material cynicism of the time.\"[1] \"The World Is Too Much with Us\" is one of those works. It reflects his view that humanity must get in touch with nature to progress spiritually.[1] The rhyme scheme of this poem is a-b-b-a, a-b-b-a, c-d-c-d, c-d. This Italian or Petrarchan sonnet uses the last six lines (sestet) to answer the first eight lines (octave). The first eight lines (octave) are the problem and the next six (sestet) is the solution.",
+        "llm_response": "- Alluding to a feeling of being overwhelmed by modern society and technology. \n- Expressing concern about humanity's loss of connection with nature and spirituality in favor of materialism and consumer culture. \n- Questioning whether we have become enslaved or consumed by our own creations.",
+        "overlap_percent": 9.77,
+        "semantic_percent": 37.27
+      },
+      {
+        "id": 4,
+        "question": "when did the schism between the orthodox and catholic churches officially occur",
+        "expected_answer": "East\u2013West Schism The East\u00e2\u20ac\u201cWest Schism, also called the Great Schism and the Schism of 1054, was the break of communion between what are now the Roman Catholic Church and Eastern Orthodox churches, which has lasted since the 11th century.[1]",
+        "llm_response": "The Schism of 1054 was the official split between the Orthodox and Catholic Churches. It lasted for nearly two centuries until their collective efforts led to a unified church in 1424.",
+        "overlap_percent": 17.47,
         "semantic_percent": 76.08
       },
       {
-        "id": 47,
-        "question": "who wrote make your own kind of music lyrics",
-        "expected_answer": "Make Your Own Kind of Music (song) \"Make Your Own Kind of Music\" is a pop song written by Barry Mann and Cynthia Weil, first recorded in 1968 by the New York City-based trio the Will-O-Bees (Janet Blossom, Steven Porter, and Robert Merchanthouse), who regularly performed Mann/Weil compositions. After Cass Elliot had a hit in the summer of 1969 with Mann/Weil's \"It's Getting Better\", she recorded \"Make Your Own Kind of Music\" as the follow-up single, and her album Bubblegum, Lemonade, and... Something for Mama was re-released as \"Make Your Own Kind Of Music/It's Getting Better,\" the title cut having been added to the original track listing. However, Elliot's \"Make Your Own Kind of Music\" single only reached No. 36. The similar chart impact of the follow-up single, another Mann/Weil composition entitled \"New World Coming,\" which reached No. 42, signaled Elliot's challenges in maintaining a profile as a current hitmaker, as the 1960s turned into the 1970s. The Cass Elliot track is in the key of E major.",
-        "llm_response": "A songwriter.",
-        "overlap_percent": 0.0,
-        "semantic_percent": 28.05
+        "id": 5,
+        "question": "medals won by australia in commonwealth games 2018",
+        "expected_answer": "2018 Commonwealth Games medal table Australia, serving as the host nation, dominated the games with 80 gold, 59 silver and 59 bronze, for a total of 198 medals.",
+        "llm_response": "Australia has won a total of 58 medals at the Commonwealth Games - 26 gold, 16 silver and 18 bronze.",
+        "overlap_percent": 40.0,
+        "semantic_percent": 83.91
       },
       {
-        "id": 48,
-        "question": "what air force base is in del rio texas",
-        "expected_answer": "Laughlin Air Force Base Laughlin Air Force Base (IATA: DLF, ICAO: KDLF, FAA LID: DLF) is a facility of the United States Air Force located in Del Rio, Texas. As a census-designated place, it had a population of 1,648 at the 2015 census.[1]",
-        "llm_response": "The main military installation of the United States Air Force in Texas is Edwards Air Force Base. Other significant bases include Fort Hood, Lackland AFB, and Moody AFB.",
-        "overlap_percent": 55.5,
-        "semantic_percent": 66.76
+        "id": 6,
+        "question": "who sings lead vocals on winning by santana",
+        "expected_answer": "Winning (Russ Ballard song) \"Winning\" is a pop rock single originally written and recorded by Russ Ballard on his 1976 album of the same name. It was subsequently recorded by Latin rock band Santana for the 1981 album, Zebop!. The lead vocal on the Santana version was performed by Alex Ligertwood. It was the sixth track on the album and was released as the third single (backed with \"Brightest Star\") and as a promotional music video. The Santana version reached number 2 on the Mainstream Rock Charts and number 17 on the Billboard Hot 100, making it Santana's ninth most successful song. \"Winning\" was also recorded by Rock/R&B singer Nona Hendryx (formerly of Labelle) for her 1977 debut solo album.",
+        "llm_response": "The artist that sings lead vocals on the song \"Smooth\" is Santana.",
+        "overlap_percent": 9.22,
+        "semantic_percent": 37.43
       },
       {
-        "id": 49,
-        "question": "what 3 events led the us into ww1",
-        "expected_answer": "American entry into World War I In 1917, with Russia experiencing political upheaval following widespread disillusionment there over the war, and with Britain and France low on credit, Germany appeared to have the upper hand in Europe,[3] while Germany's ally, the Ottoman Empire, clung stubbornly to its possessions in the Middle East. In the same year, Germany decided to resume unrestricted submarine warfare against any vessel approaching British waters; this attempt to starve Britain into surrender was balanced against the knowledge that it would almost certainly bring the United States into the war. Germany also made a secret offer to help Mexico regain territories lost in the Mexican\u2013American War in an encoded telegram known as the Zimmermann Telegram, which was intercepted by British Intelligence. Publication of that communique outraged Americans just as German U-boats started sinking American merchant ships in the North Atlantic. Wilson then asked Congress for \"a war to end all wars\" that would \"make the world safe for democracy\", and Congress voted to declare war on Germany on April 6, 1917.[4]",
-        "llm_response": "1. The assassination of Archduke Franz Ferdinand of Austria-Hungary in June 1914. \n2. Germany's aggressive annexation of Czech lands in October 1918 which triggered an immediate response from France, Britain, and Russia. \n3. The signing of the Treaty of Versailles in December 1919 which imposed harsh terms on Germany, leading to further resentment among German citizens.",
-        "overlap_percent": 2.8,
-        "semantic_percent": 47.94
+        "id": 7,
+        "question": "what general effects do hormones secreted by the adrenal medulla produce",
+        "expected_answer": "Adrenal gland The adrenal cortex produces three main types of steroid hormones: mineralocorticoids, glucocorticoids, and androgens. Mineralocorticoids (such as aldosterone) produced in the zona glomerulosa help in the regulation of blood pressure and electrolyte balance. The glucocorticoids cortisol and corticosterone are synthesized in the zona fasciculata; their functions include the regulation of metabolism and immune system suppression. The innermost layer of the cortex, the zona reticularis, produces androgens that are converted to fully functional sex hormones in the gonads and other target organs.[4] The production of steroid hormones is called steroidogenesis, and involves a number of reactions and processes that take place in cortical cells.[5] The medulla produces the catecholamines adrenaline and noradrenaline, which function to produce a rapid response throughout the body in stress situations.[4]",
+        "llm_response": "The main function of the adrenal cortex is to secrete steroid hormones that are involved in various physiological processes. For example, cortisol helps regulate metabolism and blood pressure; aldosterone regulates sodium and potassium balance and fluid volume; and mineralocorticoids help maintain electrolyte homeostasis. \nThe adrenal medulla mainly produces catecholamines, which include adrenaline (epinephrine) and noradrenaline (norepinephrine). These hormones have several effects on the body's response to stress, such as increasing heart rate, blood flow, breathing, glucose release, and alertness. Adrenaline also enhances the",
+        "overlap_percent": 34.51,
+        "semantic_percent": 74.81
+      },
+      {
+        "id": 8,
+        "question": "who won the mens singles at wimbledon this year",
+        "expected_answer": "2018 Wimbledon Championships The 2018 Wimbledon Championships was a Grand Slam tennis tournament which took place at the All England Lawn Tennis and Croquet Club in Wimbledon, London, United Kingdom. The main tournament began on Monday, 2 July 2018 and finished on Sunday, 15 July 2018. Novak Djokovic won the Gentleman's Singles title and Angelique Kerber won the Ladies Singles title.",
+        "llm_response": "Rafael Nadal is the current champion in men's singles. He defeated Novak Djokovic 6-4, 7-6(7-2) to win his 17th Wimbledon title.",
+        "overlap_percent": 5.26,
+        "semantic_percent": 66.34
+      },
+      {
+        "id": 9,
+        "question": "it's a long way to tipperary origin",
+        "expected_answer": "It's a Long Way to Tipperary \"It's a Long Way to Tipperary\" is a British music hall song written by Jack Judge and co-credited to Henry James \"Harry\" Williams.[1] It was allegedly written for a 5-shilling bet in Stalybridge on 30 January 1912 and performed the next night at the local music hall. Now commonly called \"It's a Long Way to Tipperary\", the original printed music calls it \"It's a Long, Long Way to Tipperary\". It became popular among soldiers in the First World War and is remembered as a song of that war.",
+        "llm_response": "The journey from my home in New York City to the small town of Tipperary, Ireland would be approximately 3,000 miles and take around 34 hours by car.",
+        "overlap_percent": 5.15,
+        "semantic_percent": 44.76
+      },
+      {
+        "id": 10,
+        "question": "what's the population of pinellas county florida",
+        "expected_answer": "Pinellas County, Florida Pinellas County is a county located in the state of Florida.[3] As of the 2010 census, the population was 916,542.[4] The county is part of the Tampa\u2013St. Petersburg\u2013Clearwater, Florida Metropolitan Statistical Area.[3] Clearwater is the county seat,[5] and St. Petersburg is the largest city.[3]",
+        "llm_response": "As of 1,039.6 people per square mile (403.1/km2), the estimated population for Pinellas County, Florida is approximately 547,890.",
+        "overlap_percent": 19.29,
+        "semantic_percent": 80.63
+      },
+      {
+        "id": 11,
+        "question": "who won season 26 of the amazing race",
+        "expected_answer": "The Amazing Race 26 Blind date couple Laura Pierson & Tyler Adams, known as \"Team SoCal,\" were the winners of the 26th season of The Amazing Race.",
+        "llm_response": "The winner of Season 26 of The Amazing Race was John and Lisa.",
+        "overlap_percent": 40.46,
+        "semantic_percent": 63.07
+      },
+      {
+        "id": 12,
+        "question": "who appoints judges to the courts in ireland",
+        "expected_answer": "Judiciary of the Republic of Ireland Judges are appointed by the President of Ireland, acting on the binding advice of the Government. The Government themselves act on the advice of the Judicial Appointments Advisory Board who submit a list of seven recommended candidates. However the government are not bound to follow the advice of the Board and may decide to appoint other qualified individuals. The Board advertises vacant positions but does not seek out candidates or conduct interviews.[3]",
+        "llm_response": "The President of Ireland, on the advice of the government and with the approval of D\u00e1il \u00c9ireann (the lower house of parliament), appoints judges to the courts in Ireland.",
+        "overlap_percent": 10.19,
+        "semantic_percent": 83.87
+      },
+      {
+        "id": 13,
+        "question": "when does a newly elected congress officially begin its work",
+        "expected_answer": "State of the Union Prior to 1934, the annual message was delivered at the end of the calendar year, in December. The ratification of the 20th Amendment on January 23, 1933, changed the opening of Congress from early March to early January, affecting the delivery of the annual message. Since 1934, the message or address has been delivered to Congress in January or February.",
+        "llm_response": "A newly elected Congress officially begins its work on January 3rd. This date marks the start of the legislative session for both the House of Representatives and the Senate, where they will be responsible for creating new laws and overseeing government operations. The first order of business is typically to elect the Speaker of the House and the Vice President Pro Tempore of the Senate, who serve as leaders in their respective chambers. From there, members of Congress can introduce bills, hold hearings, and engage in debates that shape public policy and legislation.",
+        "overlap_percent": 16.79,
+        "semantic_percent": 36.67
+      },
+      {
+        "id": 14,
+        "question": "how many countries are there in the continent of africa",
+        "expected_answer": "Africa Africa is the world's second largest and second most-populous continent (behind Asia in both categories). At about 30.3 million km2 (11.7 million square\u00c2\u00a0miles) including adjacent islands, it covers 6% of Earth's total surface area and 20% of its land area.[3] With 1.2 billion people[1] as of 2016, it accounts for about 16% of the world's human population. The continent is surrounded by the Mediterranean Sea to the north, the Isthmus of Suez and the Red Sea to the northeast, the Indian Ocean to the southeast and the Atlantic Ocean to the west. The continent includes Madagascar and various archipelagos. It contains 54 fully recognised sovereign states (countries), nine territories and two de facto independent states with limited or no recognition.[4] The majority of the continent and its countries are in the Northern Hemisphere, with a substantial portion and number of countries in the Southern Hemisphere.",
+        "llm_response": "54",
+        "overlap_percent": 0.55,
+        "semantic_percent": 4.22
+      },
+      {
+        "id": 15,
+        "question": "who played peggy biggs on mike and molly",
+        "expected_answer": "Rondi Reed She appeared in the Seinfeld episode \"The Kiss Hello\" (originally aired on February 16, 1995). She starred on the CBS sitcom Mike & Molly, as Peggy Biggs, Mike's mother. She also appeared on Roseanne as Jackie's therapist.",
+        "llm_response": "The actor's name is Peggy Biggs, and she starred in the TV show Mike & Molly.",
+        "overlap_percent": 11.36,
+        "semantic_percent": 74.55
+      },
+      {
+        "id": 16,
+        "question": "who was in charge of russia during the cold war",
+        "expected_answer": "Cold War While most historians trace its origins to the period immediately following World War II, others argue that it began with the October Revolution in Russia in 1917 when the Bolsheviks took power.[9] In 1919 Lenin stated that his new state was surrounded by a \"hostile capitalist encirclement\", and he viewed diplomacy as a weapon that should be used in order to keep the Soviet Union's enemies divided, beginning with the establishment of the Communist International, which called for revolutionary upheavals abroad.[10] Historian Max Beloff argues that the Soviets saw \"no prospect of permanent peace\", with the 1922 Soviet Constitution proclaiming:",
+        "llm_response": "The leader of Russia during the Cold War was Joseph Stalin. He served as the General Secretary of the Communist Party of the Soviet Union from 1922 until his death in 1953, and was one of the most influential leaders of the 20th century. During his rule, he oversaw the industrialization of the Soviet Union, the expansion of its military power, and the establishment of communist governments in Eastern Europe.",
+        "overlap_percent": 14.87,
+        "semantic_percent": 54.03
+      },
+      {
+        "id": 17,
+        "question": "who has become the first batsman to score three hundreds in t20 internationals",
+        "expected_answer": "Twenty20 International The game had initially been developed to boost the interest in domestic cricket, and to aid this the international teams were only allowed to host three T20Is each year. The cricket manager for the ICC, David Richardson, also commented that \"Part of the success of Twenty20 cricket is making sure it can coexist with Test cricket and one-dayers.\"[16] Despite this, the first international tournament was held in 2007 in South Africa; the 2007 ICC World Twenty20.[16] That tournament was won by India, who defeated their close rivals Pakistan in the final. Writing for The Guardian, Dilip Premachandran suggested that the competition's success meant that \"the format is here to stay\".[17] The next tournament was scheduled for 2009, and it was decided that they would take place biannually (more frequently than the 50 over Cricket World Cup, which occurs once every four years).[18] In the opening match of the 2007 World Twenty20, Chris Gayle scored the first century in a T20I, the achievement being reached in the twentieth match of the format.[19]",
+        "llm_response": "Rohit Sharma from India became the first batsmen to score three centuries in T20 Internationals. He achieved this feat during a match against New Zealand on May 2, 2021.",
+        "overlap_percent": 10.82,
+        "semantic_percent": 63.93
+      },
+      {
+        "id": 18,
+        "question": "where does the money for escrow come from",
+        "expected_answer": "Escrow An escrow is a contractual arrangement in which a third party receives and disburses money or documents for the primary transacting parties, with the disbursement dependent on conditions agreed to by the transacting parties, or an account established by a broker for holding funds on behalf of the broker's principal or some other person until the consummation or termination of a transaction;[1] or, a trust account held in the borrower's name to pay obligations such as property taxes and insurance premiums. The word derives from the Old French word escroue, meaning a scrap of paper or a scroll of parchment; this indicated the deed that a third party held until a transaction was completed.[2]",
+        "llm_response": "Where does the money for Escrow go?",
+        "overlap_percent": 1.17,
+        "semantic_percent": 69.35
+      },
+      {
+        "id": 19,
+        "question": "what is the name of jacob tribe in twilight",
+        "expected_answer": "Jacob Black In New Moon, Jacob's character is used as a device to help Bella emerge from her months-long depression, brought on by her distress over Edward's departure. The friendship between the two characters grows strong, but Jacob also develops romantic feelings for Bella that she does not reciprocate. It is revealed that, as a member of the Quileute tribe, Jacob is descended from an ancient line of \"shapeshifters\" that assume wolf form. In their backstory, the Quileutes are vampires' mortal enemies as the vampires are to them. When Jacob undergoes his first transformation into a wolf, it is in response to Paul one of the pack becomes enraged when he was slapped by Bella causing him to transform prematurely and then attempts to attack her. Jacob noticing this rushes outside to defend Bella he jumps high over her and changes form in midair. Jacob rushes at Paul first and bites and pushes him. Jacob is shown in this scene to be very talented even when this was his first transformation at attacking and countering Paul as he is able to hit him before he has a chance to attack. A scene shows him tackling Paul causing him to crash into a boat rack. He and Paul later arrive at Emily Young house. Soon, he becomes busy patrolling the forest with his pack, searching for vampires in the area. When Bella is caught by the vampire Laurent alone in a clearing, she is saved by Jacob and the wolf pack, who chase and kill Laurent. Sam first emerges from the woods, Laurent noticing more emerge runs an away. Sam closes in on him but is struck back by Laurent just before he was about to tackle him. He later claims that Laurent was nothing but a simple kill. During the chase, Laurent is cornered by part of the pack while Jacob goes for the kill. Jacob and his friends are able to cover a range of 1.67 miles in just 1 minute meaning they are able to run at nearly or close to 100\u00c2\u00a0mph at full run.",
+        "llm_response": "The Jacobites, also known as the Clan Stuart or the Old Pretenders. They are a Scottish clan that claims to be the rightful heirs to the throne of Scotland and England.",
+        "overlap_percent": 3.97,
+        "semantic_percent": 21.41
       }
     ]
   }
