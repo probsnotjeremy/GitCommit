@@ -558,5 +558,175 @@
         "semantic_percent": 21.41
       }
     ]
+  },
+  {
+    "test_number": 5,
+    "timestamp": "2025-09-09 22:35:10",
+    "duration_seconds": 122.16,
+    "n_questions": 20,
+    "avg_overlap": 12.57,
+    "avg_semantic": 62.37,
+    "results": [
+      {
+        "id": 0,
+        "question": "when did the st. louis rams win the superbowl",
+        "expected_answer": "Super Bowl XXXIV Super Bowl XXXIV was an American football game between the National Football Conference (NFC) champion St. Louis Rams and the American Football Conference (AFC) champion Tennessee Titans to decide the National Football League (NFL) champion for the 1999 season. The Rams defeated the Titans by the score of 23\u00e2\u20ac\u201c16, capturing their first Super Bowl win and first NFL championship since 1951.[5] The game, played on January 30, 2000 at the Georgia Dome in Atlanta, was the fourth Super Bowl to be held a week after the conference championship games (the previous time this happened was Super Bowl XXVIII, and coincidentally that game was also played on January 30 at the Georgia Dome in Atlanta).[6]",
+        "llm_response": "The St. Louis Rams won Super Bowl XXXIV in 2000.",
+        "overlap_percent": 14.25,
+        "semantic_percent": 70.17
+      },
+      {
+        "id": 1,
+        "question": "are there parables in the gospel of john",
+        "expected_answer": "Parables of Jesus The Parables of Jesus can be found in all the gospels, except for John, and in some of the non-canonical gospels, but are located mainly within the three Synoptic Gospels. They represent a main part of the teachings of Jesus, forming approximately one third of his recorded teachings. Christians place high emphasis on these parables; since they are the purported words of Jesus, they are believed to be what the Father has taught, indicated by John 8:28 and 14:10.[1][2]",
+        "llm_response": "Yes, there is a parable in the Gospel of John. It's called \"The Good Samaritan\".",
+        "overlap_percent": 1.01,
+        "semantic_percent": 66.29
+      },
+      {
+        "id": 2,
+        "question": "when was the us constitution written and adopted",
+        "expected_answer": "Timeline of drafting and ratification of the United States Constitution The drafting of the Constitution of the United States began on May 25, 1787, when the Constitutional Convention met for the first time with a quorum at the Pennsylvania State House (now Independence Hall) in Philadelphia, Pennsylvania to revise the Articles of Confederation, and ended on September 17, 1787, the day the Constitution drafted by the convention's delegates to replace the Articles was adopted and signed. The ratification process for the Constitution began that day, and ended when the final state, Rhode Island, ratified it on May 29, 1790. In addition to key events during the Constitutional Convention and afterward while the Constitution was before the states for their ratification, this timeline includes important events that occurred during the run-up to the convention and during the nation's transition from government under the Articles of Confederation to government under the Constitution, and concludes with the unique ratification vote of Vermont, which at the time was a sovereign state outside the Union. The time span covered is 5\u00a0years, 9\u00a0months, from March 25, 1785 to January 10, 1791.",
+        "llm_response": "The United States Constitution was drafted in 1787 and ratified by the states on September 17, 1788. It is considered to be one of the most important documents in American history as it established the framework for the federal government and protected individual rights.",
+        "overlap_percent": 18.61,
+        "semantic_percent": 73.34
+      },
+      {
+        "id": 3,
+        "question": "where did the denver nuggets name come from",
+        "expected_answer": "Denver Nuggets Ringsby sold the team to San Diego businessmen Frank Goldberg and Bud Fischer in 1972.[12] In 1974, in anticipation of moving into the NBA, and the new McNichols Arena, the franchise held a contest to choose a new team nickname, as \"Rockets\" was already in use by the Houston Rockets. The winning choice was \"Nuggets\", in honor of the original Nuggets team in Denver from 1948\u00e2\u20ac\u201c50, the last year as a charter member of the NBA. Their new logo was a miner \"discovering\" an ABA ball. Goldberg and Fischer in turn sold the team to a local investment group in 1976.",
+        "llm_response": "The Denver Nuggets are a professional basketball team based in Denver, Colorado. They were founded in 1967 as an expansion franchise of the American Basketball Association (ABA). In 1976, they joined the National Basketball Association (NBA) and have been playing there ever since. The origin of their nickname \"Nuggets\" is not entirely",
+        "overlap_percent": 16.03,
+        "semantic_percent": 78.56
+      },
+      {
+        "id": 4,
+        "question": "who is look what made me do about",
+        "expected_answer": "Look What You Made Me Do However, Maura Johnston of The Guardian wrote a negative review of the song, faulting the \"sloppy\" lyrics and blaming Swift for not giving a clear context in the lyrics.[13] Brittany Spanos of Rolling Stone believed that the song marked a continuation of the feud between Swift and rapper Kanye West; the latter had previously name-dropped Swift in his song \"Famous\" by using the line, \"I feel like me and Taylor might still have sex / Why? / I made that bitch famous\". The single was noted as being a darker, angrier work than what Swift had done before.[17][31] Hugh McIntye of Forbes was critical of the change in style, saying that it \"didn't sound like [Swift]\" and that it \"may have some kinks to work out\".[16] Meaghan Garvey from Pitchfork referred to it in a review as \"a hardcore self-own\" track.[32]",
+        "llm_response": "Who did you think was looking at you? What were they doing with their eyes on your face? Don't play dumb, I know something's up. You better tell me the truth or else...",
+        "overlap_percent": 12.7,
+        "semantic_percent": 22.78
+      },
+      {
+        "id": 5,
+        "question": "who worked out the circumference of the earth",
+        "expected_answer": "Eratosthenes He is best known for being the first person to calculate the circumference of the Earth, which he did by applying a measuring system using stadia, a standard unit of measure during that time period. His calculation was remarkably accurate. He was also the first to calculate the tilt of the Earth's axis (again with remarkable accuracy). Additionally, he may have accurately calculated the distance from the Earth to the Sun and invented the leap day.[4] He created the first map of the world, incorporating parallels and meridians based on the available geographic knowledge of his era.",
+        "llm_response": "The circumference of the Earth is approximately 40,075 kilometers.",
+        "overlap_percent": 2.93,
+        "semantic_percent": 50.64
+      },
+      {
+        "id": 6,
+        "question": "ceasefire line of kashmir came into existence in",
+        "expected_answer": "Line of Control The term Line of Control (LoC) refers to the military control line between the Indian and Pakistani controlled parts of the former princely state of Jammu and Kashmir\u2014a line which does not constitute a legally recognized international boundary, but is the de facto border. Originally known as the Cease-fire Line, it was redesignated as the \"Line of Control\" following the Simla Agreement, which was signed on 3 July 1972. The part of the former princely state that is under Indian control is known as the state of Jammu and Kashmir. The Pakistani-controlled part is divided into Azad Jammu and Kashmir and Gilgit\u2013Baltistan. The northernmost point of the Line of Control is known as NJ9842.",
+        "llm_response": "The Line of Control (LOC) is the de facto border between India and Pakistan's Kashmir region, established through various agreements. It has been a source of conflict for decades, with both countries claiming sovereignty over the entire region. Despite numerous ceasefires, tensions remain high along this disputed boundary.",
+        "overlap_percent": 27.4,
+        "semantic_percent": 82.21
+      },
+      {
+        "id": 7,
+        "question": "who is sarah louise's dad in coronation street",
+        "expected_answer": "Sarah Platt Sarah is the daughter of Gail (Helen Worth) and Brian Tilsley (Christopher Quinten), sister to Nick Tilsley (Warren Jackson, Adam Rickitt, Ben Price) and half-sister to David Platt (Thomas Ormson, Jack P. Shepherd), granddaughter to Audrey Roberts (Sue Nicholls), Ted Page (David Byrne) and Bert and Ivy Tilsley (Lynne Perrie) and mother to Bethany (Mia Cookson, Amy & Emily Walton, Lucy Fallon), Billy and Harry. Sarah's storylines have included a controversial and ground-breaking underage pregnancy which saw her giving birth to Bethany Platt and saw Sarah deal with motherhood in her teens, internet grooming, her friendship with Candice Stowe (Nikki Sanderson), her relationships with Todd (Bruno Langley) and Jason Grimshaw (Ryan Thomas) as well as her sibling rivalry between her and her half-brother David. Her exit storyline saw her leave Weatherfield to start a new life with Bethany in Milan. Her return storyline saw her track down Bethany who had run away from home and returned to Weatherfied. Since then Sarah's storylines have included a relationship with Callum Logan (Sean Ward), joining her brother David and sister-in-law Kylie Platt's (Paula Lane) feud with him, being forced to cover-up his murder when Kylie kills him to save her, giving birth to his son Harry, suffering from postpartum psychosis, a relationship with Gary Windass (Mikey North), being the victim of a scam by Pat Phelan (Connor McIntyre), dealing with the discovery that Bethany is a victim of sexual exploitation by her adult boyfriend Nathan Curtis (Christopher Harper), her grief when Gary is wrongly presumed dead, her anger upon learning his one-night stand with Nicola Rubinstein (Nicola Thorp) and her pregnancy, coming to terms with the fact that Bethany is a lapdancer, and rekindling her relationship with Gary.",
+        "llm_response": "Frank Gallagher.",
+        "overlap_percent": 0.1,
+        "semantic_percent": 9.94
+      },
+      {
+        "id": 8,
+        "question": "what breed of horse is joey in war horse",
+        "expected_answer": "War Horse (film) In 1912, a teenage boy named Albert Narracott (Jeremy Irvine) from Devon, England, witnesses the birth of a bay Thoroughbred foal and subsequently watches with admiration the growth of the young horse. Much to the dismay of his mother Rose (Emily Watson), his father Ted (Peter Mullan) buys the colt at an auction, outbidding their landlord Lyons despite them needing a more suitable plough horse for the farm work. Albert's best friend, Andrew Easton, watches as Albert teaches his colt many things, such as to come to him when he imitates the call of an owl by blowing through his cupped hands. He names the horse Joey.",
+        "llm_response": "The breed of the given horse is a War Horse.",
+        "overlap_percent": 3.43,
+        "semantic_percent": 70.76
+      },
+      {
+        "id": 9,
+        "question": "are the secretary of the treasury and the us treasurer the same",
+        "expected_answer": "Treasurer of the United States The Treasurer of the United States is an official in the United States Department of the Treasury who was originally charged with the receipt and custody of government funds, though many of these functions have been taken over by different bureaus of the Department. Responsibility for oversight of the Bureau of Engraving and Printing, the United States Mint, and the United States Savings Bonds Division (now the Savings Bond Marketing Office within the Bureau of the Public Debt) was assigned to the Treasurer in 1981. As of 2002 the Office of the Treasurer underwent a major reorganization. The Treasurer now advises the Director of the Mint, the Director of the Bureau of Engraving and Printing, the Deputy Secretary and the Secretary of the Treasury on matters relating to coinage, currency and the production of other instruments by the United States.[1]",
+        "llm_response": "Yes, they refer to the same person. The Secretary of the Treasury is a position in the United States government responsible for managing the country's finances, while the Treasurer refers to the individual who holds this role. Both titles represent the same person within the US government.",
+        "overlap_percent": 21.31,
+        "semantic_percent": 70.49
+      },
+      {
+        "id": 10,
+        "question": "when did the spanish settle in the new world",
+        "expected_answer": "Spanish colonization of the Americas Beginning with the 1492 arrival of Christopher Columbus and continuing for over three centuries, the Spanish Empire would expand across the Caribbean Islands, half of South America, most of Central America and much of North America (including present day Mexico, Florida and the Southwestern and Pacific Coastal regions of the United States). It is estimated that during the colonial period (1492\u20131832), a total of 1.86 million Spaniards settled in the Americas and a further 3.5 million immigrated during the post-colonial era (1850\u20131950).",
+        "llm_response": "The Spanish settled in the New World as early as 1492, with some of the first successful settlements coming from Spain's 1512 expedition under Ferdinand Columbus.",
+        "overlap_percent": 15.45,
+        "semantic_percent": 70.31
+      },
+      {
+        "id": 11,
+        "question": "who has been indian longest serving prime minister",
+        "expected_answer": "List of Prime Ministers of India Since 1947, India has had fourteen Prime Ministers, fifteen including Gulzarilal Nanda who twice acted in the role. The first was Jawaharlal Nehru of the Indian National Congress party,[2] who was sworn-in on 15 August 1947, when India gained independence from the British. Serving until his death in May 1964, Nehru remains India's longest-serving prime minister. He was succeeded by fellow Congressman Lal Bahadur Shastri, whose 19-month term also ended in death. Indira Gandhi, Nehru's daughter, succeeded Shastri in 1966 to become the country's first woman premier. Eleven years later, she was voted out of power in favour of the Janata Party, whose leader Morarji Desai became the first non-Congress prime minister. After he resigned in 1979, his former deputy Charan Singh briefly held office until Indira Gandhi was voted back six months later. Indira Gandhi's second stint as Prime Minister ended five years later on the morning of 31 October 1984, when she was gunned down by her own bodyguards. That evening, her son Rajiv Gandhi was sworn-in as India's youngest premier, and the third from his family. Thus far, members of Nehru\u2013Gandhi dynasty have been Prime Minister for a total of 37 years and 303 days.[3]",
+        "llm_response": "Jawaharlal Nehru was the Indian leader who served as Prime Minister of India for the longest duration. He held office from 1947 to 1964, a total of 17 years and 8 months.",
+        "overlap_percent": 26.78,
+        "semantic_percent": 73.5
+      },
+      {
+        "id": 12,
+        "question": "where can you find a duck billed platypus",
+        "expected_answer": "Platypus The platypus (Ornithorhynchus anatinus), sometimes referred to as the duck-billed platypus, is a semiaquatic egg-laying mammal endemic to eastern Australia, including Tasmania. Together with the four species of echidna, it is one of the five extant species of monotremes, the only mammals that lay eggs instead of giving birth to live young. The animal is the sole living representative of its family (Ornithorhynchidae) and genus (Ornithorhynchus), though a number of related species appear in the fossil record. The first scientists to examine a preserved platypus body (in 1799)[3] judged it a fake, made of several animals sewn together.[4]",
+        "llm_response": "The Duck-billed Platypus is native to eastern Australia and can be found in the rivers and streams of New South Wales, Victoria, Tasmania, and Queensland. It prefers areas with freshwater habitats such as lakes, ponds, and slow-moving rivers.",
+        "overlap_percent": 7.97,
+        "semantic_percent": 72.42
+      },
+      {
+        "id": 13,
+        "question": "when is mating season for great horned owls",
+        "expected_answer": "Great horned owl Great horned owls are some of the earliest-breeding birds in North America, seemingly in part because of the lengthy nightfall at this time of year and additionally the competitive advantage it gives the owl over other raptors. In most of North America, courtship is from October to December and mates are chosen by December to January.[6] This species is strictly monogamous. During courtship in late fall or early winter, the male attracts the attention of his mate by hooting emphatically while leaning over (with the tail folded or cocked) and puffing up his white throat to look like a ball.[6] The white throat may serve as a visual stimuli in the low light conditions typical of when this owl courts.[29] He often flies up and down on a perch, while approaching the potential mate. Eventually, he comes to approach the female and tries to rub his bill against hers while repeatedly bowing. If receptive, the female hoots back when the pair meet but is more subdued in both her hoot and display. The male may convince the female by bringing her freshly caught prey, which they will share.[5][6] While males often hoot emphatically for about a month or six weeks towards the end of the year, the period where females also hoot is usually only a week to ten days.[28] Pairs typically breed together year after year and may mate for life, although they associate with each other more loosely when their young become mostly independent.[6] Pairs rekindling their reproductive relationship in the winter may perform a milder courtship to strengthen pair bonds before producing young.[28]",
+        "llm_response": "Mating season for Great Horned Owls typically occurs during the spring, with some variation depending on geographic location. The breeding period usually lasts from February to May in North America and can extend into June or July in more southern regions. During this time, male owls will perform elaborate courtship displays to attract females.",
+        "overlap_percent": 14.8,
+        "semantic_percent": 79.87
+      },
+      {
+        "id": 14,
+        "question": "who is the pink hair girl in sailor moon",
+        "expected_answer": "Chibiusa Author Naoko Takeuchi describes Chibiusa as a precocious person who likes pulling pranks.[3] She is the daughter of Neo-Queen Serenity and King Endymion. Her real name is the same as her mother's, but is called Chibiusa in Japanese to avoid confusion between the two. Her name in several English-language versions of Sailor Moon, Rini, is a diminutive of \"Serena\", the name of her mother. She is known for having pink hair put into a unique style that resembles rabbit ears on top of her head. Chibiusa's hair is apparently truly pink, and not just colored that way for stylistic purposes; its color is stated in the manga's first Picture Diary[4] and in the poem about her in the Sailor Stars CD single.[5]",
+        "llm_response": "Sailor Moon.",
+        "overlap_percent": 1.78,
+        "semantic_percent": 51.03
+      },
+      {
+        "id": 15,
+        "question": "who did red bull racing used to be",
+        "expected_answer": "Red Bull Racing The current Red Bull team can trace its origins back to the Stewart Grand Prix outfit that made its debut in 1997. Jackie Stewart sold his team to the Ford Motor Company late in 1999, and Ford made the decision to rebrand the team Jaguar Racing, with little subsequent success over the next five years.",
+        "llm_response": "Red Bull Racing was a Formula One team that competed from 1997 until 2010. The team's most successful season came in 2007 when they won the Constructors' Championship with two drivers, Sebastian Vettel and Mark Webber. They also had other notable successes throughout their history including one World Drivers' Championship by Michael Schumacher",
+        "overlap_percent": 20.14,
+        "semantic_percent": 68.33
+      },
+      {
+        "id": 16,
+        "question": "who does chris marry in parks and rec",
+        "expected_answer": "Chris Traeger Chris and Ann, now married, return for a guest appearance in the series finale in order to advise Leslie in 2025. It is revealed that after Oliver, the couple had a second child, a daughter named Leslie.",
+        "llm_response": "Chris marries his high school sweetheart, Phoebe Buffay. They have a beautiful wedding ceremony surrounded by their friends and family at the park where they first met. The couple is overjoyed to start their married life together and continue creating happy memories as a team.",
+        "overlap_percent": 19.69,
+        "semantic_percent": 60.43
+      },
+      {
+        "id": 17,
+        "question": "who is the lead singer of falling in reverse",
+        "expected_answer": "Falling in Reverse The band is led by vocalist Ronnie Radke alongside lead guitarist Christian Thompson, rhythm guitarist Derek Jones, bassist Zakk Sandler and touring drummer Michael Levine. The group released its debut album, The Drug in Me Is You, on July 26, 2011, which peaked at No. 19 on the Billboard 200, selling 18,000 copies in its first week. The band's second studio album, Fashionably Late, was released on June 18, 2013, which peaked at No. 17 on the Billboard 200.[2] The band released their third album Just Like You on February 24, 2015. Coming Home, their latest album, was released on April 7, 2017.",
+        "llm_response": "The lead vocalist for \"Falling In Reverse\" is Ronnie Radke.",
+        "overlap_percent": 11.45,
+        "semantic_percent": 56.6
+      },
+      {
+        "id": 18,
+        "question": "who wrote the theme song to charlie brown",
+        "expected_answer": "Linus and Lucy \"Linus and Lucy\" is a popular jazz piano composition written by Vince Guaraldi, appearing in many of the Peanuts animated television specials. Named for the fictional siblings Linus and Lucy van Pelt, it was released in 1964 on the Vince Guaraldi Trio's album Jazz Impressions of a Boy Named Charlie Brown. A Charlie Brown Christmas introduced the song to a television audience of millions of children beginning in 1965.[1] Since that special, the piece has introduced most of the Peanuts TV cartoons, with the exceptions of the specials and other TV programs produced between 1979 and 1992. It is one of the most recognizable pieces by Vince Guaraldi, and has gained status as the de facto theme song of the Peanuts franchise.",
+        "llm_response": "The theme song for Charlie Brown is \"It's Only Begun\" by Vince Guaraldi.",
+        "overlap_percent": 8.25,
+        "semantic_percent": 51.64
+      },
+      {
+        "id": 19,
+        "question": "when did the new season of will and grace start",
+        "expected_answer": "Will & Grace Will & Grace is an American sitcom created by Max Mutchnick and David Kohan. Set in New York City, the show focuses on the relationship between best friends Will Truman (Eric McCormack), a gay lawyer, and Grace Adler (Debra Messing), a straight interior designer. The show was broadcast on NBC from September 21, 1998 to May 18, 2006, for a total of eight seasons, and restarted its run on NBC on September 28, 2017. During its original run, Will & Grace was one of the most successful television series with gay principal characters.[2]",
+        "llm_response": "The new season of Will & Grace started in September 2018.",
+        "overlap_percent": 7.37,
+        "semantic_percent": 68.06
+      }
+    ]
   }
 ]
