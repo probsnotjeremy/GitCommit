@@ -728,5 +728,515 @@
         "semantic_percent": 68.06
       }
     ]
+  },
+  {
+    "test_number": 6,
+    "timestamp": "2025-09-10 11:39:45",
+    "duration_seconds": 111.0,
+    "n_questions": 20,
+    "avg_overlap": 14.12,
+    "avg_semantic": 57.07,
+    "results": [
+      {
+        "id": 0,
+        "question": "when did the mandate of heaven start and end",
+        "expected_answer": "Mandate of Heaven The Mandate of Heaven or Tin Ming, Tian Ming (Chinese: \u5929\u547d; pinyin: Ti\u0101nm\u00ecng; Wade\u2013Giles: T'ien-ming) and in various dialectal spellings, is a Chinese political and religious doctrine used since ancient times to justify the rule of the Emperor of China. According to this belief, heaven (\u5929, Tian)\u2014which embodies the natural order and will of the universe\u2014bestows the mandate on a just ruler of China, the \"Heavenly Son\" of the \"Celestial Empire\". If a ruler was overthrown, this was interpreted as an indication that the ruler was unworthy, and had lost the mandate. It was also a common belief that natural disasters such as famine and flood were signs of heaven's displeasure with the ruler, so there would often be revolts following major disasters as citizens saw these as signs that the Mandate of Heaven had been withdrawn.[1]",
+        "llm_response": "The concept of a \"mandate of Heaven\" in Chinese history dates back to ancient times, but it was not until the Han Dynasty (206 BCE - 220 CE) that it became more clearly defined. During this period, emperors were believed to have received their authority from the heavens through divine favor or approval. However",
+        "overlap_percent": 16.2,
+        "semantic_percent": 81.47
+      },
+      {
+        "id": 1,
+        "question": "who has the most hat tricks in football",
+        "expected_answer": "List of UEFA Champions League hat-tricks Twelve players have scored more than three goals in a match; of these, only Lionel Messi has achieved this more than once, and only Messi and Luiz Adriano have scored five.[1][2] The other ten players to achieve this feat are Marco van Basten, Simone Inzaghi, Dado Pr\u0161o, Ruud van Nistelrooy, Andriy Shevchenko, Baf\u00e9timbi Gomis, Mario G\u00f3mez, Robert Lewandowski, Zlatan Ibrahimovi\u0107 and Cristiano Ronaldo.",
+        "llm_response": "Lionel Messi, Cristiano Ronaldo and Neymar have all scored 8 hat-tricks throughout their careers.",
+        "overlap_percent": 20.39,
+        "semantic_percent": 75.94
+      },
+      {
+        "id": 2,
+        "question": "where did the name grand tetons come from",
+        "expected_answer": "Grand Teton The origin of the name is disputed. The most common explanation is that \"Grand Teton\" means \"large teat\" or \"large nipple\" in French, named by either French-Canadian or Iroquois members of an expedition led by Donald McKenzie of the North West Company.[5] However, other historians disagree, and claim that the mountain was named after the Teton Sioux tribe of Native Americans.[6]",
+        "llm_response": "The Grand Tetons are a mountain range located in Wyoming, USA. They were named after their distinctive shape that resembles four large blocks or \"tetons.\"",
+        "overlap_percent": 41.08,
+        "semantic_percent": 72.26
+      },
+      {
+        "id": 3,
+        "question": "when did the titanic set sail on its maiden voyage",
+        "expected_answer": "RMS Titanic After leaving Southampton on 10 April 1912, Titanic called at Cherbourg in France and Queenstown (now Cobh) in Ireland before heading west to New York.[5] On 14 April, four days into the crossing and about 375 miles (600\u00a0km) south of Newfoundland, she hit an iceberg at 11:40\u00a0p.m. ship's time. The collision caused the hull plates to buckle inwards along her starboard (right) side and opened five of her sixteen watertight compartments to the sea; she could only survive four flooding. Meanwhile, passengers and some crew members were evacuated in lifeboats, many of which were launched only partially loaded. A disproportionate number of men were left aboard because of a \"women and children first\" protocol for loading lifeboats.[6] At 2:20\u00a0a.m., she broke apart and foundered with well over one thousand people still aboard. Just under two hours after Titanic sank, the Cunard liner RMS\u00a0Carpathia arrived and brought aboard an estimated 705 survivors.",
+        "llm_response": "The Titanic set sail on its maiden voyage in April 1912.",
+        "overlap_percent": 0.9,
+        "semantic_percent": 65.91
+      },
+      {
+        "id": 4,
+        "question": "what type of dog is tramp in lady and the tramp",
+        "expected_answer": "Lady and the Tramp Lady and the Tramp is a 1955 American animated romantic musical comedy-drama film produced by Walt Disney and released to theaters on June 22, 1955 by Buena Vista Distribution. The 15th Disney animated feature film, it was the first animated feature filmed in the CinemaScope widescreen film process.[3] Based on Happy Dan, The Whistling Dog by Ward Greene, Lady and the Tramp tells the story of a female American Cocker Spaniel named Lady who lives with a refined, upper-middle-class family, and a male stray mongrel called the Tramp. When the two dogs meet, they embark on many romantic adventures and fall in love. A direct-to-video sequel, Lady and the Tramp II: Scamp's Adventure, was released in 2001.",
+        "llm_response": "This is a Labrador Retriever.",
+        "overlap_percent": 0.0,
+        "semantic_percent": 17.04
+      },
+      {
+        "id": 5,
+        "question": "who played warden hodges in dad's army",
+        "expected_answer": "Bill Pertwee William Desmond Anthony Pertwee, MBE (21 July 1926 \u00e2\u20ac\u201c 27 May 2013) was an English comedy actor. He was best known for his role as the antagonist ARP Warden Hodges in the sitcom Dad's Army.[1]",
+        "llm_response": "The character Warden Hodges was portrayed by Michael Clarke Duncan.",
+        "overlap_percent": 10.75,
+        "semantic_percent": 58.45
+      },
+      {
+        "id": 6,
+        "question": "who introduced the contract with america during the 1994 election campaign",
+        "expected_answer": "Contract with America The Contract with America was a document released by the United States Republican Party during the 1994 Congressional election campaign. Written by Newt Gingrich and Dick Armey, and in part using text from former President Ronald Reagan's 1985 State of the Union Address, the Contract detailed the actions the Republicans promised to take if they became the majority party in the United States House of Representatives for the first time in 40 years. Many of the Contract's policy ideas originated at The Heritage Foundation, a conservative think tank.[1][2]",
+        "llm_response": "Bill Clinton.",
+        "overlap_percent": 0.21,
+        "semantic_percent": 23.43
+      },
+      {
+        "id": 7,
+        "question": "who plays the voice of riley and huey on the boondocks",
+        "expected_answer": "Regina King Beginning in the mid-2000s, she had ongoing roles on several TV series, including acclaimed work as the voice of Huey and Riley Freeman for the animated series The Boondocks and Detective Lydia Adams on the TNT police drama Southland. She also appeared in roles on 24, The Big Bang Theory, and Shameless. In 2007 she played Lisa Moore in This Christmas. She was a cast member on ABC's John Ridley-penned ensemble drama American Crime, and played a devout member of the Nation of Islam and sister to a drug addict accused of murder. In September 2015 and September 2016, King won the Primetime Emmy Award for Outstanding Supporting Actress in a Limited Series or a Movie for American Crime.[9]In 2018, she played the role of the mother of a murdered black teenager in Netflix original series Seven Seconds.",
+        "llm_response": "The user is asking for information about characters from a TV show.",
+        "overlap_percent": 2.55,
+        "semantic_percent": 21.76
+      },
+      {
+        "id": 8,
+        "question": "what episode did morgan first appear on the walking dead",
+        "expected_answer": "Morgan Jones (The Walking Dead) In the television series, Rick's hometown - where the Jones' settle - is a small Georgia town called King County. In the series premiere \"Days Gone Bye\", Morgan examines Rick after his son Duane mistakes Rick for a walker and hits him with a shovel. Rick later wakes up tied to a bed, as Morgan checks Rick for zombie bites or fever, either of which could indicate he is turning into a walker. Morgan initially doubts Rick's status as a living being, going so far as to threaten to shoot him if he does not prove his humanity. After deciding Rick is not a threat, Morgan frees him using a Buck 110 hunting knife and shares what information he has regarding the apocalypse and the walkers. The following day, Rick tells Morgan that his wife and son are missing and they are most likely alive, since the family photos have been taken from the house. Morgan and Duane tell Rick they may have set off to Atlanta, where the Centers for Disease Control and Prevention has set up a quarantine zone. Rick takes Morgan and Duane to his former Sheriff's headquarters, where the trio use the emergency generator to power up the station. They take hot showers and clean out the armory. Rick heads to Atlanta, while Morgan and Duane stay behind. Rick gives Morgan a rifle and a walkie-talkie and promises to broadcast every morning at dawn. Morgan goes to the top floor of his house, where he looks through old family photos before shooting several zombies. As he hoped, the noise attracts more walkers, including his dead wife Jenny, but Morgan finds himself unable to shoot her and breaks down in tears.",
+        "llm_response": "Morgan is introduced in season 3, episode 1. He appears as a member of the group that helps Rick and his friends escape from the prison where they are being held captive by walkers.",
+        "overlap_percent": 6.36,
+        "semantic_percent": 62.21
+      },
+      {
+        "id": 9,
+        "question": "when did the first smart phone come out",
+        "expected_answer": "Smartphone In 1999, the Japanese firm NTT DoCoMo released the first smartphones to achieve mass adoption within a country.[1] Smartphones became widespread in the late 2000s, following the release of the iPhone. Most of those produced from 2012 onward have high-speed mobile broadband 4G LTE, motion sensors, and mobile payment features. In the third quarter of 2012, one billion smartphones were in use worldwide.[2] Global smartphone sales surpassed the sales figures for feature phones in early 2013.[3]",
+        "llm_response": "The first smartphone was released in 1992.",
+        "overlap_percent": 13.37,
+        "semantic_percent": 65.01
+      },
+      {
+        "id": 10,
+        "question": "who stars as rey in the star wars films",
+        "expected_answer": "Rey (Star Wars) Rey is a fictional character in the Star Wars franchise, portrayed by English actress Daisy Ridley. First appearing as the main character in Star Wars: The Force Awakens,[1][7][8][9] Rey is a scavenger who was left behind on the planet Jakku when she was a child, and later becomes involved with the Resistance's conflict with the First Order when her solitary life is interrupted by BB-8, the droid of ace Resistance pilot Poe Dameron, and a runaway Stormtrooper named Finn.",
+        "llm_response": "Mark Hamill.",
+        "overlap_percent": 0.43,
+        "semantic_percent": 2.79
+      },
+      {
+        "id": 11,
+        "question": "how old is the girl in sia new video",
+        "expected_answer": "Maddie Ziegler Ziegler has appeared in music videos for such artists as Alexx Calise, Sia and Todrick Hall.[24][25] She gained wide notice, at the age of 11, by starring in the 2014 video for \"Chandelier\" by Sia, who discovered her on Dance Moms.[19] The video won the ARIA Music Award for Best Video[26] and received nominations at the 2014 MTV Video Music Awards for Video of the Year and Best Choreography, winning the latter.[27] It was also nominated for the Grammy Award for Best Music Video in 2015.[28] It has received more than 1.6 billion views on YouTube, and it was, at one point, the 13th most viewed YouTube video of all time.[29] Ziegler said of the choreography: \"It was really different and weird for me, because I usually don't, you know, be a crazy person every time. It was so fun to do and it was really out of the box and it expanded me a lot, because I'm used to competition dances where you're like, Point your legs! But this time it was like, you just need to let go and feel it.\"[30]",
+        "llm_response": "The age of the girl in the given text is not mentioned.",
+        "overlap_percent": 3.0,
+        "semantic_percent": 17.38
+      },
+      {
+        "id": 12,
+        "question": "is the juan de fuca plate oceanic or continental",
+        "expected_answer": "Juan de Fuca Plate The Juan de Fuca plate system has its origins with Panthalassa's oceanic basin and crust. This oceanic crust has primarily been subducted under the North American plate, and the Eurasian Plate. Panthalassa's oceanic plate remnants are understood to be the Juan de Fuca, Gorda, Cocos and the Nazca plates, all four of which were part of the Farallon Plate.",
+        "llm_response": "Oceanic. The Juan de Fuca Plate is an oceanic tectonic plate that lies beneath the Pacific Northwest region of North America, including parts of Canada and the United States. It was named after a Spanish explorer who discovered it in 1589.",
+        "overlap_percent": 33.74,
+        "semantic_percent": 80.03
+      },
+      {
+        "id": 13,
+        "question": "when was bottled water first sold in the uk",
+        "expected_answer": "Bottled water Although vessels to bottle and transport water were part of the earliest human civilizations,[1] bottling water began in the United Kingdom with the first water bottling at the Holy Well in 1621.[2] The demand for bottled water was fueled in large part by the resurgence in spa-going and water therapy among Europeans and American colonists in the 17th and 18th centuries.[3] The first commercially distributed water in America was bottled and sold by Jackson\u00e2\u20ac\u2122s Spa in Boston in 1767.[4] Early drinkers of bottled spa waters believed that the water at these mineral springs had therapeutic properties and that bathing in or drinking the water could help treat many common ailments.[3]",
+        "llm_response": "The earliest recorded sale of bottled water dates back to 1858, although it is believed that people have been packaging and selling mineral waters for centuries. In the UK, bottled water became popular during the Victorian era as a fashionable drink among the upper class. However, it wasn't until the 20th century that mass production and",
+        "overlap_percent": 20.95,
+        "semantic_percent": 81.71
+      },
+      {
+        "id": 14,
+        "question": "how did the calusa tribe get their food",
+        "expected_answer": "Calusa At the time of European contact in the 16th and 17th centuries, the historic Calusa were the people of the Caloosahatchee culture. They are notable for having developed a complex culture based on estuarine fisheries rather than agriculture. Calusa territory reached from Charlotte Harbor to Cape Sable, all of present-day Charlotte and Lee counties, and may have included the Florida Keys at times. They had the highest population density of South Florida; estimates of total population at the time of European contact range from 10,000 to several times that, but these are speculative.",
+        "llm_response": "The Calusa were a Native American tribe that inhabited the coastal regions of Florida. They relied on fishing, hunting, and gathering for their subsistence. Fishing was particularly important to them as they had developed advanced techniques such as using nets and traps to catch fish in large quantities. Additionally, they hunted various animals including deer, all",
+        "overlap_percent": 22.67,
+        "semantic_percent": 74.35
+      },
+      {
+        "id": 15,
+        "question": "where is the bread basket located in the us",
+        "expected_answer": "Breadbasket Additionally, the San Joaquin Valley in California has also been called the breadbasket of the world.[18] The San Joaquin Valley produces the majority of the 12.8% of the United States' agricultural production (as measured by dollar value) that comes from California.[19] Grapes - table, raisin, and to a lesser extent, wine - are perhaps the valley's highest-profile product, but equally (if not more) important are cotton, nuts (especially almonds and pistachios), citrus, and vegetables. 70% of the world's and 100% of the U.S. supply of almonds comes from the valley. Oranges, peaches, garlic, tangerines, tomatoes, kiwis, hay, alfalfa and numerous other crops have been harvested with great success. According to the 2002 Census of Agriculture\u2019s ranking of market value of agricultural products sold, nine of the nation\u2019s top 10, and 12 of the top 20, producing counties are in California.[20]",
+        "llm_response": "The bread basket is typically found on a dining table or buffet. It can be made of wood, metal, or other materials and may have compartments for holding different types of bread. Some common locations include restaurants, cafes, and homes with formal dinner settings.",
+        "overlap_percent": 11.76,
+        "semantic_percent": 36.96
+      },
+      {
+        "id": 16,
+        "question": "where does the song that never ends come from",
+        "expected_answer": "The Song That Never Ends \"The Song That Doesn\u00e2\u20ac\u2122t End\" (originally, \"The Song That Doesn't End\") is a self-referential and infinitely iterative children's song. The song appears in the album Lamb Chop's Sing-Along, Play-Along by puppeteer Shari Lewis. It is a single verse long song, written in an infinite-loop motif in a march style, such that it naturally flows in a cyclical fashion, repeating the same verse over and over. It is still a very popular tune, typically sung during long car journeys. The song was written by writer/composer Norman Martin in 1988. Initially, some people started singing the song without understanding exactly what it was. However, they continued singing it just because it was a never ending song. [1][2][3]",
+        "llm_response": "The phrase \"where does the song that never ends\" is a metaphor used to describe an endless or repetitive cycle. It can be interpreted as referring to situations, relationships, or experiences that seem to go on without end. In this context, it could also refer to music that continues playing in one's mind long after it",
+        "overlap_percent": 18.44,
+        "semantic_percent": 73.21
+      },
+      {
+        "id": 17,
+        "question": "when did east pakistan separate from west pakistan",
+        "expected_answer": "History of East Pakistan The history of East Bengal and East Pakistan from 1947 to 1971 covers the period of Bangladesh's history between its independence as a part of Pakistan from British colonial rule in 1947 to its independence from Pakistan in 1971.[1]",
+        "llm_response": "East and West Pakistan separated in 1971.",
+        "overlap_percent": 9.88,
+        "semantic_percent": 67.86
+      },
+      {
+        "id": 18,
+        "question": "where does the last name lopez originate from",
+        "expected_answer": "L\u00f3pez L\u00f3pez is a surname of Spanish origin.[2] It was originally a patronymic, meaning \"Son of Lope\", Lope itself being a Spanish given name deriving from Latin lupus, meaning \"wolf\". The surname is first attested in Old Castile in the heart of Spain, where the name originated in Visigothic times;[3] however, the name is not of Germanic origin. Its Portuguese equivalent is Lopes, its Italian equivalent is Lupo, its French equivalent is Loup (or Leu), its Romanian equivalent is Lupu or Lupescu and its Valencian equivalent is Llopis. L\u00f3pez is the most common Spanish surname in the United Kingdom.",
+        "llm_response": "The origin of the surname Lopez is Spanish. It comes from the word \"lope,\" which means \"wolf\" in Old English, and was used as a nickname for someone who had a strong or fierce personality. Over time, it evolved into a surname that became popular among people with this characteristic. Today, L\u00f3",
+        "overlap_percent": 20.0,
+        "semantic_percent": 91.46
+      },
+      {
+        "id": 19,
+        "question": "which is the largest zoo in the uk",
+        "expected_answer": "Chester Zoo Chester Zoo is a zoological garden at Upton by Chester, in Cheshire, England. Chester Zoo was opened in 1931 by George Mottershed and his family.[2] It is one of the UK's largest zoos at 125 acres (51\u00a0ha).[1] The zoo has a total land holding of approximately 400 acres (160\u00a0ha).",
+        "llm_response": "London Zoo, located in Central London, England, is the largest zoo in the UK. It covers an area of over 120 acres and houses a wide variety of animals from around the world. The zoo also has several conservation programs and educational initiatives to promote wildlife preservation.",
+        "overlap_percent": 29.75,
+        "semantic_percent": 72.08
+      }
+    ]
+  },
+  {
+    "test_number": 7,
+    "timestamp": "2025-09-10 11:48:16",
+    "duration_seconds": 121.38,
+    "n_questions": 20,
+    "avg_overlap": 12.51,
+    "avg_semantic": 53.4,
+    "results": [
+      {
+        "id": 0,
+        "question": "what happens when mentos is put in coke",
+        "expected_answer": "Diet Coke and Mentos eruption The conversion of dissolved carbon dioxide to gaseous carbon dioxide forms rapidly expanding gas bubbles in the soda, which pushes the beverage contents out of the container. Gasses, in general, are more soluble in liquids at elevated pressures. Carbonated sodas contain elevated levels of carbon dioxide under pressure. The solution becomes supersaturated with carbon dioxide when the bottle is opened, and the pressure is released. Under these conditions, carbon dioxide begins to precipitate from solution, forming gas bubbles. Normally, this process is relatively slow, because the activation energy for this process is high. The activation energy for a process like bubble nucleation depends on where the bubble forms. It is highest for bubbles that form in the liquid itself (homogeneous nucleation), and lower if the bubble forms on some other surface (heterogeneous nucleation). When the pressure is released from a soda bottle, the bubbles tend to form on the sides of the bottle. But because they are smooth and clean, the activation energy is still relatively high, and the process is slow. The addition of other nucleation sites provides an alternative pathway for the reaction to occur with lower activation energy, much like a catalyst. For instance dropping grains of salt or sand into the solution lowers the activation energy, and increases the rate of carbon dioxide precipitation. The physical characteristics of Mentos (surface roughness, easy dissolution into the liquid, etc.) have the effect of drastically reducing the activation energy for carbon dioxide bubble formation, so that the nucleation rate becomes exceedingly high. The activation energy for the release of carbon dioxide from Diet Coke by addition of Mentos has been found to be 25 kJ mol\u22121.[20] This formation of gaseous carbon dioxide within the water, which due to hydrogen bonding and its high surface tension wants to maintain a connected matrix of molecules, causes the water to foam, ultimately generating the \"jet\"\u2014or \"geyser\"\u2014or eruption-like nature of the effusion.[14][5][17][21] The foaming is aided by the presence of chemicals like potassium benzoate and aspartame in Diet Coke, and gelatin and gum arabic in the Mentos candy, all which influence the nature of water's surface tension and degree to which it can foam.[12][14][17]",
+        "llm_response": "When Mentos are added to Coke, a chemical reaction occurs. The carbon dioxide gas that is dissolved in the soda comes out of solution and forms bubbles. This creates an explosive foam that shoots up from the bottle or can. The pressure inside the container increases rapidly as more gas escapes, until it reaches its limit and bursts",
+        "overlap_percent": 17.96,
+        "semantic_percent": 75.81
+      },
+      {
+        "id": 1,
+        "question": "where was the first casey's store built",
+        "expected_answer": "Casey's General Stores In 1959, Donald Lamberti leased a service station in Des Moines, Iowa, from his father. After successfully remodeling the station into a convenience store and operating it for nine years, his gasoline supplier and friend, Kurvin C. (K.C.) Fish, suggested that he purchase the Square Deal Oil Company, a service station available for sale in Boone, Iowa. Lamberti followed Fish's advice and purchased the station, which he renamed \"Casey's\" after Fish and as with his leased store converted the station into a convenience store. The logo on the Boone store is the same logo used today by the Casey's chain.",
+        "llm_response": "The first Casey\u2019s Store was opened in Chicago, Illinois in 1912. It was founded by Frank and Lillian Casey, who had previously run a successful dry goods business called \"Casey, Frick & Co.\" After moving to Chicago, the couple decided to open their own department store and named it after themselves",
+        "overlap_percent": 10.78,
+        "semantic_percent": 61.68
+      },
+      {
+        "id": 2,
+        "question": "where did the term pip squeak come from",
+        "expected_answer": "Pip-squeak Pip-squeak gets its name from a contemporary comic strip, Pip, Squeak and Wilfred. It was first implemented in the TR.9D radio. The system was also used by the USAAF, where the equipment was known as RC-96A.",
+        "llm_response": "The origin of the phrase \"pip squeak\" is uncertain, but it may have been derived from a British slang expression that means to sneeze or cough. Alternatively, it could be related to an old-fashioned way of making a sound by blowing through one's lips and teeth like a whistle. Another possible",
+        "overlap_percent": 15.15,
+        "semantic_percent": 67.09
+      },
+      {
+        "id": 3,
+        "question": "who wrote you're as smooth as tennessee whiskey",
+        "expected_answer": "Tennessee Whiskey (song) \"Tennessee Whiskey\" is the title of a country song written by Dean Dillon and Linda Hargrove. It was originally recorded by American country music artist David Allan Coe for his album of the same name Tennessee Whiskey, whose version peaked at number 77 on the Billboard Hot Country Singles chart in 1981.[1] George Jones' 1983 version of the song was included on his album Shine On, and reached number 2 on the Hot Country Singles chart. The song has been covered by several artists, including Chris Stapleton, whose version was performed at the Country Music Association (CMA) Awards with Justin Timberlake, and was certified quadruple Platinum by the Recording Industry Association of America (RIAA).",
+        "llm_response": "The author of this sentence is Taylor Swift.",
+        "overlap_percent": 0.0,
+        "semantic_percent": 4.12
+      },
+      {
+        "id": 4,
+        "question": "when did the first football player take a knee",
+        "expected_answer": "U.S. national anthem protests (2016\u2013present) Kaepernick began sitting during the national anthem at the start of the 2016 NFL preseason. His actions went unnoticed for two weeks before he was questioned by the media.[41] In the 49ers' final 2016 preseason game on September 1, 2016, after talking to Boyer, Kaepernick opted to kneel during the U.S. national anthem rather than sit as he did in their previous games. He explained his decision to switch was an attempt to show more respect to former and current U.S. military members while still protesting during the anthem. Reid joined Kaepernick in kneeling during the national anthem during the final preseason game.[42] Seattle Seahawks player Jeremy Lane also did not stand for the anthem during his final preseason game the same day, stating, \"It's something I plan to keep on doing until justice is being served.\"[43]",
+        "llm_response": "The first recorded instance of a football player taking a knee was in 2017, by Colin Kaepernick.",
+        "overlap_percent": 7.75,
+        "semantic_percent": 55.59
+      },
+      {
+        "id": 5,
+        "question": "who wrote the music to the star spangled banner",
+        "expected_answer": "The Star-Spangled Banner \"The Star-Spangled Banner\" is the national anthem of the United States of America. The lyrics come from \"Defence of Fort M'Henry\",[2] a poem written on September 14, 1814, by the 35-year-old lawyer and amateur poet Francis Scott Key after witnessing the bombardment of Fort McHenry by British ships of the Royal Navy in Baltimore Harbor during the Battle of Baltimore in the War of 1812. Key was inspired by the large American flag, the Star-Spangled Banner, flying triumphantly above the fort during the American victory.",
+        "llm_response": "The Star-Spangled Banner was written by Francis Scott Key.",
+        "overlap_percent": 15.25,
+        "semantic_percent": 70.2
+      },
+      {
+        "id": 6,
+        "question": "where did the israelites cross the jordan river",
+        "expected_answer": "Jordan River In biblical history, the Jordan appears as the scene of several miracles, the first taking place when the Jordan, near Jericho, was crossed by the Israelites under Joshua (Joshua 3:15\u00e2\u20ac\u201c17). Later the two tribes and the half tribe that settled east of the Jordan built a large altar on its banks as \"a witness\" between them and the other tribes (Joshua 22:10, 22:26, et seq.). The Jordan was crossed by Elijah and Elisha on dry ground (2 Kings 2:8, 2:14). The prophet and wonder-worker Elisha performed two miracles at the Jordan: he healed Naaman's leprosy by having him bathe in its waters (2 Kings 5:14), and he made an axe head lost by one of the \"children of the prophets\" float, by throwing a piece of wood into the water (2 Kings 6:6).",
+        "llm_response": "The Israelites crossed the Jordan River during their journey out of Egypt in the Book of Exodus. They were led by Moses and his brother Aaron, who had been chosen as leaders by God to guide them on this important pilgrimage. According to biblical accounts, they arrived at a place called Rephidim, which was located near",
+        "overlap_percent": 25.86,
+        "semantic_percent": 63.19
+      },
+      {
+        "id": 7,
+        "question": "who is the present law minister of india",
+        "expected_answer": "Ministry of Law and Justice (India) The Ministry of Law and Justice in the Government of India is a cabinet ministry which deals with the management of the legal affairs, legislative activities and administration of justice in India through its three departments namely the Legislative Department and the Department of Legal Affairs and Department of Justice respectively. The Department of Legal Affairs is concerned with advising the various Ministries of the Central Government while the Legislative Department is concerned with drafting of principal legislation for the Central Government. The ministry is headed by a cabinet rank minister appointed by the President of India on the recommendation of the Prime Minister of India.[1][2] Ravi Shankar Prasad is the current minister for law and justice in India.",
+        "llm_response": "The current Minister of Law and Justice in India is Rajnath Singh. He was appointed to this position by Prime Minister Narendra Modi on 30 May 2019.",
+        "overlap_percent": 18.5,
+        "semantic_percent": 76.95
+      },
+      {
+        "id": 8,
+        "question": "what progressive reforms did the platform of the bull moose party support",
+        "expected_answer": "Progressive Party (United States, 1912) The party's platform built on Roosevelt's Square Deal domestic program and called for several progressive reforms. The platform asserted that \"to dissolve the unholy alliance between corrupt business and corrupt politics is the first task of the statesmanship of the day\". Proposals on the platform included restrictions on campaign finance contributions, a reduction of the tariff and the establishment of a social insurance system, an eight-hour workday and women's suffrage. The party was split on the regulation of large corporations, with some party members disappointed that the platform did not contain a stronger call for \"trust-busting\". Party members also had different outlooks on foreign policy, with pacifists like Jane Addams opposing Roosevelt's call for a naval build-up.",
+        "llm_response": "The Bull Moose Party, also known as the Progressive Republican Party, was a political party in the United States that emerged during Theodore Roosevelt's presidency. While their exact policies and platforms are not well-documented, it is believed that they supported progressive reforms such as women's suffrage, labor rights, conservation efforts, and government",
+        "overlap_percent": 12.57,
+        "semantic_percent": 57.6
+      },
+      {
+        "id": 9,
+        "question": "what is a role of the pacemaker or sinoatrial node (san)",
+        "expected_answer": "Sinoatrial node The sinoatrial node (SA node), also known as sinus node, is a group of cells located in the wall of the right atrium of the heart.[1] These cells have the ability to spontaneously produce an electrical impulse (action potential; see below for more details), that travels through the heart via the electrical conduction system (see figure 1) causing it to contract. In a healthy heart, the SA node continuously produces action potential, setting the rhythm of the heart and so is known as the heart's natural pacemaker. The rate of action potential production (and therefore the heart rate) is influenced by nerves that supply it.[2]",
+        "llm_response": "The Sinoatrial Node, also known as the Pacemaker or SAN, plays an important role in maintaining heart rate and rhythm. It generates electrical impulses that regulate the heartbeat by initiating each contraction of the atria (upper chambers). These impulses then spread through specialized conduction pathways to coordinate contractions between both atria",
+        "overlap_percent": 27.92,
+        "semantic_percent": 82.73
+      },
+      {
+        "id": 10,
+        "question": "the chapters (suras) of the qur'an are arranged roughly in order of",
+        "expected_answer": "Surah A Surah (/\u02c8s\u028a\u0259r\u0259/;[1] also spelled Sura; Arabic: \u0633\u0648\u0631\u0629\u200e s\u016brah, plural \u0633\u0648\u0631 suwar) is the term for a chapter of the Qur'an. There are 114 Surahs in the Qur'an, each divided into verses. The chapters or suras are of unequal length, the shortest chapter (Al-Kawthar) has only three ayat (verses) while the longest (Al-Baqara) contains 286 verses.[2] Of the 114 chapters in the Qur'an, 87 are classified as Meccan, while 27 are Medinan. This classification is only approximate in regard to location of revelation; any chapter revealed after migration of Muhammad to Medina (Hijrah) is termed Medinan and any revealed before that event is termed Meccan. The Meccan chapters generally deal with faith and scenes of the Hereafter while the Medinan chapters are more concerned with organizing the social life of the nascent Muslim community and leading Muslims to the goal of Dar al-Islam by showing strength. Except for sura At-Tawba, all chapters or suras commence with 'In the Name of God, the Merciful, the Compassionate'. This formula is known as the Bismillah and denotes the boundaries between chapters. The chapters are arranged roughly in order of descending size; therefore the arrangement of the Qur'an is neither chronological nor thematic. Suras (chapters) are recited during the standing portions (Qiyam) of Muslim prayers. Sura Al-Fatiha, the first chapter of the Qur'an, is recited in every unit of prayer and some units of prayer also involve recitation of all or part of any other sura.",
+        "llm_response": "chronology.",
+        "overlap_percent": 0.0,
+        "semantic_percent": 16.28
+      },
+      {
+        "id": 11,
+        "question": "where does the north begin in the us",
+        "expected_answer": "Mason\u2013Dixon line The Mason\u00e2\u20ac\u201cDixon line, also called the Mason and Dixon line or Mason's and Dixon's line, was surveyed between 1763 and 1767 by Charles Mason and Jeremiah Dixon in the resolution of a border dispute involving Maryland, Pennsylvania, and Delaware in Colonial America. It is still a demarcation line among four U.S. states, forming part of the borders of Pennsylvania, Maryland, Delaware, and West Virginia (originally part of Virginia before 1863). Later it became known as the border between the North and South. Before the Missouri Compromise, the line (west of Delaware) marked the northern limit of slavery in the United States.",
+        "llm_response": "The North Pole is considered to be at 0 degrees latitude, so it can be said that the northernmost point of the United States begins there. However, some people may argue that Alaska's Arctic Circle (66.5 degrees north) or parts of Canada and Greenland are also part of the \"north\" in terms of",
+        "overlap_percent": 16.82,
+        "semantic_percent": 20.82
+      },
+      {
+        "id": 12,
+        "question": "what does bacs stand for in banking terms",
+        "expected_answer": "BACS Bacs Payment Schemes Limited (Bacs), formerly known as Bankers' Automated Clearing Services, is the organisation with responsibility for the schemes behind the clearing and settlement of UK automated payment methods Direct Debit and Bacs Direct Credit, as well as the provision of managed services for third parties.[1] These include the Cash ISA Transfer Service,[2] Biller Update Service[3] and the development, management and subsequent ownership of the Current Account Switch Service.[4]",
+        "llm_response": "Bank Automated Clearing Services.",
+        "overlap_percent": 11.78,
+        "semantic_percent": 58.35
+      },
+      {
+        "id": 13,
+        "question": "when did west coast customs moved to burbank",
+        "expected_answer": "West Coast Customs During filming of Season 5 Episode 12 \"WCC's New Zip Part 1\" of West Coast Customs, Friedlinghaus began moving the shop to its current location, a 60,000 square feet (5,600\u00c2\u00a0m2) auto shop on West Empire Avenue in Burbank, Los Angeles County, California.[46] The grand opening of the new facility occurred in January 2015.[47]",
+        "llm_response": "West Coast Customs was founded in Burbank, California. The exact date of its founding is unknown as it has been a long-standing business for many years and does not have an official establishment date mentioned on their website or any other reliable sources. However, the company's presence in Burbank suggests that they were established there",
+        "overlap_percent": 11.15,
+        "semantic_percent": 63.25
+      },
+      {
+        "id": 14,
+        "question": "in the raven what is the name of the narrator's lost love",
+        "expected_answer": "The Raven \"The Raven\" is a narrative poem by American writer Edgar Allan Poe. First published in January 1845, the poem is often noted for its musicality, stylized language, and supernatural atmosphere. It tells of a talking raven's mysterious visit to a distraught lover, tracing the man's slow fall into madness. The lover, often identified as being a student,[1][2] is lamenting the loss of his love, Lenore. Sitting on a bust of Pallas, the raven seems to further instigate his distress with its constant repetition of the word \"Nevermore\". The poem makes use of a number of folk, mythological, religious, and classical references.",
+        "llm_response": "The name of the narrator's lost love is not mentioned.",
+        "overlap_percent": 2.57,
+        "semantic_percent": 25.16
+      },
+      {
+        "id": 15,
+        "question": "what is the great comet of 1812 based on",
+        "expected_answer": "Natasha, Pierre & The Great Comet of 1812 Natasha, Pierre & The Great Comet of 1812 is a sung-through musical adaptation of a segment of Leo Tolstoy's War and Peace written by composer/lyricist Dave Malloy and directed by Rachel Chavkin. It is based on Volume 2, Part 5 of Tolstoy's novel, focusing on Natasha's affair with Anatole and Pierre's search for meaning in his life.[1]",
+        "llm_response": "The Great Comet of 1812 was a bright comet that appeared in the night sky during the winter months. It was visible to observers across Europe and North America, and its appearance caused much excitement and speculation at the time. Some people believed it would bring about significant changes or even an apocalypse. Today, we know more about",
+        "overlap_percent": 15.65,
+        "semantic_percent": 42.36
+      },
+      {
+        "id": 16,
+        "question": "what is the full form of als disease",
+        "expected_answer": "Amyotrophic lateral sclerosis Amyotrophic lateral sclerosis (ALS), also known as motor neurone disease (MND), and Lou Gehrig's disease, is a specific disease which causes the death of neurons controlling voluntary muscles.[3][5][11] Some also use the term motor neuron disease for a group of conditions of which ALS is the most common.[2] ALS is characterized by stiff muscles, muscle twitching, and gradually worsening weakness due to muscles decreasing in size.[2] This results in difficulty speaking, swallowing, and eventually breathing.[2][3]",
+        "llm_response": "Alzheimer's Disease.",
+        "overlap_percent": 0.0,
+        "semantic_percent": 48.52
+      },
+      {
+        "id": 17,
+        "question": "when were the new york twin towers built",
+        "expected_answer": "World Trade Center (1973\u20132001) In January 1967, the Port Authority awarded $74\u00a0million in contracts to various steel suppliers.[56] Construction work began on the North Tower in August 1968, and construction on the South Tower was under way by January 1969.[57] The original Hudson Tubes, which carried PATH trains into Hudson Terminal, remained in service during the construction process until 1971, when a new station opened.[58] The topping out ceremony of 1\u00a0WTC (North Tower) took place on December 23, 1970, while 2\u00a0WTC's ceremony (South Tower) occurred later on July 19, 1971.[57] The first tenants moved into the North Tower on December 15, 1970,[1] while the South Tower started accepting tenants in January 1972.[59] When the World Trade Center twin towers were completed, the total costs to the Port Authority had reached $900\u00a0million.[60] The ribbon cutting ceremony was on April 4, 1973.[61]",
+        "llm_response": "The new York Twin Towers, also known as One World Trade Center and Two World Trade Center, were completed in 2014. They replaced the original Twin Towers that were destroyed during the September 11 attacks on 2001.",
+        "overlap_percent": 18.03,
+        "semantic_percent": 63.61
+      },
+      {
+        "id": 18,
+        "question": "a disorder in infants that is associated with inadequate intake of folate during pregnancy is",
+        "expected_answer": "Folate deficiency Women with folate deficiency who become pregnant are more likely to give birth to low birth weight premature infants, and infants with neural tube defects. In infants and children, folate deficiency can lead to failure to thrive or slow growth rate, diarrhea, oral ulcers, megaloblastic anemia, neurological deterioration. Microcephaly, irritability, developmental delay, seizures, blindness and cerebellar ataxia can also be observed.[4]",
+        "llm_response": "Neural tube defect.",
+        "overlap_percent": 4.66,
+        "semantic_percent": 36.41
+      },
+      {
+        "id": 19,
+        "question": "what were the causes of the war of 1812 quizlet",
+        "expected_answer": "Origins of the War of 1812 There were several causes for the U.S. declaration of war: First, a series of trade restrictions introduced by Britain to impede American trade with France, a country with which Britain was at war (the U.S. contested these restrictions as illegal under international law);[2] second, the impressment (forced recruitment) of seamen on U.S. vessels into the Royal Navy (the British claimed they were British deserters); third, the British military support for American Indians who were offering armed resistance to the expansion of the American frontier to the Northwest; fourth, a possible desire on the part of the United States to annex Canada.[3] An implicit but powerful motivation for the Americans was the desire to uphold national honor in the face of what they considered to be British insults (such as the Chesapeake affair).[4]",
+        "llm_response": "The War of 1812 was caused by several factors, including British impressment of American sailors, trade restrictions imposed on America, and territorial disputes over Canada. Additionally, there were political tensions between Britain and France that contributed to the outbreak of war in Europe as well.",
+        "overlap_percent": 17.86,
+        "semantic_percent": 78.23
+      }
+    ]
+  },
+  {
+    "test_number": 8,
+    "timestamp": "2025-09-10 12:21:02",
+    "duration_seconds": 142.31,
+    "n_questions": 20,
+    "avg_overlap": 16.36,
+    "avg_semantic": 61.28,
+    "results": [
+      {
+        "id": 0,
+        "question": "how many electrons will go in the first shell of chlorine",
+        "expected_answer": "Electron shell Each shell can contain only a fixed number of electrons: The first shell can hold up to two electrons, the second shell can hold up to eight (2 + 6) electrons, the third shell can hold up to 18 (2 + 6 + 10) and so on. The general formula is that the nth shell can in principle hold up to 2(n2) electrons.[1] Since electrons are electrically attracted to the nucleus, an atom's electrons will generally occupy outer shells only if the more inner shells have already been completely filled by other electrons. However, this is not a strict requirement: atoms may have two or even three incomplete outer shells. (See Madelung rule for more details.) For an explanation of why electrons exist in these shells see electron configuration.[2]",
+        "llm_response": "7",
+        "overlap_percent": 0.0,
+        "semantic_percent": 13.21
+      },
+      {
+        "id": 1,
+        "question": "who won the 9th season of america's got talent",
+        "expected_answer": "America's Got Talent (season 9) Season nine of the reality competition series America's Got Talent premiered on May 27, 2014[1] and was won by magician Mat Franco. Nick Cannon returned for his sixth season as host. This is Howie Mandel's fifth season, Howard Stern's third season, and Mel B and Heidi Klum both returned for their second season on the judging panel.[2][3]",
+        "llm_response": "The winner of America's Got Talent's ninth season was a magician named David Blaine. He wowed audiences with his mind-bending illusions and received high scores from all four judges throughout the competition. His performance in the final round, where he walked across Niagara Falls without getting wet or injured, left everyone amazed and earned him first place on the show.",
+        "overlap_percent": 38.44,
+        "semantic_percent": 61.4
+      },
+      {
+        "id": 2,
+        "question": "has there ever been a female thunderbird pilot",
+        "expected_answer": "Nicole Malachowski Nicole Margaret Ellingwood Malachowski[1] (born September 26, 1974) is a retired [2] United States Air Force officer and the first female pilot selected to fly as part of the USAF Air Demonstration Squadron, better known as the Thunderbirds. Her aviator call sign is \"FiFi\".[3] Her first public performance was in March 2006 and she spent the 2006 and 2007 air show seasons flying the Number 3 (Right Wing) aircraft in the diamond formation. Prior to attending the U.S. Air Force Academy and joining the USAF, Colonel Malachowski was a Civil Air Patrol Cadet.",
+        "llm_response": "Yes, there have been several female Thunderbirds pilots throughout history. Some notable examples include Amelia Earhart, Bessie Coleman, and Sally Ride. These women broke barriers in aviation and paved the way for future generations of female pilots.",
+        "overlap_percent": 7.14,
+        "semantic_percent": 58.9
+      },
+      {
+        "id": 3,
+        "question": "what is the story of the blair witch project",
+        "expected_answer": "The Blair Witch Project Development of The Blair Witch Project began in 1993.[3] While film students at the University of Central Florida, Daniel Myrick and Eduardo S\u00e1nchez came across the idea for the film after realizing that they found documentaries on paranormal phenomena scarier than traditional horror films. The two decided to create a film that combined the styles of both. In an effort to produce the project, they, along with Gregg Hale, Robin Cowie and Michael Monello started Haxan Films, a production company whose namesake is Benjamin Christensen's 1922 silent documentary horror film H\u00e4xan (English: Witchcraft Through the Ages).[4]",
+        "llm_response": "The Blair Witch Project was a found footage horror film released in 1999. It tells the story of two high school students who become lost while exploring an abandoned farmhouse and are terrorized by a mysterious entity known as \"The Blair Witch.\" The film gained popularity through its use of real-life interviews with people claiming to have encountered the creature, creating a sense of authenticity that contributed to its success at the box office. Despite being marketed as a documentary, it has since been recognized as one of the greatest films ever made.",
+        "overlap_percent": 37.83,
+        "semantic_percent": 72.63
+      },
+      {
+        "id": 4,
+        "question": "when was michael jordan drafted to the bulls",
+        "expected_answer": "1984 NBA draft The Houston Rockets used their first pick to draft Akeem Olajuwon,[10] a junior center from the University of Houston. The Nigerian-born Olajuwon became the second foreign-born player to be drafted first overall, after Mychal Thompson from the Bahamas in 1978.[11] The Portland Trail Blazers used the second overall pick to draft Sam Bowie from the University of Kentucky. The Chicago Bulls used the third pick to draft Naismith and Wooden College Player of the Year Michael Jordan from the University of North Carolina.[1][12] Jordan went on to win the Rookie of the Year Award and was also selected to the All-NBA Second Team in his rookie season.[13] Jordan's teammate at North Carolina, Sam Perkins, was drafted fourth by the Dallas Mavericks. Charles Barkley, a junior forward from Auburn University, was drafted fifth by the Philadelphia 76ers.",
+        "llm_response": "Michael Jordan was drafted by the Bulls in 1984.",
+        "overlap_percent": 10.97,
+        "semantic_percent": 75.59
+      },
+      {
+        "id": 5,
+        "question": "when does far cry 5 for ps4 come out",
+        "expected_answer": "Far Cry 5 Far Cry 5 is an action-adventure first-person shooter game developed by Ubisoft Montreal and Ubisoft Toronto and published by Ubisoft for Microsoft Windows, PlayStation 4 and Xbox One. It is the eleventh entry and the fifth main title in the Far Cry series, and was released on March 27, 2018.",
+        "llm_response": "Far Cry 5 is set to be released on October 4, 2020.",
+        "overlap_percent": 31.76,
+        "semantic_percent": 80.07
+      },
+      {
+        "id": 6,
+        "question": "section 7 of copland's appalachian spring is in",
+        "expected_answer": "Appalachian Spring For many years part of the seventh movement of the orchestral suite was used as the opening music to CBS Reports.[9]",
+        "llm_response": "The Appalachian Spring.",
+        "overlap_percent": 0.57,
+        "semantic_percent": 60.3
+      },
+      {
+        "id": 7,
+        "question": "who is the oldest living person ever recorded",
+        "expected_answer": "List of the verified oldest people The oldest person ever whose age has been verified is Jeanne Calment (1875\u00e2\u20ac\u201c1997) of France, who died at the age of 122 years, 164 days.",
+        "llm_response": "Jeanne Calment was the oldest living person ever recorded, born in 1875. She lived to be 122 years and 164 days old.",
+        "overlap_percent": 38.36,
+        "semantic_percent": 84.13
+      },
+      {
+        "id": 8,
+        "question": "can a foreign born us citizen be president",
+        "expected_answer": "Natural-born-citizen clause The U.S. Constitution uses but does not define the phrase \"natural born Citizen\", and various opinions have been offered over time regarding its precise meaning. The consensus of early 21st-century constitutional scholars, together with relevant case law, is that natural-born citizens include, subject to exceptions, those born in the United States. Many scholars have also concluded that those who meet the legal requirements for U.S. citizenship \"at the moment of birth\", regardless of place of birth, are also natural-born citizens.[2][3] Every president to date was either a citizen at the adoption of the Constitution in 1789 or was born in the United States; of these there have been seven that had at least one parent who was not born on U.S. soil.[4][5]",
+        "llm_response": "Yes, it is possible for a foreign-born U.S. Citizen to become the President of the United States.",
+        "overlap_percent": 6.88,
+        "semantic_percent": 58.8
+      },
+      {
+        "id": 9,
+        "question": "rosa from orange is the new black actress",
+        "expected_answer": "Miss Rosa Rosa \"Miss Rosa\" Cisneros is a fictional character from the Netflix dramedy series Orange Is the New Black, played by Barbara Rosenblat. The character made her first screen appearance during the premiere episode titled \"I Wasn't Ready\", which aired on July 11, 2013. Stephanie Andujar portrayed \"Young Rosa\" in flashback sequences. Rosenblat originally auditioned for another character but producers asked her to portray Miss Rosa. The character is a cancer sufferer who is incarcerated in Litchfield federal prison because she committed armed bank robberies. Rosenblat did not want to shave her head for the role and a make-up artist was hired to fit a prosthetic appliance to her head creating the character's baldness. The application process took three hours, meaning that the actress had to arrive on set earlier than other cast members. Initially there was no character biography created for Miss Rosa and it was Rosenblat who implemented a Hispanic background and accent. The character is respected amongst fellow inmates and despite her criminal past she has a caring nature and good heart.",
+        "llm_response": "The name \"rosa\" means rose in Spanish, so it does not have any special significance. However, if you are looking for a nickname or stage name that could be associated with the color red and elegance, some possible options include Ruby, Scarlet, Rosalind, or Rosemary.",
+        "overlap_percent": 9.51,
+        "semantic_percent": 45.87
+      },
+      {
+        "id": 10,
+        "question": "who wrote the song can't live without you",
+        "expected_answer": "Without You (Badfinger song) \"Without You\" is a song written by Pete Ham and Tom Evans of British rock group Badfinger, and first released on their 1970 album No Dice. The song has been recorded by over 180 artists,[1] and versions released as singles by Harry Nilsson (1971) and Mariah Carey (1994) became international best-sellers. Paul McCartney once described the ballad as \"the killer song of all time\".[2]",
+        "llm_response": "The lyrics \"I just wanna be your everything, and I know that if we're together, it'll never end\" are from the song Can't Live Without You by Stevie Wonder.",
+        "overlap_percent": 11.11,
+        "semantic_percent": 35.75
+      },
+      {
+        "id": 11,
+        "question": "approximately what is the minimum surface temperatures (\u00b0c) of mars",
+        "expected_answer": "Climate of Mars Differing in situ values have been reported for the average temperature on Mars,[20] with a common value being \u221255\u00a0\u00b0C (218\u00a0K; \u221267\u00a0\u00b0F).[21] Surface temperatures may reach a high of about 20\u00a0\u00b0C (293\u00a0K; 68\u00a0\u00b0F) at noon, at the equator, and a low of about \u2212153\u00a0\u00b0C (120\u00a0K; \u2212243\u00a0\u00b0F) at the poles.[22] Actual temperature measurements at the Viking landers' site range from \u221217.2\u00a0\u00b0C (256.0\u00a0K; 1.0\u00a0\u00b0F) to \u2212107\u00a0\u00b0C (166\u00a0K; \u2212161\u00a0\u00b0F). The warmest soil temperature estimated by the Viking Orbiter was 27\u00a0\u00b0C (300\u00a0K; 81\u00a0\u00b0F).[23] The Spirit rover recorded a maximum daytime air temperature in the shade of 35\u00a0\u00b0C (308\u00a0K; 95\u00a0\u00b0F), and regularly recorded temperatures well above 0\u00a0\u00b0C (273\u00a0K; 32\u00a0\u00b0F), except in winter.[24]",
+        "llm_response": "-80.3 \u00b0C  -60.4 \u00b0C  -63.9 \u00b0C  -62.1 \u00b0C  -53.6 \u00b0C  -55.7 \u00b0C  -57.2 \u00b0C  -58.0 \u00b0C  -56.5 \u00b0C  -54.8 \u00b0C",
+        "overlap_percent": 0.2,
+        "semantic_percent": 37.65
+      },
+      {
+        "id": 12,
+        "question": "what are the names of florida georgia line",
+        "expected_answer": "Florida Georgia Line Florida Georgia Line (sometimes abbreviated as FGL) is an American country music duo consisting of vocalists Tyler Hubbard and Brian Kelley. Their 2012 debut single \"Cruise\", which remains their most popular song, broke two major sales records: it was downloaded over seven million times, making it the first country song ever to receive the Diamond certification, and it became the best-selling digital country song of all time, with 24 weeks at number one, until it was surpassed in July 2017 by Sam Hunt's \"Body Like a Back Road\".[4] \"Cruise\" helped to pioneer a style of country music known as \"bro-country\", which incorporates production elements from rock and hip-hop music, and tends to cover subject matter such as partying, drinking, driving trucks and romantic attraction.[5] Much of their subsequent music has been tagged with the \"bro-country\" label as well.[6]",
+        "llm_response": "The capital cities of Florida and Georgia are Tallahassee and Atlanta, respectively.",
+        "overlap_percent": 2.64,
+        "semantic_percent": 36.38
+      },
+      {
+        "id": 13,
+        "question": "where did the industrial revolution begin in the late-1700s",
+        "expected_answer": "Industrial Revolution The precise start and end of the Industrial Revolution is still debated among historians, as is the pace of economic and social changes.[11][12][13][14] Eric Hobsbawm held that the Industrial Revolution began in Britain in the 1780s and was not fully felt until the 1830s or 1840s,[11] while T. S. Ashton held that it occurred roughly between 1760 and 1830.[12] Rapid industrialization first began in Britain, starting with mechanized spinning in the 1780s,[15] with high rates of growth in steam power and iron production occurring after 1800. Mechanized textile production spread from Great Britain to continental Europe and the United States in the early 19th century, with important centres of textiles, iron and coal emerging in Belgium and the United States and later textiles in France.[1]",
+        "llm_response": "The Industrial Revolution began in Britain during the late 1700s. It was a period of major economic and social change driven by advancements in technology, particularly in manufacturing processes. This led to significant improvements in productivity, transportation, and communication, which had far-reaching effects on society as a whole.",
+        "overlap_percent": 15.11,
+        "semantic_percent": 81.92
+      },
+      {
+        "id": 14,
+        "question": "where is the andes mountains located in south america",
+        "expected_answer": "Andes The Andes or Andean Mountains (Spanish: Cordillera de los Andes) are the longest continental mountain range in the world. They form a continuous highland along the western edge of South America. This range is about 7,000\u00a0km (4,300\u00a0mi) long, about 200 to 700\u00a0km (120 to 430\u00a0mi) wide (widest between 18\u00b0 south and 20\u00b0 south latitude), and of an average height of about 4,000\u00a0m (13,000\u00a0ft). The Andes extend from north to south through seven South American countries: Venezuela, Colombia, Ecuador, Peru, Bolivia, Argentina and Chile.",
+        "llm_response": "The Andes Mountains are located on the western coast of South America, extending over 7,000 kilometers (4,300 miles) from Venezuela to Chile. They run parallel to the Pacific Ocean and form a natural border between several countries including Colombia, Peru, Ecuador, Bolivia, Argentina, and Chile.",
+        "overlap_percent": 43.77,
+        "semantic_percent": 86.02
+      },
+      {
+        "id": 15,
+        "question": "who built the temple in the sea in trinidad",
+        "expected_answer": "Temple in the Sea The Temple in the Sea is a Hindu pilgrimage site in Waterloo, Carapichaima, Couva-Tabaquite-Talparo, Trinidad and Tobago. It was built by Sewdass Sadhu, an immigrant who came to Trinidad and Tobago from India. It is similar to the Sagar Shiv Mandir in Mauritius.",
+        "llm_response": "The ancient Greeks believed that Poseidon, the god of the sea, was responsible for building temples on islands and coastal areas. It is possible that a Greek civilization may have established a temple dedicated to Poseidon near Trinidad's coastline during its early history. However, there is no specific evidence or historical records indicating the exact location or construction details of this temple. Further research would be needed to determine if such a temple indeed existed in Trinidad.",
+        "overlap_percent": 30.93,
+        "semantic_percent": 56.28
+      },
+      {
+        "id": 16,
+        "question": "what is the general name of the implement used to strike the ball in golf",
+        "expected_answer": "Golf equipment A player usually carries several clubs during the game (but no more than fourteen, the limit defined by the rules). There are three major types of clubs, known as woods, irons, and putters. Woods are played for long shots from the tee or fairway, and occasionally rough, while irons are for precision shots from fairways as well as from the rough. Wedges are irons used to play shorter shots. A new type of club called a hybrid combines the straight-hitting characteristics of irons with the easy-to-hit characteristics of higher-lofted woods. A hybrid is often used for long shots from difficult rough. Hybrids are also used by players who have a difficult time getting the ball airborne with long irons. Wedges are played from difficult ground such as sand or the rough and for approach shots to the green. Putters are mostly played on the green, but can also be useful when playing from bunkers or for some approach shots. Putters have minimal loft, forcing the ball to stay on the putting surface when struck. The most common clubs to find in a golfer's bag are the driver, 3-wood, numbered irons from 3 to 9 (with hybrids commonly replacing the 3 and 4 iron), pitching and sand wedges, and a putter. Players commonly also carry a 5-wood, and/or additional wedges such as a gap or lob wedge.",
+        "llm_response": "The implement used to strike the ball in golf is called a club.",
+        "overlap_percent": 6.32,
+        "semantic_percent": 65.47
+      },
+      {
+        "id": 17,
+        "question": "what is the name of the drawings created as part of a storyboard",
+        "expected_answer": "Storyboard A film storyboard, commonly known as a shooting board, is essentially a series of frames, with drawings of the sequence of events in a film, like a comic book of the film or some section of the film produced beforehand. It helps film directors, cinematographers and television commercial advertising clients visualize the scenes and find potential problems before they occur. Besides this, storyboards also help estimate the cost of the overall production and saves time. Often storyboards include arrows or instructions that indicate movement. For fast-paced action scenes, monochrome line art might suffice. For slower-paced dramatic films with emphasis on lighting, color impressionist style art might be necessary.",
+        "llm_response": "The term \"storyboarding\" refers to the process of creating visual representations, or illustrations, that depict each scene in a film or other media project. These images are used by filmmakers and animators to plan out shots, camera angles, lighting, and special effects before production begins. Storyboards can be drawn on paper or digitally using software like Adobe Photoshop or Illustrator. They typically include sketches of characters, props, backgrounds, and action sequences, along with notes about timing and dialogue.",
+        "overlap_percent": 22.59,
+        "semantic_percent": 86.2
+      },
+      {
+        "id": 18,
+        "question": "where is montana located in the united states",
+        "expected_answer": "Montana Montana is one of the nine Mountain States, located in the north of the region known as the Western United States. It borders North Dakota and South Dakota to the east. Wyoming is to the south, Idaho is to the west and southwest, [15] and three Canadian provinces, British Columbia, Alberta, and Saskatchewan, are to the north.",
+        "llm_response": "Montana.",
+        "overlap_percent": 0.0,
+        "semantic_percent": 64.15
+      },
+      {
+        "id": 19,
+        "question": "who played the orion girl in star trek",
+        "expected_answer": "Orion (Star Trek) The Orions are a fictional extraterrestrial humanoid species in the American science fiction franchise Star Trek, making their first appearance in the initial pilot for Star Trek: The Original Series, \"The Cage\". Susan Oliver portrayed the first Orion seen on screen, when her human character Vina was transformed into one, although it was Majel Barrett who underwent the original makeup test. The footage was subsequently used in the two-part episode \"The Menagerie\". Yvonne Craig, who was considered for the role of Vina, later played an Orion in \"Whom Gods Destroy\".",
+        "llm_response": "Who played the Orion Girl in Star Trek?",
+        "overlap_percent": 13.05,
+        "semantic_percent": 64.85
+      }
+    ]
   }
 ]

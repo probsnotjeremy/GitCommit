@@ -1,5 +1,18 @@
-#!/usr/bin/env python
-# coding: utf-8
+# ---
+# jupyter:
+#   jupytext:
+#     formats: ipynb,py:light
+#     text_representation:
+#       extension: .py
+#       format_name: light
+#       format_version: '1.5'
+#       jupytext_version: 1.17.3
+#   kernelspec:
+#     display_name: Python (vLLM)
+#     language: python
+#     name: vllm-env
+# ---
+
 
 # In[ ]:
 
@@ -37,7 +50,7 @@ model = AutoModelForCausalLM.from_pretrained(
 # --------------------------
 # LLM wrapper
 # --------------------------
-def ask_phi2(user_input, max_new_tokens=64):
+def ask_phi2(user_input, max_new_tokens=128):
     global history
     history.append(f"User: {user_input}")
     prompt = "\n".join(history) + "\nAssistant:"
@@ -66,7 +79,7 @@ def ask_phi2(user_input, max_new_tokens=64):
 def send_to_llm(question):
     global history
     history = []  # reset history per question
-    return ask_phi2(question, max_new_tokens=64)
+    return ask_phi2(question)
 
 # --------------------------
 # LoRA setup
@@ -84,3 +97,5 @@ def make_lora_config(r=16, alpha=32, dropout=0.05):
     )
 
 model = get_peft_model(model, make_lora_config())
+
+
