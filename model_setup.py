@@ -13,13 +13,12 @@
 #     name: vllm-env
 # ---
 
-
-# In[ ]:
-
-
+# +
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 import torch
 from peft import LoraConfig, get_peft_model
+from dataset_prep import ds
+
 
 # --------------------------
 # Global vars
@@ -40,6 +39,8 @@ bnb_config = BitsAndBytesConfig(
 )
 
 tokenizer = AutoTokenizer.from_pretrained(model_id)
+tokenizer.pad_token = tokenizer.eos_token
+
 model = AutoModelForCausalLM.from_pretrained(
     model_id,
     device_map="auto",
@@ -82,6 +83,41 @@ def send_to_llm(question):
     return ask_phi2(question)
 
 # --------------------------
+# Tokenizer
+# --------------------------
+
+raw_dataset = ds
+
+def tokenize_function(examples):
+    inputs = [f"Question: {q}" for q in examples["query"]]
+    targets = [a for a in examples["answer"]]
+
+    model_inputs = tokenizer(
+        inputs,
+        padding="max_length",
+        truncation=True,
+        max_length=256
+    )
+
+    labels = tokenizer(
+        targets,
+        padding="max_length",
+        truncation=True,
+        max_length=256
+    )["input_ids"]
+
+    model_inputs["labels"] = labels
+    return model_inputs
+
+
+tokenized_dataset = raw_dataset.map(
+    tokenize_function,
+    batched=True,
+    remove_columns=["text"]
+)
+
+
+# --------------------------
 # LoRA setup
 # --------------------------
 
@@ -96,6 +132,6 @@ def make_lora_config(r=16, alpha=32, dropout=0.05):
         task_type="CAUSAL_LM"
     )
 
-model = get_peft_model(model, make_lora_config())
+lora_model = get_peft_model(model, make_lora_config())
 
 
