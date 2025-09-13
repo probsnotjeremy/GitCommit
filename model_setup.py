@@ -42,7 +42,7 @@ bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
     bnb_4bit_use_double_quant=True,
     bnb_4bit_quant_type="nf4",
-    bnb_4bit_compute_dtype="float16",  # GTX 1070 supports fp16, not bf16
+    bnb_4bit_compute_dtype="float16",
 )
 
 tokenizer = AutoTokenizer.from_pretrained(model_id)
@@ -113,8 +113,12 @@ def tokenize_function(examples):
         max_length=256
     )["input_ids"]
 
+    # Mask out padding
+    labels = [[(l if l != tokenizer.pad_token_id else -100) for l in label] for label in labels]
     model_inputs["labels"] = labels
+
     return model_inputs
+
 
 
 tokenized_dataset = raw_dataset.map(
@@ -140,5 +144,4 @@ def make_lora_config(r=16, alpha=32, dropout=0.05):
     )
 
 lora_model = get_peft_model(model, make_lora_config())
-
 
