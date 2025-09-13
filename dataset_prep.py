@@ -13,15 +13,10 @@
 #     name: vllm-env
 # ---
 
-
-# In[ ]:
-
-
+# +
 import nltk
 from sentence_transformers import SentenceTransformer, util
 from datasets import load_dataset
-
-
 
 # --------------------------
 # Global vars
@@ -30,7 +25,6 @@ from datasets import load_dataset
 ds = load_dataset("sentence-transformers/natural-questions")
 dataset_split = ds["train"]
 stopwords = {"the", "a", "and", "is", "to", "of", "in", "on"}
-
 # --------------------------
 # WordNet setup
 # --------------------------
@@ -45,14 +39,15 @@ except LookupError:
 # --------------------------
 # SentenceTransformer setup
 # --------------------------
+
 embedder = SentenceTransformer("all-MiniLM-L6-v2", device="cpu")
 
 # --------------------------
 # Text utilities
 # --------------------------
+
 def clean_words(text):
     return [w.lower() for w in text.split() if w.lower() not in stopwords]
-
 def expand_with_synonyms(words):
     expanded = set(words)
     for w in words:
@@ -81,4 +76,3 @@ def semantic_percent(answer, response):
     emb_r = embedder.encode(response, convert_to_tensor=True)
     sim = util.pytorch_cos_sim(emb_a, emb_r).item()
     return sim * 100  # percentage
-

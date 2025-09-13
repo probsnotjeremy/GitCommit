@@ -31,11 +31,18 @@ filename = "TestResults.json"
 # --------------------------
 model_id = "microsoft/phi-2"
 
+# bnb_config = BitsAndBytesConfig(
+#    load_in_8bit=True,
+#    llm_int8_threshold=6.0,
+#    llm_int8_skip_modules=None,
+#    llm_int8_enable_fp32_cpu_offload=False
+# )
+
 bnb_config = BitsAndBytesConfig(
-    load_in_8bit=True,
-    llm_int8_threshold=6.0,
-    llm_int8_skip_modules=None,
-    llm_int8_enable_fp32_cpu_offload=False
+    load_in_4bit=True,
+    bnb_4bit_use_double_quant=True,
+    bnb_4bit_quant_type="nf4",
+    bnb_4bit_compute_dtype="float16",  # GTX 1070 supports fp16, not bf16
 )
 
 tokenizer = AutoTokenizer.from_pretrained(model_id)
@@ -113,7 +120,7 @@ def tokenize_function(examples):
 tokenized_dataset = raw_dataset.map(
     tokenize_function,
     batched=True,
-    remove_columns=["text"]
+    remove_columns=["query", "answer"]
 )
 
 
