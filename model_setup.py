@@ -35,19 +35,19 @@ model_id = "microsoft/phi-2"
 adapter_path = "./qlora_phi2/qlora_phi2_best"
 
 
-# bnb_config = BitsAndBytesConfig(
-#    load_in_8bit=True,
-#    llm_int8_threshold=6.0,
-#    llm_int8_skip_modules=None,
-#    llm_int8_enable_fp32_cpu_offload=False
-# )
-
 bnb_config = BitsAndBytesConfig(
-    load_in_4bit=True,
-    bnb_4bit_use_double_quant=True,
-    bnb_4bit_quant_type="nf4",
-    bnb_4bit_compute_dtype="float16",
+    load_in_8bit=True,
+    llm_int8_threshold=6.0,
+    llm_int8_skip_modules=None,
+    llm_int8_enable_fp32_cpu_offload=False
 )
+
+# bnb_config = BitsAndBytesConfig(
+#     load_in_4bit=True,
+#     bnb_4bit_use_double_quant=True,
+#     bnb_4bit_quant_type="nf4",
+#     bnb_4bit_compute_dtype="float16",
+# )
 
 tokenizer = AutoTokenizer.from_pretrained(model_id)
 tokenizer.pad_token = tokenizer.eos_token
@@ -115,14 +115,14 @@ def tokenize_function(examples):
         inputs,
         padding="max_length",
         truncation=True,
-        max_length=256
+        max_length=128
     )
 
     labels = tokenizer(
         targets,
         padding="max_length",
         truncation=True,
-        max_length=256
+        max_length=128
     )["input_ids"]
 
     # Mask out padding
@@ -156,4 +156,9 @@ def make_lora_config(r=16, alpha=32, dropout=0.05):
     )
 
 lora_model = get_peft_model(model, make_lora_config())
+
+# !jupytext --set-formats ipynb,py:light --sync model_setup.ipynb
+
+# -
+
 
