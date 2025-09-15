@@ -16,8 +16,9 @@
 # +
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 import torch
-from peft import LoraConfig, get_peft_model
+from peft import LoraConfig, PeftModel, get_peft_model
 from dataset_prep import ds
+import os
 
 
 # --------------------------
@@ -30,6 +31,9 @@ filename = "TestResults.json"
 # Setup model + tokenizer
 # --------------------------
 model_id = "microsoft/phi-2"
+
+adapter_path = "./qlora_phi2/qlora_phi2_best"
+
 
 # bnb_config = BitsAndBytesConfig(
 #    load_in_8bit=True,
@@ -48,12 +52,20 @@ bnb_config = BitsAndBytesConfig(
 tokenizer = AutoTokenizer.from_pretrained(model_id)
 tokenizer.pad_token = tokenizer.eos_token
 
-model = AutoModelForCausalLM.from_pretrained(
+base_model = AutoModelForCausalLM.from_pretrained(
     model_id,
     device_map="auto",
     dtype=torch.float16,
     quantization_config=bnb_config
 )
+
+# Check for adapter
+if os.path.exists(os.path.join(adapter_path, "adapter_config.json")):
+    print(f"Loading adapter from {adapter_path}")
+    model = PeftModel.from_pretrained(base_model, adapter_path)
+else:
+    print("No adapter found, using base model only.")
+    model = base_model
 
 # --------------------------
 # LLM wrapper
